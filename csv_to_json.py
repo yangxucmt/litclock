@@ -9,6 +9,7 @@ with open('./data/white.csv','r') as csvfile:
 
 whitelist=whitelist[0]
 json_records=[]
+
 with open('./data/lit_full.csv', 'r') as csvfile:
   # Create a reader object
   csv_reader = csv.reader(csvfile,delimiter='|')
@@ -34,6 +35,29 @@ with open('./data/lit_full.csv', 'r') as csvfile:
             'author': row[4]
              }
         json_records.append(data)
+
+with open('./data/added.csv', 'r') as csvfile:
+  # Create a reader object
+  csv_reader = csv.reader(csvfile,delimiter='|')
+  for row in csv_reader:
+    indicator=True
+    if indicator:
+        quote_time=row[1]
+        quote=row[2]
+        start_index=quote.find(quote_time)
+        quote_first=quote[:start_index]
+        quote_last=quote[start_index+len(quote_time):]
+        data={
+            'time': row[0],
+            'quote_first': quote_first,
+            'quote_time_case': quote_time, 
+            'quote_last': quote_last, 
+            'title': row[3],
+            'author': row[4]
+             }
+        json_records.append(data)
+
+
 with open('./docs/full.json', 'w') as f:
     json.dump(json_records, f,ensure_ascii=False,indent=2)
 
