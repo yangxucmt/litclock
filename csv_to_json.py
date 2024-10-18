@@ -3,13 +3,13 @@ import csv
 
 
 stringlist=['Tolkien','Proust','David Foster Wallace','Virginia Woolf','George Eliot','Jerome K Jerome','Ian McEwan','Philip K Dick','Shakespeare','Fyodor','Victor Hugo','Wilde','Melville','Henry Miller','T.S. Eliot','Graham Greene', 'Chekhov','Huxley','Julian Barnes','Agatha','Leo Tolstoy','Dostoyevsky','Keigo Higashino','Raymond Chandler','Margaret Atwood','Primo Levi','Jules Verne','John le Carré','Félicien de Saulcy','Maya Angelou','Isaac Bashevis','Wislawa Szymborska','Ray Bradbury','Sylvia Plath','Gabriel García Márquez','Jane Austen','G.K. Chesterton','Sinclair Lewis','Roald Dahl','John Updike','George Orwell']
-with open('/Users/xuyang/Downloads/lit-myown/white.csv','r') as csvfile:
+with open('white.csv','r') as csvfile:
     csvreader=csv.reader(csvfile)
     whitelist=[row for row in csvreader]
 
 whitelist=whitelist[0]
 json_records=[]
-with open('/Users/xuyang/Downloads/lit-myown/data/lit_full.csv', 'r') as csvfile:
+with open('./data/lit_full.csv', 'r') as csvfile:
   # Create a reader object
   csv_reader = csv.reader(csvfile,delimiter='|')
   for row in csv_reader:
@@ -34,7 +34,7 @@ with open('/Users/xuyang/Downloads/lit-myown/data/lit_full.csv', 'r') as csvfile
             'author': row[4]
              }
         json_records.append(data)
-with open('/Users/xuyang/Downloads/lit-myown/docs/full.json', 'w') as f:
+with open('./docs/full.json', 'w') as f:
     json.dump(json_records, f,ensure_ascii=False,indent=2)
 
 timeindicator=0
@@ -47,7 +47,7 @@ for hour in range(24):  # Loop from 0 to 23 for the hours
                 json_timerecord.append(item)
         if json_timerecord:
             timeindicator+=1
-            with open(f'/Users/xuyang/Downloads/lit-myown/docs/times/{hour:02d}_{minute:02d}.json', 'w') as f:
+            with open(f'./docs/times/{hour:02d}_{minute:02d}.json', 'w') as f:
                     json.dump(json_timerecord, f,ensure_ascii=False,indent=2)
 
 print(timeindicator)
