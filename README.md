@@ -1,8 +1,9 @@
 Software:
 1. Fix the upper/lower case mismatch
 2. < br >
+3. The problem of Mr and Mr.
 3. Add Easter eggs
-4. Install pyqt5
+4. Solve the problem of not having the time I want.
 5. Configure the gui 
 
 Hardware:
