@@ -2,9 +2,10 @@ Software:
 1. Fix the upper/lower case mismatch
 2. < br >
 3. The problem of Mr and Mr.
-3. Add Easter eggs
-4. Solve the problem of not having the time I want.
-5. Configure the gui 
+3. Add Easter eggs, bible verses, and other things.
+4. Configure the gui
+
+So now I basically have every 10 minute covered by at least one quote.
 
 Hardware:
 1. Purchase a raspberry pi or whatever with the same functionality
