@@ -1,6 +1,6 @@
 Software:
 1. Fix the upper/lower case mismatch
-2. <br>
+2. < br >
 3. Add Easter eggs
 4. Install pyqt5
 5. Configure the gui 
