@@ -3,7 +3,7 @@ import csv
 
 
 stringlist=['Tolkien','Proust','David Foster Wallace','Virginia Woolf','George Eliot','Jerome K Jerome','Ian McEwan','Philip K Dick','Shakespeare','Fyodor','Victor Hugo','Wilde','Melville','Henry Miller','T.S. Eliot','Graham Greene', 'Chekhov','Huxley','Julian Barnes','Agatha','Leo Tolstoy','Dostoyevsky','Keigo Higashino','Raymond Chandler','Margaret Atwood','Primo Levi','Jules Verne','John le Carré','Félicien de Saulcy','Maya Angelou','Isaac Bashevis','Wislawa Szymborska','Ray Bradbury','Sylvia Plath','Gabriel García Márquez','Jane Austen','G.K. Chesterton','Sinclair Lewis','Roald Dahl','John Updike','George Orwell']
-with open('white.csv','r') as csvfile:
+with open('./data/white.csv','r') as csvfile:
     csvreader=csv.reader(csvfile)
     whitelist=[row for row in csvreader]
 

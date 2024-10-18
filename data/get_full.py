@@ -1,14 +1,14 @@
 import json
 import csv
 
-with open('/Users/xuyang/Downloads/lit-myown/white.csv','r') as csvfile:
+with open('white.csv','r') as csvfile:
     csvreader=csv.reader(csvfile)
     whitelist=[row for row in csvreader]
 
 whitelist=whitelist[0]
 
 string_records=[] #This collects all the strings
-with open('/Users/xuyang/Downloads/lit-myown/data/litclock_annotated.csv', 'r') as csvfile:
+with open('litclock_annotated.csv', 'r') as csvfile:
   # Create a reader object
   csv_reader = csv.reader(csvfile,delimiter='|')
   for row in csv_reader:
@@ -21,7 +21,7 @@ with open('/Users/xuyang/Downloads/lit-myown/data/litclock_annotated.csv', 'r') 
     if indicator:
         string_records.append(row)
 
-with open('/Users/xuyang/Downloads/lit-myown/data/litclock_annotated_br2.csv', 'r') as csvfile:
+with open('litclock_annotated_br2.csv', 'r') as csvfile:
   # Create a reader object
   csv_reader = csv.reader(csvfile,delimiter='|')
   for row in csv_reader:
@@ -41,7 +41,7 @@ with open('/Users/xuyang/Downloads/lit-myown/data/litclock_annotated_br2.csv', '
             string_records.append(row)
 
 
-with open('/Users/xuyang/Downloads/lit-myown/data/Fx9.csv', 'r') as csvfile:
+with open('Fx9.csv', 'r') as csvfile:
   # Create a reader object
   csv_reader = csv.reader(csvfile,delimiter='|')
   for row in csv_reader:
@@ -62,7 +62,7 @@ with open('/Users/xuyang/Downloads/lit-myown/data/Fx9.csv', 'r') as csvfile:
         if duplicate:
             string_records.append(row)
 
-with open('/Users/xuyang/Downloads/lit-myown/data/litclock_annotated_ver.csv', 'r') as csvfile:
+with open('litclock_annotated_ver.csv', 'r') as csvfile:
   # Create a reader object
   csv_reader = csv.reader(csvfile,delimiter='|')
   for row in csv_reader:
@@ -86,7 +86,7 @@ with open('/Users/xuyang/Downloads/lit-myown/data/litclock_annotated_ver.csv', '
 sorted_data = sorted(string_records, key=lambda x: x[0])
 
 
-with open('/Users/xuyang/Downloads/lit-myown/data/lit_full.csv', mode='w', newline='') as file:
+with open('lit_full.csv', mode='w', newline='') as file:
     writer = csv.writer(file, delimiter='|')
     writer.writerows(sorted_data)
 

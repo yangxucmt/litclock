@@ -41,10 +41,26 @@
   },
   {
     "time": "13:00",
+    "quote_first": "Czarina Catherine reported entering Galatz at ",
+    "quote_time_case": "one o'clock",
+    "quote_last": " today.",
+    "title": "Dracula",
+    "author": "Bram Stoker"
+  },
+  {
+    "time": "13:00",
     "quote_first": "It was a bright cold day in April, and the clocks were striking ",
     "quote_time_case": "thirteen",
     "quote_last": ".",
     "title": "1984",
     "author": "George Orwell"
+  },
+  {
+    "time": "13:00",
+    "quote_first": "“Czarina Catherine reported entering Galatz at ",
+    "quote_time_case": "one o'clock",
+    "quote_last": " today.”",
+    "title": "Dracula ",
+    "author": "Bram Stoker"
   }
 ]
