@@ -1,3 +1,16 @@
+Software:
+1. Fix the upper/lower case mismatch
+2. <br>
+3. Add Easter eggs
+4. Install pyqt5
+5. Configure the gui 
+
+Hardware:
+1. Purchase a raspberry pi or whatever with the same functionality
+2. Get a touchscreen
+3. 
+
+
 # literature-clock
 Clock using time quotes from the literature, based on work and idea by
         [Jaap Meijers](http://www.eerlijkemedia.nl/) ([E-reader clock](https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/)).
