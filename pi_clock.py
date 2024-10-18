@@ -138,21 +138,27 @@ class clockWidget(QWidget):
         #check to see if the minute has updated from last time, if so run setTime()
         if datetime.now().minute != self.currentMin:
             self.currentMin=datetime.now().minute
-            self.setTime(datetime.now().strftime('%H:%M'))
+            self.setTime(datetime.now().strftime('%H_%M'))
             log.debug('Update min {}'.format(self.currentMin))
     def loadData(self):
         #load the data from the json files into a dict. It would have been easier if it was one big file, but its a file per minute
         self.quote_data=dict()
         
+        #We can use a temporary variable to store the last time.
+        lasttime='{:02d}_{:02d}'.format(0,0)
         for hours in range(24):
             for mins in range(60):
-                time="{:02d}_{:02d}".format(hours,mins)
-                filename="docs/times/{:s}.json".format(time)
+                time='{:02d}_{:02d}'.format(hours,mins)
+                filename='docs/times/{:s}.json'.format(time)
                 try:
                     with open(filename,'r') as jfile:
                         self.quote_data[time]=json.load(jfile)
+                        lasttime=time
                 except Exception:
-                    log.error('Cannot load {}'.format(filename))
+                    lastfilename='docs/times/{:s}.json'.format(lasttime)
+                    with open(lastfilename,'r') as jfile:
+                        self.quote_data[time]=json.load(jfile)
+
     def _getQuote(self,time_str):
         #get a select a quote for the time, some times have multiple quotes so pick one at random
         return random.choice(self.quote_data[time_str])
