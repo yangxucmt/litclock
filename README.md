@@ -2,7 +2,7 @@ Software:
 1. Fix the upper/lower case mismatch
 2. < br >
 3. The problem of Mr and Mr.
-3. Add Easter eggs, bible verses, and other things.
+3. Add Easter eggs, bible verses, and other things. Especially one quote from my novel-to-write.
 4. Configure the gui
 
 So now I basically have every 10 minute covered by at least one quote.
