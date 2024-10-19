@@ -1,7 +1,7 @@
 Software:
 1. Fix the upper/lower case mismatch
 2. < br >
-3. The problem of Mr and Mr.
+3. The problem of Mr and Mr..
 3. Add Easter eggs, bible verses, and other things. Especially one quote from my novel-to-write.
 4. Configure the gui
 
@@ -10,8 +10,11 @@ So now I basically have every 10 minute covered by at least one quote.
 Hardware:
 1. Purchase a raspberry pi or whatever with the same functionality
 2. Get a touchscreen
-3. 
 
+
+Update 19 Oct:
+After an intense study of available devices, I finally decided to use Raspberry Pi 3 A+ and a touchscreen to implement the . They cost around 100 usd in total. The budget is 200 usd so I can still afford some extra accessories and the international shipping fee. It is very slow to get electronic devices shipped to Singapore from abroad so I chose a local supplier, which would still take me 1-3 days. Hope I can make it ASAP. In fact, I am thinking of extending the project to include other cool stuff that could bring surprises my Ni. My eyes are opened!
+In the mean-time I could continue modifying the softwares.
 
 # literature-clock
 Clock using time quotes from the literature, based on work and idea by
