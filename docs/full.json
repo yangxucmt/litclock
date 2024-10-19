@@ -8384,7 +8384,7 @@
     "author": "Sir Arthur Conan Doyle"
   },
   {
-    "time": "6:41",
+    "time": "06:41",
     "quote_first": "He made it to Grand Central well in advance. Stillman's train was not due to arrive until ",
     "quote_time_case": "six forty-one",
     "quote_last": ", but Quinn wanted time to study the geography of the place, to make sure that Stillman would not be able to slip away from him.",
@@ -8392,15 +8392,15 @@
     "author": "Paul Auster"
   },
   {
-    "time": "6:37",
-    "quote_first": "Amy: What's that? I thought I saw someone pass the window. What time is it?<br/>Charles: ",
+    "time": "06:37",
+    "quote_first": "Amy: What's that? I thought I saw someone pass the window. What time is it? Charles: ",
     "quote_time_case": "Nearly twenty to seven",
     "quote_last": ".",
     "title": "The Family Reunion",
     "author": "T.S. Eliot"
   },
   {
-    "time": "6:55",
+    "time": "06:55",
     "quote_first": "... You had no reason to think the times important. Indeed how suspicious it would be if you had been completely accurate. ''Haven't I been?'' Not quite. It was ",
     "quote_time_case": "five to seven",
     "quote_last": " that you talked to Wilkins. ''Another ten minutes.\"",
@@ -8424,11 +8424,315 @@
     "author": "Ian Fleming"
   },
   {
-    "time": "20:07",
+    "time": "01:18",
     "quote_first": "",
-    "quote_time_case": "20:07",
-    "quote_last": " Some trust in chariots and some in horses, but we trust in the name of the Lord our God.",
-    "title": "Psalms",
+    "quote_time_case": "1:18",
+    "quote_last": " For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.",
+    "title": "1 Corinthians",
+    "author": "ESV"
+  },
+  {
+    "time": "13:18",
+    "quote_first": "",
+    "quote_time_case": "1:18",
+    "quote_last": " For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.",
+    "title": "1 Corinthians",
+    "author": "ESV"
+  },
+  {
+    "time": "14:24",
+    "quote_first": "",
+    "quote_time_case": "2:24",
+    "quote_last": " Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.",
+    "title": "Genesis",
+    "author": "ESV"
+  },
+  {
+    "time": "14:23",
+    "quote_first": "",
+    "quote_time_case": "2:23",
+    "quote_last": " Then the man said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.”",
+    "title": "Genesis",
+    "author": "ESV"
+  },
+  {
+    "time": "16:10",
+    "quote_first": "",
+    "quote_time_case": "4:10",
+    "quote_last": " How beautiful is your love, my sister, my bride! How much better is your love than wine, and the fragrance of your oils than any spice!",
+    "title": "Song of Solomon",
+    "author": "ESV"
+  },
+  {
+    "time": "18:10",
+    "quote_first": "",
+    "quote_time_case": "6:10",
+    "quote_last": " “Who is this who looks down like the dawn, beautiful as the moon, bright as the sun, awesome as an army with banners?”",
+    "title": "Song of Solomon",
+    "author": "ESV"
+  },
+  {
+    "time": "15:16",
+    "quote_first": "",
+    "quote_time_case": "3:16",
+    "quote_last": " “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+    "title": "John",
+    "author": "ESV"
+  },
+  {
+    "time": "19:10",
+    "quote_first": "",
+    "quote_time_case": "7:10",
+    "quote_last": " I am my beloved's, and his desire is for me.",
+    "title": "Song of Solomon",
+    "author": "ESV"
+  },
+  {
+    "time": "15:16",
+    "quote_first": "",
+    "quote_time_case": "3:16",
+    "quote_last": " Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.",
+    "title": "1 Timothy",
+    "author": "ESV"
+  },
+  {
+    "time": "13:13",
+    "quote_first": "",
+    "quote_time_case": "1:13",
+    "quote_last": " and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "13:14",
+    "quote_first": "",
+    "quote_time_case": "1:14",
+    "quote_last": " The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire,",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "13:15",
+    "quote_first": "",
+    "quote_time_case": "1:15",
+    "quote_last": " his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters.",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "13:16",
+    "quote_first": "",
+    "quote_time_case": "1:16",
+    "quote_last": " In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "22:13",
+    "quote_first": "",
+    "quote_time_case": "22:13",
+    "quote_last": "  I am the Alpha and the Omega, the first and the last, the beginning and the end.”",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "16:19",
+    "quote_first": "",
+    "quote_time_case": "4:19",
+    "quote_last": " Greet Priscilla and Aquila and the household of Onesiphorus.",
+    "title": "2 Timothy",
+    "author": "NIV"
+  },
+  {
+    "time": "09:31",
+    "quote_first": "",
+    "quote_time_case": "9:31",
+    "quote_last": " And as Jehu entered the gate, she said, “Is it peace, you Zimri, murderer of your master?”",
+    "title": "2 Kings",
+    "author": "ESV"
+  },
+  {
+    "time": "21:31",
+    "quote_first": "",
+    "quote_time_case": "9:31",
+    "quote_last": " And as Jehu entered the gate, she said, “Is it peace, you Zimri, murderer of your master?”",
+    "title": "2 Kings",
+    "author": "ESV"
+  },
+  {
+    "time": "08:11",
+    "quote_first": "",
+    "quote_time_case": "8:11",
+    "quote_last": " And he fixed his gaze and stared at him, until he was embarrassed. And the man of God wept.",
+    "title": "2 Kings",
+    "author": "ESV"
+  },
+  {
+    "time": "20:11",
+    "quote_first": "",
+    "quote_time_case": "8:11",
+    "quote_last": " And he fixed his gaze and stared at him, until he was embarrassed. And the man of God wept.",
+    "title": "2 Kings",
+    "author": "ESV"
+  },
+  {
+    "time": "17:45",
+    "quote_first": "",
+    "quote_time_case": "17:45",
+    "quote_last": " Then David said to the Philistine, “You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the Lord of hosts, the God of the armies of Israel, whom you have defied.",
+    "title": "1 Samuel",
+    "author": "ESV"
+  },
+  {
+    "time": "13:26",
+    "quote_first": "",
+    "quote_time_case": "1:26",
+    "quote_last": "  I am distressed for you, my brother Jonathan; very pleasant have you been to me; your love to me was extraordinary, surpassing the love of women.",
+    "title": "2 Samuel",
+    "author": "ESV"
+  },
+  {
+    "time": "14:25",
+    "quote_first": "",
+    "quote_time_case": "14:25",
+    "quote_last": " Now in all Israel there was no one so much to be praised for his handsome appearance as Absalom. From the sole of his foot to the crown of his head there was no blemish in him.",
+    "title": "2 Samuel",
+    "author": "ESV"
+  },
+  {
+    "time": "21:25",
+    "quote_first": "",
+    "quote_time_case": "21:25",
+    "quote_last": " In those days there was no king in Israel. Everyone did what was right in his own eyes.",
+    "title": "Judges",
+    "author": "ESV"
+  },
+  {
+    "time": "21:20",
+    "quote_first": "",
+    "quote_time_case": "21:20",
+    "quote_last": " Ahab said to Elijah, “Have you found me, O my enemy?” He answered, “I have found you, because you have sold yourself to do what is evil in the sight of the Lord.",
+    "title": "1 Kings",
+    "author": "ESV"
+  },
+  {
+    "time": "21:14",
+    "quote_first": "",
+    "quote_time_case": "21:14",
+    "quote_last": " Then Achish said to his servants, “Behold, you see the man is mad. Why then have you brought him to me?",
+    "title": "1 Samuel",
+    "author": "ESV"
+  },
+  {
+    "time": "18:11",
+    "quote_first": "",
+    "quote_time_case": "18:11",
+    "quote_last": " And Saul hurled the spear, for he thought, “I will pin David to the wall.” But David evaded him twice.",
+    "title": "1 Samuel",
+    "author": "ESV"
+  },
+  {
+    "time": "16:19",
+    "quote_first": "",
+    "quote_time_case": "16:19",
+    "quote_last": " The churches in the province of Asia send you greetings. Aquila and Priscilla greet you warmly in the Lord, and so does the church that meets at their house.",
+    "title": "1 Corinthians",
+    "author": "NIV"
+  },
+  {
+    "time": "13:18",
+    "quote_first": "",
+    "quote_time_case": "1:18",
+    "quote_last": " Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures.",
+    "title": "James",
+    "author": "ESV"
+  },
+  {
+    "time": "12:10",
+    "quote_first": "",
+    "quote_time_case": "12:10",
+    "quote_last": " For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness.",
+    "title": "Hebrews",
+    "author": "ESV"
+  },
+  {
+    "time": "12:11",
+    "quote_first": "",
+    "quote_time_case": "12:11",
+    "quote_last": " For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.",
+    "title": "Hebrews",
+    "author": "ESV"
+  },
+  {
+    "time": "11:16",
+    "quote_first": "",
+    "quote_time_case": "11:16",
+    "quote_last": " But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared for them a city.",
+    "title": "Hebrews",
+    "author": "ESV"
+  },
+  {
+    "time": "23:16",
+    "quote_first": "",
+    "quote_time_case": "11:16",
+    "quote_last": " But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared for them a city.",
+    "title": "Hebrews",
+    "author": "ESV"
+  },
+  {
+    "time": "16:15",
+    "quote_first": "",
+    "quote_time_case": "4:15",
+    "quote_last": " For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.",
+    "title": "Hebrews",
+    "author": "ESV"
+  },
+  {
+    "time": "22:16",
+    "quote_first": "",
+    "quote_time_case": "22:16",
+    "quote_last": " “I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star.”",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "22:17",
+    "quote_first": "",
+    "quote_time_case": "22:17",
+    "quote_last": " The Spirit and the Bride say, “Come.” And let the one who hears say, “Come.” And let the one who is thirsty come; let the one who desires take the water of life without price.",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "22:20",
+    "quote_first": "",
+    "quote_time_case": "22:20",
+    "quote_last": " He who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!",
+    "title": "Revelation",
+    "author": "ESV"
+  },
+  {
+    "time": "13:17",
+    "quote_first": "",
+    "quote_time_case": "1:17",
+    "quote_last": " Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.",
+    "title": "James",
+    "author": "ESV"
+  },
+  {
+    "time": "15:15",
+    "quote_first": "",
+    "quote_time_case": "3:15",
+    "quote_last": " but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,",
+    "title": "1 Peter",
+    "author": "ESV"
+  },
+  {
+    "time": "16:14",
+    "quote_first": "",
+    "quote_time_case": "4:14",
+    "quote_last": " yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.",
+    "title": "James",
     "author": "ESV"
   },
   {
