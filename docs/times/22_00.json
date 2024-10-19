@@ -35,7 +35,7 @@
     "time": "22:00",
     "quote_first": "On Saturday nights I still sat in the same chair in the dorm lobby. I knew a phone call wouldn’t come, but I had no idea what else to do. I turned on the TV set and pre",
     "quote_time_case": "ten",
-    "quote_last": "ded to watch baseball. And gazed at the indeterminate space between me and the set. I divided that space into two, and again into two. I did this over and over, until I’d made a space so small it could fit in the palm of my hand.<br>At ten I turned off the TV, went back to my room, and went to sleep.",
+    "quote_last": "ded to watch baseball. And gazed at the indeterminate space between me and the set. I divided that space into two, and again into two. I did this over and over, until I’d made a space so small it could fit in the palm of my hand. At ten I turned off the TV, went back to my room, and went to sleep.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -57,15 +57,15 @@
   },
   {
     "time": "22:00",
-    "quote_first": "“A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night.”<br>“At what time?”<br>“Ten will be early enough.”<br>“I shall be at Baker Street at ",
+    "quote_first": "“A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night.” “At what time?” “",
     "quote_time_case": "ten",
-    "quote_last": ".”",
+    "quote_last": " will be early enough.” “I shall be at Baker Street at ten.”",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "22:00",
-    "quote_first": "Her body asserted itself with a restless movement of her knee, and she stood up.<br>“",
+    "quote_first": "Her body asserted itself with a restless movement of her knee, and she stood up. “",
     "quote_time_case": "Ten o’clock",
     "quote_last": ",” she remarked, apparently finding the time on the ceiling. “Time for this good girl to go to bed.”",
     "title": "The Great Gatsby",
@@ -113,27 +113,11 @@
   },
   {
     "time": "22:00",
-    "quote_first": "We let our upstairs room to a certain Mr. Goudsmit, a divorced man in his thirties, who appeared to have nothing to do on this particular evening; we simply could not get rid of him without being rude; he hung about until ",
+    "quote_first": "We let our upstairs room to a certain Mr Goudsmit, a divorced man in his thirties, who appeared to have nothing to do on this particular evening; we simply could not get rid of him without being rude; he hung about until ",
     "quote_time_case": "ten o'clock",
     "quote_last": ".",
     "title": "Anne Frank: The Diary of a Young Girl",
     "author": "Anne Frank"
-  },
-  {
-    "time": "22:00",
-    "quote_first": "On Saturday nights I still sat in the same chair in the dorm lobby. I knew a phone call wouldn’t come, but I had no idea what else to do. I turned on the TV set and pre",
-    "quote_time_case": "ten",
-    "quote_last": "ded to watch baseball. And gazed at the indeterminate space between me and the set. I divided that space into two, and again into two. I did this over and over, until I’d made a space so small it could fit in the palm of my hand. At ten I turned off the TV, went back to my room, and went to sleep.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "22:00",
-    "quote_first": "“A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night.” “At what time?” “Ten will be early enough.” “I shall be at Baker Street at ",
-    "quote_time_case": "ten",
-    "quote_last": ".”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "22:00",
@@ -145,14 +129,6 @@
   },
   {
     "time": "22:00",
-    "quote_first": "Her body asserted itself with a restless movement of her knee, and she stood up. “",
-    "quote_time_case": "Ten o’clock",
-    "quote_last": ",” she remarked, apparently finding the time on the ceiling. “Time for this good girl to go to bed.”",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
-  },
-  {
-    "time": "22:00",
     "quote_first": "“",
     "quote_time_case": "Ten o’clock",
     "quote_last": " found them penniless. They had suppered greatly on their last eleven cents and, singing, strolled up through the casinos and lighted arches on the boardwalk, stopping to listen approvingly to all band concerts.”",
@@ -161,9 +137,9 @@
   },
   {
     "time": "22:00",
-    "quote_first": "Her body asserted itself with a restless movement of the knee, and she stood up. 'Ten o'clock,' she remarked, apparently finding the time on the ceiling. 'Time for this good girl to go to bed.",
+    "quote_first": "Her body asserted itself with a restless movement of the knee, and she stood up. '",
     "quote_time_case": "ten o'clock",
-    "quote_last": "sserted itself with a restless movement of the knee, and she stood up. 'Ten o'clock,' she remarked, apparently finding the time on the ceiling. 'Time for this good girl to go to bed.'",
+    "quote_last": ",' she remarked, apparently finding the time on the ceiling. 'Time for this good girl to go to bed.'",
     "title": "The Great Gatsby ",
     "author": "F. Scott Fitzgerald"
   },

@@ -41,7 +41,7 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Farewell, sweet playfellow: pray thou for us;<br>And good luck grant thee thy Demetrius!-<br>Keep word, Lysander: we must starve our sight<br>From lovers’ food till morrow deep ",
+    "quote_first": "Farewell, sweet playfellow: pray thou for us; And good luck grant thee thy Demetrius!- Keep word, Lysander: we must starve our sight From lovers’ food till morrow deep ",
     "quote_time_case": "midnight",
     "quote_last": ".",
     "title": "A Midsummer Night’s Dream",
@@ -81,9 +81,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Midnight, you said. What is ",
+    "quote_first": "",
     "quote_time_case": "midnight",
-    "quote_last": " to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+    "quote_last": ", you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
     "title": "Pale Fire",
     "author": "Vladimir Nabokov"
   },
@@ -169,9 +169,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Midnight had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - ",
+    "quote_first": "",
     "quote_time_case": "midnight",
-    "quote_last": " was upon them all.",
+    "quote_last": " had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - midnight was upon them all.",
     "title": "Oliver Twist",
     "author": "Charles Dickens"
   },
@@ -217,14 +217,6 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“Excellent. You are not averse to this trip, Watson?” “By no means.” “Then we shall both come. What are you going to do yourself?” “I have one or two things which I would wish to do now that I am in town. But I shall return by the ",
-    "quote_time_case": "twelve o’clock",
-    "quote_last": " train, so as to be there in time for your coming.”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "00:00",
     "quote_first": "“On the night after his ride to Lawrenceville a crowd sallied to New York in quest of adventure, and started back to Princeton about ",
     "quote_time_case": "twelve o’clock",
     "quote_last": " in two machines. It had been a gay party and different stages of sobriety were represented.”",
@@ -241,9 +233,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "\"Midnight,\" you said. What is ",
+    "quote_first": "\"",
     "quote_time_case": "midnight",
-    "quote_last": " to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+    "quote_last": ",\" you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
     "title": "Pale Fire ",
     "author": "Vladimir Nabokov"
   },

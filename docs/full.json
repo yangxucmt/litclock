@@ -41,7 +41,7 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Farewell, sweet playfellow: pray thou for us;<br>And good luck grant thee thy Demetrius!-<br>Keep word, Lysander: we must starve our sight<br>From lovers’ food till morrow deep ",
+    "quote_first": "Farewell, sweet playfellow: pray thou for us; And good luck grant thee thy Demetrius!- Keep word, Lysander: we must starve our sight From lovers’ food till morrow deep ",
     "quote_time_case": "midnight",
     "quote_last": ".",
     "title": "A Midsummer Night’s Dream",
@@ -81,9 +81,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Midnight, you said. What is ",
+    "quote_first": "",
     "quote_time_case": "midnight",
-    "quote_last": " to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+    "quote_last": ", you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
     "title": "Pale Fire",
     "author": "Vladimir Nabokov"
   },
@@ -169,9 +169,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Midnight had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - ",
+    "quote_first": "",
     "quote_time_case": "midnight",
-    "quote_last": " was upon them all.",
+    "quote_last": " had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - midnight was upon them all.",
     "title": "Oliver Twist",
     "author": "Charles Dickens"
   },
@@ -217,14 +217,6 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“Excellent. You are not averse to this trip, Watson?” “By no means.” “Then we shall both come. What are you going to do yourself?” “I have one or two things which I would wish to do now that I am in town. But I shall return by the ",
-    "quote_time_case": "twelve o’clock",
-    "quote_last": " train, so as to be there in time for your coming.”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "00:00",
     "quote_first": "“On the night after his ride to Lawrenceville a crowd sallied to New York in quest of adventure, and started back to Princeton about ",
     "quote_time_case": "twelve o’clock",
     "quote_last": " in two machines. It had been a gay party and different stages of sobriety were represented.”",
@@ -241,9 +233,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "\"Midnight,\" you said. What is ",
+    "quote_first": "\"",
     "quote_time_case": "midnight",
-    "quote_last": " to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+    "quote_last": ",\" you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
     "title": "Pale Fire ",
     "author": "Vladimir Nabokov"
   },
@@ -339,14 +331,6 @@
     "time": "00:12",
     "quote_first": "Clock time is ",
     "quote_time_case": "0 Hours, 12 Minutes",
-    "quote_last": ", 0 Seconds. Twenty three minutes later, they have their first sight of Venus. Each lies with his Eye clapp'd to the Snout of an identical two and a half foot Gregorian reflector made by Mr. Short, with Darkening-Nozzles by Mr. Bird.",
-    "title": "Mason & Dixon",
-    "author": "Thomas Pynchon"
-  },
-  {
-    "time": "00:12",
-    "quote_first": "Clock time is ",
-    "quote_time_case": "0 Hours, 12 Minutes",
     "quote_last": ", 0 Seconds. Twenty three minutes later, they have their first sight of Venus. Each lies with his Eye clapp'd to the Snout of an identical two and a half foot Gregorian reflector made by Mr Short, with Darkening-Nozzles by Mr Bird.",
     "title": "Mason & Dixon",
     "author": "Thomas Pynchon"
@@ -369,7 +353,7 @@
   },
   {
     "time": "00:20",
-    "quote_first": "“But by the time he reached the top of the hill the woman’s body had basically been eaten up already by the flies, right?” my friend said.<br>“In a sense,” his girlfriend replied.<br>“In a sense being eaten by the flies makes it a sad story, doesn’t it?” my friend said.<br>“Yes, I guess so,” she said after giving it some thought. “What do you think?” she asked me.<br>“Sounds like a sad story to me,” I replied.<br>It was ",
+    "quote_first": "“But by the time he reached the top of the hill the woman’s body had basically been eaten up already by the flies, right?” my friend said. “In a sense,” his girlfriend replied. “In a sense being eaten by the flies makes it a sad story, doesn’t it?” my friend said. “Yes, I guess so,” she said after giving it some thought. “What do you think?” she asked me. “Sounds like a sad story to me,” I replied. It was ",
     "quote_time_case": "twelve twenty",
     "quote_last": " when my cousin came back.",
     "title": "Blind Willow, Sleeping Woman",
@@ -382,14 +366,6 @@
     "quote_last": ", but already my tension was over. Pyle had diminished.",
     "title": "The Quiet American",
     "author": "Graham Greene"
-  },
-  {
-    "time": "00:20",
-    "quote_first": "“But by the time he reached the top of the hill the woman’s body had basically been eaten up already by the flies, right?” my friend said. “In a sense,” his girlfriend replied. “In a sense being eaten by the flies makes it a sad story, doesn’t it?” my friend said. “Yes, I guess so,” she said after giving it some thought. “What do  you think?” she asked me. “Sounds like a sad story to me,” I replied. It was ",
-    "quote_time_case": "twelve twenty",
-    "quote_last": " when my cousin came back.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "00:25",
@@ -409,9 +385,9 @@
   },
   {
     "time": "00:43",
-    "quote_first": "Died five minutes ago, you say? he asked. His eye went to the watch on his wrist. Twelve-forty-three, he wrote on the blotter",
+    "quote_first": "Died five minutes ago, you say? he asked. His eye went to the watch on his wrist. ",
     "quote_time_case": "twelve-forty-three",
-    "quote_last": " ago, you say? he asked. His eye went to the watch on his wrist. Twelve-forty-three, he wrote on the blotter.",
+    "quote_last": ", he wrote on the blotter.",
     "title": "A Pocket Full of Rye",
     "author": "Agatha Christie"
   },
@@ -497,7 +473,7 @@
   },
   {
     "time": "01:00",
-    "quote_first": "The more he thought about it the more puzzled he was… He didn’t understand this revolver<br>business…<br>Somebody in the house had got that revolver…<br>Downstairs a clock ",
+    "quote_first": "The more he thought about it the more puzzled he was… He didn’t understand this revolver business… Somebody in the house had got that revolver… Downstairs a clock ",
     "quote_time_case": "struck one",
     "quote_last": ".",
     "title": "And Then There Were None",
@@ -510,14 +486,6 @@
     "quote_last": ".",
     "title": "Hamlet",
     "author": "William Shakespeare"
-  },
-  {
-    "time": "01:00",
-    "quote_first": "The more he thought about it the more puzzled he was… He didn’t understand this revolver business… Somebody in the house had got that revolver… Downstairs a clock ",
-    "quote_time_case": "struck one",
-    "quote_last": ".",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
   },
   {
     "time": "01:00",
@@ -587,25 +555,17 @@
     "time": "01:30",
     "quote_first": "The following day, at ",
     "quote_time_case": "one-thirty",
-    "quote_last": ", I call on Van Norden. It’s his day off, or rather his night off. He has left work with Carl that I am to help him move today. <br>I find him in a state of unusual depression. He hasn’t slept a wink all night, he tells me. There’s something on his mind, something that’s eating him up.",
-    "title": "Tropic of Cancer",
-    "author": "Henry Miller"
-  },
-  {
-    "time": "01:30",
-    "quote_first": "Half-past one, The street lamp sputtered, The street lamp muttered, The street lamp said, \"Regard that woman ...",
-    "quote_time_case": "half-past one",
-    "quote_last": "e, The street lamp sputtered, The street lamp muttered, The street lamp said, \"Regard that woman ...\"",
-    "title": "Rhapsody on a Windy Night",
-    "author": "T.S. Eliot"
-  },
-  {
-    "time": "01:30",
-    "quote_first": "The following day, at ",
-    "quote_time_case": "one-thirty",
     "quote_last": ", I call on Van Norden. It’s his day off, or rather his night off. He has left work with Carl that I am to help him move today.  I find him in a state of unusual depression. He hasn’t slept a wink all night, he tells me. There’s something on his mind, something that’s eating him up.",
     "title": "Tropic of Cancer",
     "author": "Henry Miller"
+  },
+  {
+    "time": "01:30",
+    "quote_first": "",
+    "quote_time_case": "half-past one",
+    "quote_last": ", The street lamp sputtered, The street lamp muttered, The street lamp said, \"Regard that woman ...\"",
+    "title": "Rhapsody on a Windy Night",
+    "author": "T.S. Eliot"
   },
   {
     "time": "01:32",
@@ -617,9 +577,9 @@
   },
   {
     "time": "01:32",
-    "quote_first": "She grinned at him with malicious playfulness, showing great square teeth, and then ran for the stairs. One-thirty-two. She thought that she heard a whistle blown and took the last three steps in one stride",
+    "quote_first": "She grinned at him with malicious playfulness, showing great square teeth, and then ran for the stairs. ",
     "quote_time_case": "one-thirty-two",
-    "quote_last": "t him with malicious playfulness, showing great square teeth, and then ran for the stairs. One-thirty-two. She thought that she heard a whistle blown and took the last three steps in one stride.",
+    "quote_last": ". She thought that she heard a whistle blown and took the last three steps in one stride.",
     "title": "Stamboul Train",
     "author": "Graham Greene"
   },
@@ -641,7 +601,7 @@
   },
   {
     "time": "02:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes:<br>“There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about ",
+    "quote_first": "“My dear Mr Sherlock Holmes: “There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about ",
     "quote_time_case": "two in the morning",
     "quote_last": ", and as the house was an empty one, suspected that something was amiss.”",
     "title": "A Study in Scarlet",
@@ -697,14 +657,6 @@
   },
   {
     "time": "02:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes: “There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about ",
-    "quote_time_case": "two in the morning",
-    "quote_last": ", and as the house was an empty one, suspected that something was amiss.”",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "02:00",
     "quote_first": "“At ",
     "quote_time_case": "two o’clock",
     "quote_last": " back at the Weatherbys’ Sally asked her if she and Amory had had a “time” in the den. Isabelle turned to her quietly. In her eyes was the light of the idealist, the inviolate dreamer of Joan-like dreams.”",
@@ -737,7 +689,7 @@
   },
   {
     "time": "02:03",
-    "quote_first": "Wake up.<br>\"Having the worst dream.\"<br>\"I should certainly say you were.\"<br>\"It was awful. It just went on and on.\"<br>\"I shook you and shook you and.\"<br>\"Time is it.\"<br>\"It's nearly - ",
+    "quote_first": "Wake up. \"Having the worst dream.\" \"I should certainly say you were.\" \"It was awful. It just went on and on.\" \"I shook you and shook you and.\" \"Time is it.\" \"It's nearly - ",
     "quote_time_case": "almost 2:04",
     "quote_last": ".\"",
     "title": "Oblivion",
@@ -745,7 +697,7 @@
   },
   {
     "time": "02:04",
-    "quote_first": "Wake up.<br>\"Having the worst dream.\"<br />\"I should certainly say you were.\"<br />\"It was awful. It just went on and on.\"<br />\"I shook you and shook you and.\"<br />\"Time is it.\"<br />\"It's nearly - almost ",
+    "quote_first": "Wake up. \"Having the worst dream.\"<br />\"I should certainly say you were.\"<br />\"It was awful. It just went on and on.\"<br />\"I shook you and shook you and.\"<br />\"Time is it.\"<br />\"It's nearly - almost ",
     "quote_time_case": "2:04",
     "quote_last": ".\"",
     "title": "Oblivion",
@@ -761,33 +713,33 @@
   },
   {
     "time": "02:05",
-    "quote_first": "Then he began ringing the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. \"I am sorry to have had to wake you up, Francis,\" he said, stepping in; \"but I had forgotten my latch-key. What time is it?\"<br/>\"Five minutes past two, sir,\" answered the man, looking at the clock and yawning.<br/>\"Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.",
+    "quote_first": "Then he began ringing the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. \"I am sorry to have had to wake you up, Francis,\" he said, stepping in; \"but I had forgotten my latch-key. What time is it?\"<br/>\"",
     "quote_time_case": "five minutes past two",
-    "quote_last": "g the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. \"I am sorry to have had to wake you up, Francis,\" he said, stepping in; \"but I had forgotten my latch-key. What time is it?\"<br/>\"Five minutes past two, sir,\" answered the man, looking at the clock and yawning.<br/>\"Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.\"",
+    "quote_last": ", sir,\" answered the man, looking at the clock and yawning.<br/>\"Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.\"",
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde"
   },
   {
     "time": "02:05",
-    "quote_first": "Then he began ringing the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. ‘I am sorry to have had to wake you up, Francis,’ he said, stepping in; ‘but I had forgotten my latch-key. What time is it?’ ‘Five minutes past two, sir,’ answered the man, looking at the clock and yawning. ‘Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.",
+    "quote_first": "Then he began ringing the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. ‘I am sorry to have had to wake you up, Francis,’ he said, stepping in; ‘but I had forgotten my latch-key. What time is it?’ ‘",
     "quote_time_case": "five minutes past two",
-    "quote_last": "g the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. ‘I am sorry to have had to wake you up, Francis,’ he said, stepping in; ‘but I had forgotten my latch-key. What time is it?’ ‘Five minutes past two, sir,’ answered the man, looking at the clock and yawning. ‘Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.’",
+    "quote_last": ", sir,’ answered the man, looking at the clock and yawning. ‘Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.’",
     "title": "The Picture of Dorian Gray ",
     "author": "Oscar Wilde"
   },
   {
     "time": "02:10",
-    "quote_first": "“Ten minutes past two, sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late!",
+    "quote_first": "“",
     "quote_time_case": "ten minutes past two",
-    "quote_last": "wo, sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late!\"",
+    "quote_last": ", sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late!\"",
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde"
   },
   {
     "time": "02:10",
-    "quote_first": "“Ten minutes past two, sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late! ..",
+    "quote_first": "“",
     "quote_time_case": "ten minutes past two",
-    "quote_last": "wo, sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late! ..”",
+    "quote_last": ", sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late! ..”",
     "title": "The Picture of Dorian Gray ",
     "author": "Oscar Wilde"
   },
@@ -833,9 +785,9 @@
   },
   {
     "time": "02:21",
-    "quote_first": "It was the urge to look up at the sky. But of course there was no sun nor moon nor stars overhead. Darkness hung heavy over me. Each breath I took, each wet footstep, everything wanted to slide like mud to the ground. I lifted my left hand and pressed on the light of my digital wristwatch. Two-twenty-one. It was midnight when we headed underground, so only a little over two hours had passed. We continued walking down, down the narrow trench, mouths clamped tight",
+    "quote_first": "It was the urge to look up at the sky. But of course there was no sun nor moon nor stars overhead. Darkness hung heavy over me. Each breath I took, each wet footstep, everything wanted to slide like mud to the ground. I lifted my left hand and pressed on the light of my digital wristwatch. ",
     "quote_time_case": "two-twenty-one",
-    "quote_last": "ge to look up at the sky. But of course there was no sun nor moon nor stars overhead. Darkness hung heavy over me. Each breath I took, each wet footstep, everything wanted to slide like mud to the ground. I lifted my left hand and pressed on the light of my digital wristwatch. Two-twenty-one. It was midnight when we headed underground, so only a little over two hours had passed. We continued walking down, down the narrow trench, mouths clamped tight.",
+    "quote_last": ". It was midnight when we headed underground, so only a little over two hours had passed. We continued walking down, down the narrow trench, mouths clamped tight.",
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami"
   },
@@ -969,9 +921,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "I looked around the room again. As always, the room was clean and orderly. <br>“People think of all kinds of things at ",
+    "quote_first": "I looked around the room again. As always, the room was clean and orderly.  “People think of all kinds of things at ",
     "quote_time_case": "three in the morning",
-    "quote_last": ". We all do. That’s why we each have to figure out our own way of fighting it off.”<br>“You’re probably right,” I said.",
+    "quote_last": ". We all do. That’s why we each have to figure out our own way of fighting it off.” “You’re probably right,” I said.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -979,7 +931,7 @@
     "time": "03:00",
     "quote_first": "“Even animals think things over at ",
     "quote_time_case": "three a.m.",
-    "quote_last": ",” he said, as if remembering something. “Have you ever gone to the zoo at three a.m.?”<br>“No,” I answered vaguely. “No, of course not.”",
+    "quote_last": ",” he said, as if remembering something. “Have you ever gone to the zoo at three a.m.?” “No,” I answered vaguely. “No, of course not.”",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -1121,27 +1073,11 @@
   },
   {
     "time": "03:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes: “There has been a bad business during the night at ",
+    "quote_first": "“My dear Mr Sherlock Holmes: “There has been a bad business during the night at ",
     "quote_time_case": "3",
     "quote_last": ", Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss.”",
     "title": "A Study in Scarlet",
     "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "I looked around the room again. As always, the room was clean and orderly.  “People think of all kinds of things at ",
-    "quote_time_case": "three in the morning",
-    "quote_last": ". We all do. That’s why we each have to figure out our own way of fighting it off.” “You’re probably right,” I said.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "“Even animals think things over at ",
-    "quote_time_case": "three a.m.",
-    "quote_last": ",” he said, as if remembering something. “Have you ever gone to the zoo at three a.m.?” “No,” I answered vaguely. “No, of course not.”",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "03:00",
@@ -1169,9 +1105,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "But at three o’clock in the morning, a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day",
+    "quote_first": "But ",
     "quote_time_case": "At three o’clock in the morning",
-    "quote_last": "rning, a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
+    "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
     "title": "The Crack-Up ",
     "author": "F. Scott Fitzgerald"
   },
@@ -1281,9 +1217,9 @@
   },
   {
     "time": "03:30",
-    "quote_first": "At Half past Three, a single Bird Unto a silent Sky Propounded but a single term Of cautious melody",
+    "quote_first": "At ",
     "quote_time_case": "half past three",
-    "quote_last": "hree, a single Bird Unto a silent Sky Propounded but a single term Of cautious melody.",
+    "quote_last": ", a single Bird Unto a silent Sky Propounded but a single term Of cautious melody.",
     "title": "At Half past Three, a single Bird",
     "author": "Emily Dickinson"
   },
@@ -1347,7 +1283,7 @@
     "time": "04:00",
     "quote_first": "I followed his gaze to the mantelpiece. The clock had stopped at ",
     "quote_time_case": "four o’clock",
-    "quote_last": ".<br>“Mon ami, someone has tampered with it. It had still three days to run. It is an eight-day clock, you comprehend?” <br>“But what should they want to do that for? Some idea of a false scent by making the crime appear to have taken place at four o’clock?”",
+    "quote_last": ". “Mon ami, someone has tampered with it. It had still three days to run. It is an eight-day clock, you comprehend?”  “But what should they want to do that for? Some idea of a false scent by making the crime appear to have taken place at four o’clock?”",
     "title": "The Big Four",
     "author": "Agatha Christie"
   },
@@ -1385,9 +1321,9 @@
   },
   {
     "time": "04:00",
-    "quote_first": "The night before Albert Kessler arrived in Santa Teresa, at four in the morning, Sergio Gonzalez Rodriguez got a call from Azucena Esquivel Plata, reporter and PRI congresswoman",
+    "quote_first": "The night before Albert Kessler arrived in Santa Teresa, ",
     "quote_time_case": "At four",
-    "quote_last": "ght before Albert Kessler arrived in Santa Teresa, at four in the morning, Sergio Gonzalez Rodriguez got a call from Azucena Esquivel Plata, reporter and PRI congresswoman.",
+    "quote_last": " in the morning, Sergio Gonzalez Rodriguez got a call from Azucena Esquivel Plata, reporter and PRI congresswoman.",
     "title": "2666",
     "author": "Roberto Bolano"
   },
@@ -1409,9 +1345,9 @@
   },
   {
     "time": "04:00",
-    "quote_first": "The Birds begun at Four o'clock— Their period for Dawn",
+    "quote_first": "The Birds begun at ",
     "quote_time_case": "four o'clock",
-    "quote_last": "egun at Four o'clock— Their period for Dawn—",
+    "quote_last": "— Their period for Dawn—",
     "title": "The Birds begun at Four o'clock ",
     "author": "Emily Dickinson"
   },
@@ -1449,9 +1385,9 @@
   },
   {
     "time": "04:16",
-    "quote_first": "I stooped to pick up my watch from the floor. Four-sixteen. Another hour until dawn. I went to the telephone and dialled my own number. It'd been a long time since I'd called home, so I had to struggle to remember the number. I let it ring fifteen times; no answer. I hung up, dialled again, and let it ring another fifteen times. Nobody",
+    "quote_first": "I stooped to pick up my watch from the floor. ",
     "quote_time_case": "four-sixteen",
-    "quote_last": "o pick up my watch from the floor. Four-sixteen. Another hour until dawn. I went to the telephone and dialled my own number. It'd been a long time since I'd called home, so I had to struggle to remember the number. I let it ring fifteen times; no answer. I hung up, dialled again, and let it ring another fifteen times. Nobody.",
+    "quote_last": ". Another hour until dawn. I went to the telephone and dialled my own number. It'd been a long time since I'd called home, so I had to struggle to remember the number. I let it ring fifteen times; no answer. I hung up, dialled again, and let it ring another fifteen times. Nobody.",
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami"
   },
@@ -1553,7 +1489,7 @@
   },
   {
     "time": "05:00",
-    "quote_first": "“I just took all the pills in the bathroom cabinet,” she says. “Sixty-two aspirin with codeine, twenty-four Valiums. I thought you might like to say goodbye.”<br>“That was stupid, Martha,” Nate says. “Did you really?”<br>“Wait and see,” she says, laughing. “Wait till ",
+    "quote_first": "“I just took all the pills in the bathroom cabinet,” she says. “Sixty-two aspirin with codeine, twenty-four Valiums. I thought you might like to say goodbye.” “That was stupid, Martha,” Nate says. “Did you really?” “Wait and see,” she says, laughing. “Wait till ",
     "quote_time_case": "five in the morning",
     "quote_last": " when you get to inspect the body.”",
     "title": "Life Before Man",
@@ -1582,14 +1518,6 @@
     "quote_last": ". Then sprang before the hills. Like hindered rubies, or the light. A sudden musket spills",
     "title": "The Day Came Slow, Till Five O' Clock",
     "author": "Emily Dickinson"
-  },
-  {
-    "time": "05:00",
-    "quote_first": "“I just took all the pills in the bathroom cabinet,” she says. “Sixty-two aspirin with codeine, twenty-four Valiums. I thought you might like to say goodbye.” “That was stupid, Martha,” Nate says. “Did you really?” “Wait and see,” she says, laughing. “Wait till ",
-    "quote_time_case": "five in the morning",
-    "quote_last": " when you get to inspect the body.”",
-    "title": "Life Before Man",
-    "author": "Margaret Atwood"
   },
   {
     "time": "05:00",
@@ -1771,14 +1699,6 @@
     "time": "06:02",
     "quote_first": "Bimingham New Street 5.25. Walsall 5.55. This train does not stop at Birchills, for reasons George has never been able to ascertain. Then it is Bloxwich ",
     "quote_time_case": "6.02",
-    "quote_last": ", Wyrley & Churchbridge 6.09. At 6.10 he nods to Mr. Merriman the stationmaster.",
-    "title": "Arthur and George",
-    "author": "Julian Barnes"
-  },
-  {
-    "time": "06:02",
-    "quote_first": "Bimingham New Street 5.25. Walsall 5.55. This train does not stop at Birchills, for reasons George has never been able to ascertain. Then it is Bloxwich ",
-    "quote_time_case": "6.02",
     "quote_last": ", Wyrley & Churchbridge 6.09. At 6.10 he nods to Mr Merriman the stationmaster.",
     "title": "Arthur and George",
     "author": "Julian Barnes"
@@ -1803,7 +1723,7 @@
     "time": "06:09",
     "quote_first": "Bimingham New Street 5.25. Walsall 5.55. This train does not stop at Birchills, for reasons George has never been able to ascertain. Then it is Bloxwich 6.02, Wyrley & Churchbridge ",
     "quote_time_case": "6.09",
-    "quote_last": ". At 6.10 he nods to Mr. Merriman the stationmaster.",
+    "quote_last": ". At 6.10 he nods to Mr Merriman the stationmaster.",
     "title": "Arthur and George",
     "author": "Julian Barnes"
   },
@@ -1825,25 +1745,25 @@
   },
   {
     "time": "06:22",
-    "quote_first": "Clock overturned when he fell forward. That'll give us the time of the crime. Twenty-two minutes past six",
+    "quote_first": "Clock overturned when he fell forward. That'll give us the time of the crime. ",
     "quote_time_case": "twenty-two minutes past six",
-    "quote_last": "ell forward. That'll give us the time of the crime. Twenty-two minutes past six.",
+    "quote_last": ".",
     "title": "The Murder at the Vicarage",
     "author": "Agatha Christie"
   },
   {
     "time": "06:25",
-    "quote_first": "Still, it's your consciousness that's created it. Not somethin' just anyone could do. Others could be wanderin' around forever in who-knows-what contradictory chaos of a world. You're different. You seem t'be the immortal type.<br />\"When's the turnover into that world going to take place?\" asked the chubby girl. The Professor looked at his watch. I looked at my watch. Six-twenty-five. Well past daybreak. Morning papers delivered",
+    "quote_first": "Still, it's your consciousness that's created it. Not somethin' just anyone could do. Others could be wanderin' around forever in who-knows-what contradictory chaos of a world. You're different. You seem t'be the immortal type.<br />\"When's the turnover into that world going to take place?\" asked the chubby girl. The Professor looked at his watch. I looked at my watch. ",
     "quote_time_case": "six-twenty-five",
-    "quote_last": "ur consciousness that's created it. Not somethin' just anyone could do. Others could be wanderin' around forever in who-knows-what contradictory chaos of a world. You're different. You seem t'be the immortal type.<br />\"When's the turnover into that world going to take place?\" asked the chubby girl. The Professor looked at his watch. I looked at my watch. Six-twenty-five. Well past daybreak. Morning papers delivered.",
+    "quote_last": ". Well past daybreak. Morning papers delivered.",
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami"
   },
   {
     "time": "06:25",
-    "quote_first": "Still, it's your consciousness that's created it. Not somethin' just anyone could do. Others could be wanderin' around forever in who-knows-what contradictory chaos of a world. You're different. You seem t'be the immortal type.\" \"When's the turnover into that world going to take place?\" asked the chubby girl. The Professor looked at his watch. I looked at my watch. Six-twenty-five. Well past daybreak. Morning papers delivered. \"According t'my estimates, in another twenty-nine hours and thirty-five minutes,\" said the Professor. \"Plus or minus forty-five minutes. I set it at twelve noon for easy reference. Noon tomorrow",
+    "quote_first": "Still, it's your consciousness that's created it. Not somethin' just anyone could do. Others could be wanderin' around forever in who-knows-what contradictory chaos of a world. You're different. You seem t'be the immortal type.\" \"When's the turnover into that world going to take place?\" asked the chubby girl. The Professor looked at his watch. I looked at my watch. ",
     "quote_time_case": "six-twenty-five",
-    "quote_last": "ur consciousness that's created it. Not somethin' just anyone could do. Others could be wanderin' around forever in who-knows-what contradictory chaos of a world. You're different. You seem t'be the immortal type.\" \"When's the turnover into that world going to take place?\" asked the chubby girl. The Professor looked at his watch. I looked at my watch. Six-twenty-five. Well past daybreak. Morning papers delivered. \"According t'my estimates, in another twenty-nine hours and thirty-five minutes,\" said the Professor. \"Plus or minus forty-five minutes. I set it at twelve noon for easy reference. Noon tomorrow.",
+    "quote_last": ". Well past daybreak. Morning papers delivered. \"According t'my estimates, in another twenty-nine hours and thirty-five minutes,\" said the Professor. \"Plus or minus forty-five minutes. I set it at twelve noon for easy reference. Noon tomorrow.",
     "title": "Hard Boiled Wonderland and the End of the World ",
     "author": "Haruki Murakami"
   },
@@ -1899,15 +1819,15 @@
     "time": "07:00",
     "quote_first": "At ",
     "quote_time_case": "seven",
-    "quote_last": " the next morning the telephone rang. <br>Slowly I swam up from the bottom of a black sleep. I already had a telegram from Jay Cee stuck in my mirror, telling me not to bother to come in to work but to rest for a day and get completely well, and how sorry she was about the bad crabmeat, so I couldn’t imagine who would be calling.",
+    "quote_last": " the next morning the telephone rang.  Slowly I swam up from the bottom of a black sleep. I already had a telegram from Jay Cee stuck in my mirror, telling me not to bother to come in to work but to rest for a day and get completely well, and how sorry she was about the bad crabmeat, so I couldn’t imagine who would be calling.",
     "title": "The Bell Jar",
     "author": "Sylvia Plath"
   },
   {
     "time": "07:00",
-    "quote_first": "Seven o'clock, already, he said to himself when the clock struck again, \"",
+    "quote_first": "",
     "quote_time_case": "seven o'clock",
-    "quote_last": ", and there's still a fog like this.\"",
+    "quote_last": ", already, he said to himself when the clock struck again, \"seven o'clock, and there's still a fog like this.\"",
     "title": "Metamorphosis",
     "author": "Franz Kafka"
   },
@@ -1937,17 +1857,17 @@
   },
   {
     "time": "07:00",
-    "quote_first": "\"Seven o'clock, already\", he said to himself when the clock struck again, \"",
+    "quote_first": "\"",
     "quote_time_case": "seven o'clock",
-    "quote_last": ", and there's still a fog like this.\"",
+    "quote_last": ", already\", he said to himself when the clock struck again, \"seven o'clock, and there's still a fog like this.\"",
     "title": "Metamorphosis ",
     "author": "Franz Kafka"
   },
   {
     "time": "07:00",
-    "quote_first": "I had left directions that I was to be called at seven; for it was plain that I must see Wemmick before seeing any one else, and equally plain that this was a case in which his Walworth sentiments, only, could be taken. It was a relief to get out of the room where the night had been so miserable, and I needed no second knocking at the door to startle me from my uneasy bed",
+    "quote_first": "I had left directions that I was to be called ",
     "quote_time_case": "At seven",
-    "quote_last": "eft directions that I was to be called at seven; for it was plain that I must see Wemmick before seeing any one else, and equally plain that this was a case in which his Walworth sentiments, only, could be taken. It was a relief to get out of the room where the night had been so miserable, and I needed no second knocking at the door to startle me from my uneasy bed.",
+    "quote_last": "; for it was plain that I must see Wemmick before seeing any one else, and equally plain that this was a case in which his Walworth sentiments, only, could be taken. It was a relief to get out of the room where the night had been so miserable, and I needed no second knocking at the door to startle me from my uneasy bed.",
     "title": "Great Expectations",
     "author": "Charles Dickens"
   },
@@ -1985,25 +1905,25 @@
   },
   {
     "time": "07:09",
-    "quote_first": "The morning house lay empty. The clock ticked on, repeating and repeating its sounds into the emptiness. Seven-nine, breakfast time, ",
+    "quote_first": "The morning house lay empty. The clock ticked on, repeating and repeating its sounds into the emptiness. ",
     "quote_time_case": "seven-nine",
-    "quote_last": "!",
+    "quote_last": ", breakfast time, seven-nine!",
     "title": "There Will Come Soft Rains",
     "author": "Ray Bradbury"
   },
   {
     "time": "07:09",
-    "quote_first": "In the living room the voice-clock sang, Tick-tock, seven o'clock, time to get up, time to get up, seven o 'clock! as if it were afraid that nobody would. The morning house lay empty. The clock ticked on, repeating and repeating its sounds into the emptiness. Seven-nine, breakfast time, ",
+    "quote_first": "In the living room the voice-clock sang, Tick-tock, seven o'clock, time to get up, time to get up, seven o 'clock! as if it were afraid that nobody would. The morning house lay empty. The clock ticked on, repeating and repeating its sounds into the emptiness. ",
     "quote_time_case": "seven-nine",
-    "quote_last": "!",
+    "quote_last": ", breakfast time, seven-nine!",
     "title": "There Will Come Soft Rains ",
     "author": "Ray Bradbury"
   },
   {
     "time": "07:09",
-    "quote_first": "Seven-nine, breakfast time, ",
+    "quote_first": "",
     "quote_time_case": "seven-nine",
-    "quote_last": "!",
+    "quote_last": ", breakfast time, seven-nine!",
     "title": "There Will Come Soft Rains",
     "author": "Ray Bradbury"
   },
@@ -2121,7 +2041,7 @@
   },
   {
     "time": "07:39",
-    "quote_first": "Now, at the station, do you recall speaking to Mr. Joseph Markew?<br/>\"Yes, indeed. I was standing on the platform waiting for my usual train - the ",
+    "quote_first": "Now, at the station, do you recall speaking to Mr Joseph Markew?<br/>\"Yes, indeed. I was standing on the platform waiting for my usual train - the ",
     "quote_time_case": "7.39",
     "quote_last": " - when he accosted me.\"",
     "title": "Arthur and George",
@@ -2185,7 +2105,7 @@
   },
   {
     "time": "08:00",
-    "quote_first": "Philip Lombard had the habit of waking at daybreak. He did so on this particular morning. He raised himself on an elbow and listened. The wind had somewhat abated but was still blowing. He could hear no sound of rain…<br>At ",
+    "quote_first": "Philip Lombard had the habit of waking at daybreak. He did so on this particular morning. He raised himself on an elbow and listened. The wind had somewhat abated but was still blowing. He could hear no sound of rain… At ",
     "quote_time_case": "eight o’clock",
     "quote_last": " the wind was blowing more strongly, but Lombard did not hear it. He was asleep again.",
     "title": "And Then There Were None",
@@ -2209,7 +2129,7 @@
   },
   {
     "time": "08:00",
-    "quote_first": "“My fiddle would be the better for new strings,” he remarked. “Put your pistol in your pocket. When the fellow comes, speak to him in an ordinary way. Leave the rest to me. Don’t frighten him by looking at him too hard.”<br>“It is ",
+    "quote_first": "“My fiddle would be the better for new strings,” he remarked. “Put your pistol in your pocket. When the fellow comes, speak to him in an ordinary way. Leave the rest to me. Don’t frighten him by looking at him too hard.” “It is ",
     "quote_time_case": "eight o’clock",
     "quote_last": " now,” I said, glancing at my watch.",
     "title": "A Study in Scarlet",
@@ -2217,7 +2137,7 @@
   },
   {
     "time": "08:00",
-    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter.<br>“At what o’clock did Mr. Drebber leave your house for the train?” I asked.<br>“At ",
+    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter. “At what o’clock did Mr Drebber leave your house for the train?” I asked. “At ",
     "quote_time_case": "eight o’clock",
     "quote_last": ",” she said, gulping in her throat to keep down her agitation.",
     "title": "A Study in Scarlet",
@@ -2249,7 +2169,7 @@
   },
   {
     "time": "08:00",
-    "quote_first": "They were to call for her at her house in the Taurida Gardens at ten o’clock, but it was already five minutes to ten, and the girls were not yet dressed.<br>Natásha was going to her first grand ball. She had got up at ",
+    "quote_first": "They were to call for her at her house in the Taurida Gardens at ten o’clock, but it was already five minutes to ten, and the girls were not yet dressed. Natásha was going to her first grand ball. She had got up at ",
     "quote_time_case": "eight",
     "quote_last": " that morning and had been in a fever of excitement and activity all day.",
     "title": "War and Peace",
@@ -2289,15 +2209,15 @@
   },
   {
     "time": "08:00",
-    "quote_first": "Dressed in sweater, anorak and long johns, he lay in bed, hemmed in on three sides by chunky wooden beams, and ate all the salted snacks in the minibar, and then all the sugary snacks, and when he was woken by reception at eight the following morning to be told that everyone was waiting for him downstairs, the wrapper of a Mars bar was still folded in his fist",
+    "quote_first": "Dressed in sweater, anorak and long johns, he lay in bed, hemmed in on three sides by chunky wooden beams, and ate all the salted snacks in the minibar, and then all the sugary snacks, and when he was woken by reception ",
     "quote_time_case": "At eight",
-    "quote_last": " in sweater, anorak and long johns, he lay in bed, hemmed in on three sides by chunky wooden beams, and ate all the salted snacks in the minibar, and then all the sugary snacks, and when he was woken by reception at eight the following morning to be told that everyone was waiting for him downstairs, the wrapper of a Mars bar was still folded in his fist.",
+    "quote_last": " the following morning to be told that everyone was waiting for him downstairs, the wrapper of a Mars bar was still folded in his fist.",
     "title": "Solar",
     "author": "Ian McEwan"
   },
   {
     "time": "08:00",
-    "quote_first": "Mr. Pumblechook and I breakfasted at ",
+    "quote_first": "Mr Pumblechook and I breakfasted at ",
     "quote_time_case": "eight o'clock",
     "quote_last": " in the parlour behind the shop, while the shopman took his mug of tea and hunch of bread-and-butter on a sack of peas in the front premises.",
     "title": "Great Expectations",
@@ -2353,22 +2273,6 @@
   },
   {
     "time": "08:00",
-    "quote_first": "“My fiddle would be the better for new strings,” he remarked. “Put your pistol in your pocket. When the fellow comes, speak to him in an ordinary way. Leave the rest to me. Don’t frighten him by looking at him too hard.” “It is ",
-    "quote_time_case": "eight o’clock",
-    "quote_last": " now,” I said, glancing at my watch.",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "08:00",
-    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter. “At what o’clock did Mr. Drebber leave your house for the train?” I asked. “At ",
-    "quote_time_case": "eight o’clock",
-    "quote_last": ",” she said, gulping in her throat to keep down her agitation.",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "08:00",
     "quote_first": "When the owner’s meal was ready at ",
     "quote_time_case": "eight o’clock",
     "quote_last": ", she pushed the room service cart into the elevator and rode up to the sixth floor. It was the standard meal for him: a half bottle of red wine with the cork loosened, a thermal pot of coffee, a chicken entrée with steamed vegetables, rolls and butter. The heavy aroma of cooked chicken quickly filled the little elevator. It mingled with the smell of rain. Water droplets dotted the elevator floor, suggesting that someone with a wet umbrella had recently been aboard. ",
@@ -2393,14 +2297,6 @@
   },
   {
     "time": "08:00",
-    "quote_first": "Philip Lombard had the habit of waking at daybreak. He did so on this particular morning. He raised himself on an elbow and listened. The wind had somewhat abated but was still blowing. He could hear no sound of rain… At ",
-    "quote_time_case": "eight o’clock",
-    "quote_last": " the wind was blowing more strongly, but Lombard did not hear it. He was asleep again.",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
-  },
-  {
-    "time": "08:00",
     "quote_first": "It was dated from Rosings, at ",
     "quote_time_case": "eight o'clock",
     "quote_last": " in the morning, and was as follows: - \"Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offerings which were last night so disgusting to you.",
@@ -2417,17 +2313,17 @@
   },
   {
     "time": "08:00",
-    "quote_first": "When he opened the windows in the morning, the sky was as overcast as it had been, but the air seemed fresher, and regret set in. Had giving notice not been impetuous and wrongheaded, the result of an inconsequential indisposition? If he had held off a bit, if he had not been so quick to lose heart, if he had instead tried to adjust to the air or wait for the weather to improve, he would now have been free of stress and strain and looking forward to a morning on the beach like the one the day before. Too late. He must go on wanting what he had wanted yesterday. He dressed and rode down to the ground floor at eight for breakfast",
+    "quote_first": "When he opened the windows in the morning, the sky was as overcast as it had been, but the air seemed fresher, and regret set in. Had giving notice not been impetuous and wrongheaded, the result of an inconsequential indisposition? If he had held off a bit, if he had not been so quick to lose heart, if he had instead tried to adjust to the air or wait for the weather to improve, he would now have been free of stress and strain and looking forward to a morning on the beach like the one the day before. Too late. He must go on wanting what he had wanted yesterday. He dressed and rode down to the ground floor ",
     "quote_time_case": "At eight",
-    "quote_last": " opened the windows in the morning, the sky was as overcast as it had been, but the air seemed fresher, and regret set in. Had giving notice not been impetuous and wrongheaded, the result of an inconsequential indisposition? If he had held off a bit, if he had not been so quick to lose heart, if he had instead tried to adjust to the air or wait for the weather to improve, he would now have been free of stress and strain and looking forward to a morning on the beach like the one the day before. Too late. He must go on wanting what he had wanted yesterday. He dressed and rode down to the ground floor at eight for breakfast.",
+    "quote_last": " for breakfast.",
     "title": "Death in Venice ",
     "author": "Thomas Mann"
   },
   {
     "time": "08:01",
-    "quote_first": "Eight-one, tick-tock, ",
+    "quote_first": "",
     "quote_time_case": "eight-one",
-    "quote_last": " o'clock, off to school, off to work, run, run, eight-one!",
+    "quote_last": ", tick-tock, eight-one o'clock, off to school, off to work, run, run, eight-one!",
     "title": "There Will Come Soft Rains",
     "author": "Ray Bradbury"
   },
@@ -2529,14 +2425,6 @@
   },
   {
     "time": "08:17",
-    "quote_first": "Breakfast over, my uncle drew from his pocket a small notebook, intended for scientific observations. He consulted his instruments, and recorded:<br>“Monday, July 1.<br>“Chronometer, ",
-    "quote_time_case": "8.17 a.m.",
-    "quote_last": "; barometer, 297 in.; thermometer, 6° (43° F.). Direction, E.S.E.”<br>This last observation applied to the dark gallery, and was indicated by the compass.",
-    "title": "A Journey to the Centre of the Earth",
-    "author": "Jules Verne"
-  },
-  {
-    "time": "08:17",
     "quote_first": "Breakfast over, my uncle drew from his pocket a small notebook, intended for scientific observations. He consulted his instruments, and recorded: “Monday, July 1. “Chronometer, ",
     "quote_time_case": "8.17 a.m.",
     "quote_last": "; barometer, 297 in.; thermometer, 6° (43° F.). Direction, E.S.E.” This last observation applied to the dark gallery, and was indicated by the compass.",
@@ -2561,9 +2449,9 @@
   },
   {
     "time": "08:23",
-    "quote_first": "And then Wedderburn looked at his watch. \"Twenty-three minutes past eight. I am going up by the quarter to twelve train, so that there is plenty of time. I think I shall wear my alpaca jacket - it is quite warm enough - and my grey felt hat and brown shoes.",
+    "quote_first": "And then Wedderburn looked at his watch. \"",
     "quote_time_case": "twenty-three minutes past eight",
-    "quote_last": "his watch. \"Twenty-three minutes past eight. I am going up by the quarter to twelve train, so that there is plenty of time. I think I shall wear my alpaca jacket - it is quite warm enough - and my grey felt hat and brown shoes.”",
+    "quote_last": ". I am going up by the quarter to twelve train, so that there is plenty of time. I think I shall wear my alpaca jacket - it is quite warm enough - and my grey felt hat and brown shoes.”",
     "title": "The Flowering of The Strange Orchid",
     "author": "H.G. Wells"
   },
@@ -2593,7 +2481,7 @@
   },
   {
     "time": "08:30",
-    "quote_first": "“What nonsense!” thought Vronsky, and glanced at his watch.<br>It was ",
+    "quote_first": "“What nonsense!” thought Vronsky, and glanced at his watch. It was ",
     "quote_time_case": "half-past eight",
     "quote_last": " already.",
     "title": "Anna Karenina",
@@ -2617,17 +2505,9 @@
   },
   {
     "time": "08:30",
-    "quote_first": "“What nonsense!” thought Vronsky, and glanced at his watch. It was ",
-    "quote_time_case": "half-past eight",
-    "quote_last": " already.",
-    "title": "Anna Karenina",
-    "author": "Leo Tolstoy"
-  },
-  {
-    "time": "08:30",
     "quote_first": "At ",
     "quote_time_case": "half past eight",
-    "quote_last": ", Mr. Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls.",
+    "quote_last": ", Mr Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls.",
     "title": "Harry Potter and the Philosopher's Stone ",
     "author": "JK Rowling"
   },
@@ -2902,14 +2782,6 @@
     "quote_last": ".",
     "title": "The Waste Land",
     "author": "T.S. Eliot"
-  },
-  {
-    "time": "09:00",
-    "quote_first": "The clock struck ",
-    "quote_time_case": "nine",
-    "quote_last": " when I did send the Nurse. In half an hour she promised to return.",
-    "title": "Romeo and Juliet",
-    "author": "William Shakespeare"
   },
   {
     "time": "09:00",
@@ -3193,7 +3065,7 @@
   },
   {
     "time": "09:11",
-    "quote_first": "“What train can I get?”<br>“There’s one about ",
+    "quote_first": "“What train can I get?” “There’s one about ",
     "quote_time_case": "9:11",
     "quote_last": " if you really must go.”",
     "title": "This Side of Paradise",
@@ -3206,14 +3078,6 @@
     "quote_last": " lay in bed, staring at wall.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz"
-  },
-  {
-    "time": "09:11",
-    "quote_first": "“What train can I get?” “There’s one about ",
-    "quote_time_case": "9:11",
-    "quote_last": " if you really must go.”",
-    "title": "This Side of Paradise",
-    "author": "F. Scott Fitzgerald"
   },
   {
     "time": "09:11",
@@ -3411,14 +3275,6 @@
     "time": "09:30",
     "quote_first": "At ",
     "quote_time_case": "nine-thirty",
-    "quote_last": " he was sitting on the edge of his bed looking at his watch. He put it to his ear. Then his lips drew back from his teeth in that curious wolf-like smile characteristic of the man. He said very softly:<br>“I think the time has come to do something about this.”",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
-  },
-  {
-    "time": "09:30",
-    "quote_first": "At ",
-    "quote_time_case": "nine-thirty",
     "quote_last": " he was sitting on the edge of his bed looking at his watch. He put it to his ear. Then his lips drew back from his teeth in that curious wolf-like smile characteristic of the man. He said very softly: “I think the time has come to do something about this.”",
     "title": "And Then There Were None",
     "author": "Agatha Christie"
@@ -3451,7 +3307,7 @@
     "time": "09:35",
     "quote_first": "At ",
     "quote_time_case": "twenty-five minutes to ten",
-    "quote_last": " he was tapping on the closed door of Blore’s room.<br>The latter opened it cautiously. His hair was tousled and his eyes were still dim with sleep.",
+    "quote_last": " he was tapping on the closed door of Blore’s room. The latter opened it cautiously. His hair was tousled and his eyes were still dim with sleep.",
     "title": "And Then There Were None",
     "author": "Agatha Christie"
   },
@@ -3497,14 +3353,6 @@
   },
   {
     "time": "09:50",
-    "quote_first": "Philip Lombard said:<br>“What’s the time now?”<br>“",
-    "quote_time_case": "Ten minutes to ten",
-    "quote_last": ", sir.”<br>Lombard’s eyebrows rose. He nodded slowly to himself.",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
-  },
-  {
-    "time": "09:50",
     "quote_first": "Philip Lombard said: “What’s the time now?” “",
     "quote_time_case": "Ten minutes to ten",
     "quote_last": ", sir.” Lombard’s eyebrows rose. He nodded slowly to himself.",
@@ -3523,7 +3371,7 @@
     "time": "09:55",
     "quote_first": "They were to call for her at her house in the Taurida Gardens at ten o’clock, but it was already ",
     "quote_time_case": "five minutes to ten",
-    "quote_last": ", and the girls were not yet dressed.<br>Natásha was going to her first grand ball. She had got up at eight that morning and had been in a fever of excitement and activity all day.",
+    "quote_last": ", and the girls were not yet dressed. Natásha was going to her first grand ball. She had got up at eight that morning and had been in a fever of excitement and activity all day.",
     "title": "War and Peace",
     "author": "Leo Tolstoy"
   },
@@ -3601,9 +3449,9 @@
   },
   {
     "time": "10:00",
-    "quote_first": "“My mother in law’s not a bad person. I don’t have any negative feelings toward her. It’s just that she’s the nervous type, and has always relied too much on other people. Do you understand the situation?”<br>“I think so,” I said.<br>She crossed her legs, waiting for me to write something new on my pad. But I didn’t write anything down.<br>“She called us at ",
+    "quote_first": "“My mother in law’s not a bad person. I don’t have any negative feelings toward her. It’s just that she’s the nervous type, and has always relied too much on other people. Do you understand the situation?” “I think so,” I said. She crossed her legs, waiting for me to write something new on my pad. But I didn’t write anything down. “She called us at ",
     "quote_time_case": "ten",
-    "quote_last": " one Sunday morning. Two Sundays—ten days—ago.”<br>At ten I turned off the TV, went back to my room, and went to sleep.",
+    "quote_last": " one Sunday morning. Two Sundays—ten days—ago.” At ten I turned off the TV, went back to my room, and went to sleep.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -3633,7 +3481,7 @@
   },
   {
     "time": "10:00",
-    "quote_first": "Frodo woke and found himself lying in bed. <br>\"Where am I, and what is the time?\" he said aloud to the ceiling.<br>\"In the House of Elrond, and it is ",
+    "quote_first": "Frodo woke and found himself lying in bed.  \"Where am I, and what is the time?\" he said aloud to the ceiling. \"In the House of Elrond, and it is ",
     "quote_time_case": "ten o’clock in the morning",
     "quote_last": ",\" said Gandalf. \"It is the morning of October the twenty-fourth, if you want to know.\"",
     "title": "The Fellowship of the Ring",
@@ -3643,7 +3491,7 @@
     "time": "10:00",
     "quote_first": "They were to call for her at her house in the Taurida Gardens at ",
     "quote_time_case": "ten o’clock",
-    "quote_last": ", but it was already five minutes to ten, and the girls were not yet dressed.<br>Natásha was going to her first grand ball. She had got up at eight that morning and had been in a fever of excitement and activity all day.",
+    "quote_last": ", but it was already five minutes to ten, and the girls were not yet dressed. Natásha was going to her first grand ball. She had got up at eight that morning and had been in a fever of excitement and activity all day.",
     "title": "War and Peace",
     "author": "Leo Tolstoy"
   },
@@ -3665,9 +3513,9 @@
   },
   {
     "time": "10:00",
-    "quote_first": "For some seconds the light went on becoming brighter and brighter, and she saw everything more and more clearly and the clock ticked louder and louder until there was a terrific explosion right in her ear. Orlando leapt as if she had been violently struck on the head. Ten times she was struck. In fact it was ",
+    "quote_first": "For some seconds the light went on becoming brighter and brighter, and she saw everything more and more clearly and the clock ticked louder and louder until there was a terrific explosion right in her ear. Orlando leapt as if she had been violently struck on the head. ",
     "quote_time_case": "ten",
-    "quote_last": " o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
+    "quote_last": " times she was struck. In fact it was ten o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
     "title": "Orlando",
     "author": "Virginia Woolf"
   },
@@ -3737,14 +3585,6 @@
   },
   {
     "time": "10:00",
-    "quote_first": "“My mother in law’s not a bad person. I don’t have any negative feelings toward her. It’s just that she’s the nervous type, and has always relied too much on other people. Do you understand the situation?” “I think so,” I said. She crossed her legs, waiting for me to write something new on my pad. But I didn’t write anything down. “She called us at ",
-    "quote_time_case": "ten",
-    "quote_last": " one Sunday morning. Two Sundays—ten days—ago.” At ten I turned off the TV, went back to my room, and went to sleep.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "10:00",
     "quote_first": "A new life opening up for me at the Villa Borghese. Only ",
     "quote_time_case": "ten o’clock",
     "quote_last": " and we have already had breakfast and been out for a walk. ",
@@ -3769,9 +3609,9 @@
   },
   {
     "time": "10:00",
-    "quote_first": "For some seconds the light went on becoming brighter and brighter, and she saw everything more and more clearly and the clock ticked louder and louder until there was a terrific explosion right in her ear. Orlando leapt as if she had been violently struck on the head. Ten times she was struck. In fact it was ",
+    "quote_first": "For some seconds the light went on becoming brighter and brighter, and she saw everything more and more clearly and the clock ticked louder and louder until there was a terrific explosion right in her ear. Orlando leapt as if she had been violently struck on the head. ",
     "quote_time_case": "ten ",
-    "quote_last": "o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
+    "quote_last": "times she was struck. In fact it was ten o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
     "title": "Orlando ",
     "author": "Virginia Woolf"
   },
@@ -3793,17 +3633,17 @@
   },
   {
     "time": "10:00",
-    "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day's mitching. Each of us saved up sixpence. We were to meet at ten in the morning on the Canal Bridge",
+    "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day's mitching. Each of us saved up sixpence. We were to meet ",
     "quote_time_case": "At ten",
-    "quote_last": "ummer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day's mitching. Each of us saved up sixpence. We were to meet at ten in the morning on the Canal Bridge.",
+    "quote_last": " in the morning on the Canal Bridge.",
     "title": "Dubliners ",
     "author": "James Joyce"
   },
   {
     "time": "10:08",
-    "quote_first": "My watch is always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"Ten eighteen by mine. You see.",
+    "quote_first": "My watch is always a little fast, I said. \"What time do you make it now?\"<br/>\"",
     "quote_time_case": "ten eight",
-    "quote_last": " is always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"Ten eighteen by mine. You see.\"",
+    "quote_last": ".\"<br/>\"Ten eighteen by mine. You see.\"",
     "title": "The Quiet American",
     "author": "Graham Greene"
   },
@@ -3827,7 +3667,7 @@
     "time": "10:13",
     "quote_first": "By the bye, said the first, \"I was able this morning to telegraph the very words of the order to my cousin at seventeen minutes past ten.\"<br/>\"And I sent it to the Daily Telegraph at ",
     "quote_time_case": "thirteen minutes past ten",
-    "quote_last": ".\"<br/>\"Bravo, Mr. Blount!\"<br/>\"Very good, M. Jolivet.\"",
+    "quote_last": ".\"<br/>\"Bravo, Mr Blount!\"<br/>\"Very good, M. Jolivet.\"",
     "title": "Michel Strogoff",
     "author": "Jules Verne"
   },
@@ -3843,7 +3683,7 @@
     "time": "10:13",
     "quote_first": "\"By the bye,\" said the first, \"I was able this morning to telegraph the very words of the order to my cousin at seventeen minutes past ten.\" \"And I sent it to the Daily Telegraph at ",
     "quote_time_case": "thirteen minutes past ten",
-    "quote_last": ".\" \"Bravo, Mr. Blount!\" \"Very good, M. Jolivet.\"",
+    "quote_last": ".\" \"Bravo, Mr Blount!\" \"Very good, M. Jolivet.\"",
     "title": "Michel Strogoff",
     "author": "Jules Verne"
   },
@@ -3867,7 +3707,7 @@
     "time": "10:17",
     "quote_first": "By the bye, said the first, \"I was able this morning to telegraph the very words of the order to my cousin at ",
     "quote_time_case": "seventeen minutes past ten",
-    "quote_last": ".\"<br/>\"And I sent it to the Daily Telegraph at thirteen minutes past ten.\"<br/>\"Bravo, Mr. Blount!\"<br/>\"Very good, M. Jolivet.\"",
+    "quote_last": ".\"<br/>\"And I sent it to the Daily Telegraph at thirteen minutes past ten.\"<br/>\"Bravo, Mr Blount!\"<br/>\"Very good, M. Jolivet.\"",
     "title": "Michel Strogoff",
     "author": "Jules Verne"
   },
@@ -3875,13 +3715,13 @@
     "time": "10:17",
     "quote_first": "\"By the bye,\" said the first, \"I was able this morning to telegraph the very words of the order to my cousin at ",
     "quote_time_case": "seventeen minutes past ten",
-    "quote_last": ".\" \"And I sent it to the Daily Telegraph at thirteen minutes past ten.\"n \"Bravo, Mr. Blount!\" \"Very good, M. Jolivet.\" \"I will try and match that!\"",
+    "quote_last": ".\" \"And I sent it to the Daily Telegraph at thirteen minutes past ten.\"n \"Bravo, Mr Blount!\" \"Very good, M. Jolivet.\" \"I will try and match that!\"",
     "title": "Michel Strogoff",
     "author": "Jules Verne"
   },
   {
     "time": "10:20",
-    "quote_first": "A May wind, swelling up like a piece of fruit, with a rough outer skin, slimy flesh, dozens of seeds. The flesh split open in midair, spraying seeds like gentle buckshot into the bare skin of my arms, leaving behind a faint trace of pain.<br>“What time is it?” my cousin asked me. About eight inches shorter than me, he had to look up when he talked.<br>I glanced at my watch. “",
+    "quote_first": "A May wind, swelling up like a piece of fruit, with a rough outer skin, slimy flesh, dozens of seeds. The flesh split open in midair, spraying seeds like gentle buckshot into the bare skin of my arms, leaving behind a faint trace of pain. “What time is it?” my cousin asked me. About eight inches shorter than me, he had to look up when he talked. I glanced at my watch. “",
     "quote_time_case": "Ten twenty",
     "quote_last": ".”",
     "title": "Blind Willow, Sleeping Woman",
@@ -3937,14 +3777,6 @@
   },
   {
     "time": "10:29",
-    "quote_first": "Even when I had to say something, the right words just wouldn’t come out. And every time I hesitated, every time I swallowed back something I was about to say, my cousin looked at me with a slightly confused look on his face. His left ear tilted ever so slightly toward me. <br>“What time is it now?” he asked me.<br>“",
-    "quote_time_case": "Ten twenty nine",
-    "quote_last": ",” I replied.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "10:29",
     "quote_first": "Even when I had to say something, the right words just wouldn’t come out. And every time I hesitated, every time I swallowed back something I was about to say, my cousin looked at me with a slightly confused look on his face. His left ear tilted ever so slightly toward me.  “What time is it now?” he asked me. “",
     "quote_time_case": "Ten twenty nine",
     "quote_last": ",” I replied.",
@@ -3963,7 +3795,7 @@
     "time": "10:32",
     "quote_first": "It was ",
     "quote_time_case": "ten thirty-two",
-    "quote_last": " when the bus finally rolled into view.<br>The bus that came was a new type, not like the one I used to take to high school.",
+    "quote_last": " when the bus finally rolled into view. The bus that came was a new type, not like the one I used to take to high school.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -3979,7 +3811,7 @@
     "time": "10:36",
     "quote_first": "Strand post mark and dispatched ",
     "quote_time_case": "ten thirty-six",
-    "quote_last": ", said Holmes reading it over and over. \"Mr. Overton was evidently considerably excited when he sent it over and somewhat incoherent in consequence.\"",
+    "quote_last": ", said Holmes reading it over and over. \"Mr Overton was evidently considerably excited when he sent it over and somewhat incoherent in consequence.\"",
     "title": "The Adventure of the Missing Three-Quarter",
     "author": "Sir Arthur Conan Doyle"
   },
@@ -3993,7 +3825,7 @@
   },
   {
     "time": "10:38",
-    "quote_first": "“At what time will it be ready?” asked Mr. Codlin faintly.<br/>“It’ll be done to a turn,” said the landlord looking up to the clock – and the very clock had a colour in its fat white face, and looked a clock for Jolly Sandboys to consult – “it’ll be done to a turn at ",
+    "quote_first": "“At what time will it be ready?” asked Mr Codlin faintly.<br/>“It’ll be done to a turn,” said the landlord looking up to the clock – and the very clock had a colour in its fat white face, and looked a clock for Jolly Sandboys to consult – “it’ll be done to a turn at ",
     "quote_time_case": "twenty-two minutes before eleven",
     "quote_last": ".”",
     "title": "The Old Curiosity Shop",
@@ -4033,7 +3865,7 @@
   },
   {
     "time": "10:55",
-    "quote_first": "Mr. Justice Wargrave said:<br>“It is now ",
+    "quote_first": "Mr Justice Wargrave said: “It is now ",
     "quote_time_case": "five minutes to eleven",
     "quote_last": ". I think we should summon Miss Brent to join our conclave.”",
     "title": "And Then There Were None",
@@ -4105,7 +3937,7 @@
   },
   {
     "time": "11:00",
-    "quote_first": "There was a movement and an exclamation from my right, and peering through the gloom I saw Whitney, pale, haggard, and unkempt, staring out at me.<br>“My God! It’s Watson,” said he. He was in a pitiable state of reaction, with every nerve in a twitter. “I say, Watson, what o’clock is it?”<br>“Nearly ",
+    "quote_first": "There was a movement and an exclamation from my right, and peering through the gloom I saw Whitney, pale, haggard, and unkempt, staring out at me. “My God! It’s Watson,” said he. He was in a pitiable state of reaction, with every nerve in a twitter. “I say, Watson, what o’clock is it?” “Nearly ",
     "quote_time_case": "eleven",
     "quote_last": ".”",
     "title": "The Adventures of Sherlock Holmes",
@@ -4115,7 +3947,7 @@
     "time": "11:00",
     "quote_first": "The day agreed upon was pouring rain. At ",
     "quote_time_case": "eleven o’clock",
-    "quote_last": " a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr. Gatsby had sent him over to cut my grass.",
+    "quote_last": " a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr Gatsby had sent him over to cut my grass.",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald"
   },
@@ -4233,17 +4065,17 @@
   },
   {
     "time": "11:00",
-    "quote_first": "We got to Waterloo at eleven, and asked where the eleven-five started from. Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it",
+    "quote_first": "We got to Waterloo ",
     "quote_time_case": "At eleven",
-    "quote_last": "o Waterloo at eleven, and asked where the eleven-five started from. Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it.",
+    "quote_last": ", and asked where the eleven-five started from. Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it.",
     "title": "Three Men in a Boat ",
     "author": "Jerome K Jerome"
   },
   {
     "time": "11:00",
-    "quote_first": "We got to Waterloo at eleven, and asked where the eleven-five started from.Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it",
+    "quote_first": "We got to Waterloo ",
     "quote_time_case": "At eleven",
-    "quote_last": "o Waterloo at eleven, and asked where the eleven-five started from.Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it.",
+    "quote_last": ", and asked where the eleven-five started from.Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it.",
     "title": "Three Men in a Boat ",
     "author": "Jerome K Jerome"
   },
@@ -4305,14 +4137,6 @@
   },
   {
     "time": "11:15",
-    "quote_first": "We were seated at breakfast one morning, my wife and I, when the maid brought in a telegram. It was from Sherlock Holmes and ran in this way: Have you a couple of days to spare? Have just been wired for from the west of England in connection with Boscombe Valley tragedy. Shall be glad if you will come with me. Air and scenery perfect. Leave Paddington by the ",
-    "quote_time_case": "11:15",
-    "quote_last": ".",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "11:15",
     "quote_first": "\"Have you a couple of days to spare? Have just been wired for from the west of England in connection with Boscombe Valley tragedy. Shall be glad if you will come with me. Air and scenery perfect. Leave Paddington by the ",
     "quote_time_case": "11:15",
     "quote_last": ".\"",
@@ -4331,7 +4155,7 @@
     "time": "11:17",
     "quote_first": "Mrs. Mooney glanced instinctively at the little gilt clock on the mantelpiece as soon as she had become aware through her revery that the bells of George's Church had stopped ringing. It was ",
     "quote_time_case": "seventeen minutes past eleven",
-    "quote_last": ": she would have lots of time to have the matter out with Mr. Doran and then catch short twelve at Marlborough Street. She was sure she would win.",
+    "quote_last": ": she would have lots of time to have the matter out with Mr Doran and then catch short twelve at Marlborough Street. She was sure she would win.",
     "title": "Dubliners",
     "author": "James Joyce"
   },
@@ -4417,7 +4241,7 @@
   },
   {
     "time": "11:35",
-    "quote_first": "This was exactly the kind of case I’d been hoping for. I went through the motions of checking my schedule, though, and pretended to be shuffling a few things around. If you instantly agree to take a case, the client might suspect some ulterior motive.<br>“Luckily I’m free until later this afternoon,” I said, shooting my watch a glance. It was ",
+    "quote_first": "This was exactly the kind of case I’d been hoping for. I went through the motions of checking my schedule, though, and pretended to be shuffling a few things around. If you instantly agree to take a case, the client might suspect some ulterior motive. “Luckily I’m free until later this afternoon,” I said, shooting my watch a glance. It was ",
     "quote_time_case": "eleven thirty-five",
     "quote_last": ". “If you don’t mind, could you take me over to your building now? I’d like to see the last place you saw your husband.”",
     "title": "Blind Willow, Sleeping Woman",
@@ -4430,14 +4254,6 @@
     "quote_last": " the Colonel came out; he looked hot and angry as he strode towards the lift. There goes a hanging judge, thought Wormold.",
     "title": "Our Man in Havana",
     "author": "Graham Greene"
-  },
-  {
-    "time": "11:35",
-    "quote_first": "This was exactly the kind of case I’d been hoping for. I went through the motions of checking my schedule, though, and pretended to be shuffling a few things around. If you instantly agree to take a case, the client might suspect some ulterior motive. “Luckily I’m free until later this afternoon,” I said, shooting my watch a glance. It was ",
-    "quote_time_case": "eleven thirty-five",
-    "quote_last": ". “If you don’t mind, could you take me over to your building now? I’d like to see the last place you saw your husband.”",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "11:40",
@@ -4545,14 +4361,6 @@
   },
   {
     "time": "11:55",
-    "quote_first": "Mr. Justice Wargrave said: “It is now ",
-    "quote_time_case": "five minutes to eleven",
-    "quote_last": ". I think we should summon Miss Brent to join our conclave.”",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
-  },
-  {
-    "time": "11:55",
     "quote_first": "What time did you arrive at the site? It was ",
     "quote_time_case": "11:55",
     "quote_last": ". I remember since I happened to glance at my watch when we got there. We rode our bicycles to the bottom of the hill, as far as we could go, then climbed the rest of the way on foot.",
@@ -4593,15 +4401,15 @@
   },
   {
     "time": "12:00",
-    "quote_first": "“Do you you include violin playing in your category of rows?” he asked, anxiously. <br>“It depends on the player,” I answered, “A well-played violin is a treat for the gods - a badly played one --”<br>“Oh, that’s all right, he cried, with a merry laugh. “I think we may consider the thing as settled — that is, if the rooms are agreeable to you.” <br>“When shall we see them?”<br>“Call for me at ",
+    "quote_first": "“Do you you include violin playing in your category of rows?” he asked, anxiously.  “It depends on the player,” I answered, “A well-played violin is a treat for the gods - a badly played one --” “Oh, that’s all right, he cried, with a merry laugh. “I think we may consider the thing as settled — that is, if the rooms are agreeable to you.”  “When shall we see them?” “Call for me at ",
     "quote_time_case": "noon",
-    "quote_last": " to-morrow, and we’ll go together and settle everything,” he answered.<br>“All right — noon exactly,” said I, shaking his hand.",
+    "quote_last": " to-morrow, and we’ll go together and settle everything,” he answered. “All right — noon exactly,” said I, shaking his hand.",
     "title": "A Study in Scarlet",
     "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "12:00",
-    "quote_first": "Prowling around aimlessly. A beautiful day—so far. The Rue de Buci is alive, crawling. The bars wide open and the curbs lined with bicycles. All the meat and vegetable markets are in full swing. Arms loaded with truck bandaged in newspapers. A fine Catholic Sunday—in the morning, at least.<br>",
+    "quote_first": "Prowling around aimlessly. A beautiful day—so far. The Rue de Buci is alive, crawling. The bars wide open and the curbs lined with bicycles. All the meat and vegetable markets are in full swing. Arms loaded with truck bandaged in newspapers. A fine Catholic Sunday—in the morning, at least. ",
     "quote_time_case": "High noon",
     "quote_last": " and here I am standing on an empty belly at the confluence of all these crooked lanes that reek with the odor of food.",
     "title": "Tropic of Cancer",
@@ -4609,15 +4417,15 @@
   },
   {
     "time": "12:00",
-    "quote_first": "“What’s the time?” he said to the clock. It dipped its head, sproinged upright again.<br>“It’s ",
+    "quote_first": "“What’s the time?” he said to the clock. It dipped its head, sproinged upright again. “It’s ",
     "quote_time_case": "noon",
-    "quote_last": ". It’s noon, it’s noon, it’s . . .”<br>“Shut up,” said Jimmy. The clock wilted. It was programmed to respond to harsh tones.",
+    "quote_last": ". It’s noon, it’s noon, it’s . . .” “Shut up,” said Jimmy. The clock wilted. It was programmed to respond to harsh tones.",
     "title": "Oryx and Crake",
     "author": "Margaret Atwood"
   },
   {
     "time": "12:00",
-    "quote_first": "“Excellent. You are not averse to this trip, Watson?”<br>“By no means.”<br>“Then we shall both come. What are you going to do yourself?”<br>“I have one or two things which I would wish to do now that I am in town. But I shall return by the ",
+    "quote_first": "“Excellent. You are not averse to this trip, Watson?” “By no means.” “Then we shall both come. What are you going to do yourself?” “I have one or two things which I would wish to do now that I am in town. But I shall return by the ",
     "quote_time_case": "twelve o’clock",
     "quote_last": " train, so as to be there in time for your coming.”",
     "title": "The Adventures of Sherlock Holmes",
@@ -4686,30 +4494,6 @@
     "quote_last": " of the clock.<br/>\"Now they are all on their knees,\"<br/>An elder said as we sat in a flock<br/>By the embers in hearthside ease.<br/>We pictured the meek mild creatures where<br/>They dwelt in their strawy pen,<br/>Nor did it occur to one of us there<br/>To doubt they were kneeling then.<br/>So fair a fancy few would weave<br/>In these years! Yet, I feel,<br/>If someone said on Christmas Eve,<br/>“Come; see the oxen kneel,<br/>“In the lonely barton by yonder coomb<br/>Our childhood used to know,”<br/>I should go with him in the gloom,<br/>Hoping it might be so.",
     "title": "The Oxen",
     "author": "Thomas Hardy"
-  },
-  {
-    "time": "12:00",
-    "quote_first": "“Do you you include violin playing in your category of rows?” he asked, anxiously.  “It depends on the player,” I answered, “A well-played violin is a treat for the gods - a badly played one --” “Oh, that’s all right, he cried, with a merry laugh. “I think we may consider the thing as settled — that is, if the rooms are agreeable to you.”  “When shall we see them?” “Call for me at ",
-    "quote_time_case": "noon",
-    "quote_last": " to-morrow, and we’ll go together and settle everything,” he answered. “All right — noon exactly,” said I, shaking his hand.",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "12:00",
-    "quote_first": "Prowling around aimlessly. A beautiful day—so far. The Rue de Buci is alive, crawling. The bars wide open and the curbs lined with bicycles. All the meat and vegetable markets are in full swing. Arms loaded with truck bandaged in newspapers. A fine Catholic Sunday—in the morning, at least. ",
-    "quote_time_case": "High noon",
-    "quote_last": " and here I am standing on an empty belly at the confluence of all these crooked lanes that reek with the odor of food.",
-    "title": "Tropic of Cancer",
-    "author": "Henry Miller"
-  },
-  {
-    "time": "12:00",
-    "quote_first": "“What’s the time?” he said to the clock. It dipped its head, sproinged upright again. “It’s ",
-    "quote_time_case": "noon",
-    "quote_last": ". It’s noon, it’s noon, it’s . . .” “Shut up,” said Jimmy. The clock wilted. It was programmed to respond to harsh tones.",
-    "title": "Oryx and Crake",
-    "author": "Margaret Atwood"
   },
   {
     "time": "12:00",
@@ -4849,7 +4633,7 @@
   },
   {
     "time": "12:20",
-    "quote_first": "“But by the time he reached the top of the hill the woman’s body had basically been eaten up already by the flies, right?” my friend said.<br>“In a sense,” his girlfriend replied.<br>“In a sense being eaten by the flies makes it a sad story, doesn’t it?” my friend said.<br>“Yes, I guess so,” she said after giving it some thought. “What do  you think?” she asked me.<br>“Sounds like a sad story to me,” I replied.<br>It was ",
+    "quote_first": "“But by the time he reached the top of the hill the woman’s body had basically been eaten up already by the flies, right?” my friend said. “In a sense,” his girlfriend replied. “In a sense being eaten by the flies makes it a sad story, doesn’t it?” my friend said. “Yes, I guess so,” she said after giving it some thought. “What do  you think?” she asked me. “Sounds like a sad story to me,” I replied. It was ",
     "quote_time_case": "twelve twenty",
     "quote_last": " when my cousin came back.",
     "title": "Blind Willow, Sleeping Woman",
@@ -4905,9 +4689,9 @@
   },
   {
     "time": "12:43",
-    "quote_first": "Died five minutes ago, you say? he asked. His eye went to the watch on his wrist. Twelve-forty-three, he wrote on the blotter",
+    "quote_first": "Died five minutes ago, you say? he asked. His eye went to the watch on his wrist. ",
     "quote_time_case": "twelve-forty-three",
-    "quote_last": " ago, you say? he asked. His eye went to the watch on his wrist. Twelve-forty-three, he wrote on the blotter.",
+    "quote_last": ", he wrote on the blotter.",
     "title": "A Pocket Full of Rye",
     "author": "Agatha Christie"
   },
@@ -5105,17 +4889,17 @@
   },
   {
     "time": "13:17",
-    "quote_first": "One seventeen and four seconds. That shorter guy’s really got it made, and gets on a scooter, and that taller one, he goes in. One seventeen and forty seconds. That girl there, she’s got a green ribbon in her hair. Too bad that bus just cut her from view",
+    "quote_first": "",
     "quote_time_case": "one seventeen",
-    "quote_last": "n and four seconds. That shorter guy’s really got it made, and gets on a scooter, and that taller one, he goes in. One seventeen and forty seconds. That girl there, she’s got a green ribbon in her hair. Too bad that bus just cut her from view.",
+    "quote_last": " and four seconds. That shorter guy’s really got it made, and gets on a scooter, and that taller one, he goes in. One seventeen and forty seconds. That girl there, she’s got a green ribbon in her hair. Too bad that bus just cut her from view.",
     "title": "The Terrorist, He Watches",
     "author": "Wislawa Szymborska"
   },
   {
     "time": "13:18",
-    "quote_first": "One eighteen exactly. Was she stupid enough to head inside? Or wasn't she? We'll know before long, When the dead are carried out",
+    "quote_first": "",
     "quote_time_case": "one eighteen",
-    "quote_last": "n exactly. Was she stupid enough to head inside? Or wasn't she? We'll know before long, When the dead are carried out.",
+    "quote_last": " exactly. Was she stupid enough to head inside? Or wasn't she? We'll know before long, When the dead are carried out.",
     "title": "The Terrorist, He Watches",
     "author": "Wislawa Szymborska"
   },
@@ -5145,17 +4929,17 @@
   },
   {
     "time": "13:25",
-    "quote_first": "I'd really have liked to, I told her, if it weren't for the things I had in the dryer. I cast an eye at my watch. One-twenty-five. The dryer had already stopped",
+    "quote_first": "I'd really have liked to, I told her, if it weren't for the things I had in the dryer. I cast an eye at my watch. ",
     "quote_time_case": "one-twenty-five",
-    "quote_last": "e liked to, I told her, if it weren't for the things I had in the dryer. I cast an eye at my watch. One-twenty-five. The dryer had already stopped.",
+    "quote_last": ". The dryer had already stopped.",
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami"
   },
   {
     "time": "13:25",
-    "quote_first": "I'd really have liked to, I told her, if it weren't for the things I had in the drier. I cast an eye at my watch. One-twenty-five. The drier had already stopped",
+    "quote_first": "I'd really have liked to, I told her, if it weren't for the things I had in the drier. I cast an eye at my watch. ",
     "quote_time_case": "one-twenty-five",
-    "quote_last": "e liked to, I told her, if it weren't for the things I had in the drier. I cast an eye at my watch. One-twenty-five. The drier had already stopped.",
+    "quote_last": ". The drier had already stopped.",
     "title": "Hard Boiled Wonderland and the End of the World ",
     "author": "Haruki Murakami"
   },
@@ -5281,7 +5065,7 @@
   },
   {
     "time": "14:00",
-    "quote_first": "“How odd… I’m almost happy. And yet I suppose I’m actually in danger… Somehow - now - nothing seems to matter… not in daylight… I feel full of power - I feel that I can’t die…”<br>Blore was looking at his wrist-watch. He said:<br>“It’s ",
+    "quote_first": "“How odd… I’m almost happy. And yet I suppose I’m actually in danger… Somehow - now - nothing seems to matter… not in daylight… I feel full of power - I feel that I can’t die…” Blore was looking at his wrist-watch. He said: “It’s ",
     "quote_time_case": "two o’clock",
     "quote_last": ". What about lunch?” ",
     "title": "And Then There Were None",
@@ -5318,14 +5102,6 @@
     "quote_last": ". She left the office early, telling Dr. Van Vleet she felt she was coming down with something. Really it’s Nate who is coming down with something: he phones from his house, nasal, forlorn, he has to see her. ",
     "title": "Life Before Man",
     "author": "Margaret Atwood"
-  },
-  {
-    "time": "14:00",
-    "quote_first": "“How odd… I’m almost happy. And yet I suppose I’m actually in danger… Somehow - now - nothing seems to matter… not in daylight… I feel full of power - I feel that I can’t die…” Blore was looking at his wrist-watch. He said: “It’s ",
-    "quote_time_case": "two o’clock",
-    "quote_last": ". What about lunch?” ",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
   },
   {
     "time": "14:00",
@@ -5425,9 +5201,9 @@
   },
   {
     "time": "14:36",
-    "quote_first": "I look at my watch. Two thirty-six. All I've got left today is take in the laundry and fix dinner",
+    "quote_first": "I look at my watch. ",
     "quote_time_case": "two thirty-six",
-    "quote_last": "watch. Two thirty-six. All I've got left today is take in the laundry and fix dinner.",
+    "quote_last": ". All I've got left today is take in the laundry and fix dinner.",
     "title": "The Elephant Vanishes",
     "author": "Haruki Murakami"
   },
@@ -5456,18 +5232,34 @@
     "author": "J.D. Salinger"
   },
   {
+    "time": "14:41",
+    "quote_first": "At ",
+    "quote_time_case": "2.41",
+    "quote_last": ", when the afternoon fast train to London was pulling out of Larborough prompt to the minute, Miss Pym sat under the cedar on the lawn wondering whether she was a fool, and not caring much anyhow.",
+    "title": "Miss Pym Disposes",
+    "author": "Josephine Tey"
+  },
+  {
+    "time": "14:52",
+    "quote_first": "Mr Kesselbach, it is ",
+    "quote_time_case": "eight minutes to three",
+    "quote_last": ". If you don't answer within eight minutes from now, you are a dead man!",
+    "title": "813",
+    "author": "Maurice LeBlanc"
+  },
+  {
     "time": "14:55",
-    "quote_first": "The superior, the very reverend John Conmee S.J. reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane",
+    "quote_first": "The superior, the very reverend John Conmee S.J. reset his smooth watch in his interior pocket as he came down the presbytery steps. ",
     "quote_time_case": "five to three",
-    "quote_last": ", the very reverend John Conmee S.J. reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane.",
+    "quote_last": ". Just nice time to walk to Artane.",
     "title": "Ulysses",
     "author": "James Joyce"
   },
   {
     "time": "14:55",
-    "quote_first": "The superior, the very reverend John Conmee SJ reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane",
+    "quote_first": "The superior, the very reverend John Conmee SJ reset his smooth watch in his interior pocket as he came down the presbytery steps. ",
     "quote_time_case": "five to three",
-    "quote_last": ", the very reverend John Conmee SJ reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane.",
+    "quote_last": ". Just nice time to walk to Artane.",
     "title": "Ulysses",
     "author": "James Joyce"
   },
@@ -5481,9 +5273,9 @@
   },
   {
     "time": "14:59",
-    "quote_first": "About three o’clock the four couples, frightened at their happiness, were sliding down the Russian mountains, a singular edifice which then occupied the heights of Beaujon, and whose undulating line was visible above the trees of the Champs Élysées",
+    "quote_first": "",
     "quote_time_case": "about three o’clock",
-    "quote_last": "k the four couples, frightened at their happiness, were sliding down the Russian mountains, a singular edifice which then occupied the heights of Beaujon, and whose undulating line was visible above the trees of the Champs Élysées.",
+    "quote_last": " the four couples, frightened at their happiness, were sliding down the Russian mountains, a singular edifice which then occupied the heights of Beaujon, and whose undulating line was visible above the trees of the Champs Élysées.",
     "title": "Les Misérables",
     "author": "Victor Hugo"
   },
@@ -5515,7 +5307,7 @@
     "time": "15:00",
     "quote_first": "At ",
     "quote_time_case": "three o’clock on the afternoon",
-    "quote_last": " there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr. Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood. His expression was downcast, and his bearing meek and even apologetic.",
+    "quote_last": " there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood. His expression was downcast, and his bearing meek and even apologetic.",
     "title": "The Sign of Four",
     "author": "Sir Arthur Conan Doyle"
   },
@@ -5593,9 +5385,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already",
+    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? ",
     "quote_time_case": "three",
-    "quote_last": "the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already!",
+    "quote_last": ", good Heavens! Three already!",
     "title": "Mrs. Dalloway",
     "author": "Virginia Woolf"
   },
@@ -5619,7 +5411,7 @@
     "time": "15:00",
     "quote_first": "It was ",
     "quote_time_case": "three o'clock",
-    "quote_last": " in the beautiful breezy autumn day when Mr. Casaubon drove off to his Rectory at Lowick, only five miles from Tipton; and Dorothea, who had on her bonnet and shawl, hurried along the shrubbery and across the park that she might wander through the bordering wood with no other visible companionship than that of Monk, the Great St. Bernard dog, who always took care of the young ladies in their walks",
+    "quote_last": " in the beautiful breezy autumn day when Mr Casaubon drove off to his Rectory at Lowick, only five miles from Tipton; and Dorothea, who had on her bonnet and shawl, hurried along the shrubbery and across the park that she might wander through the bordering wood with no other visible companionship than that of Monk, the Great St. Bernard dog, who always took care of the young ladies in their walks",
     "title": "Middlemarch",
     "author": "George Eliot"
   },
@@ -5641,9 +5433,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "The scent and smoke and sweat of a casino are nauseating at three in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it",
+    "quote_first": "The scent and smoke and sweat of a casino are nauseating ",
     "quote_time_case": "At three",
-    "quote_last": "nt and smoke and sweat of a casino are nauseating at three in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it.",
+    "quote_last": " in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it.",
     "title": "Casino Royale",
     "author": "Ian Fleming"
   },
@@ -5705,9 +5497,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already",
+    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! ",
     "quote_time_case": "three ",
-    "quote_last": "he sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already!",
+    "quote_last": "already!",
     "title": "Mrs Dalloway",
     "author": "Virginia Woolf"
   },
@@ -5721,17 +5513,17 @@
   },
   {
     "time": "15:00",
-    "quote_first": "Ditched by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed at three in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr",
+    "quote_first": "Ditched by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed ",
     "quote_time_case": "At three",
-    "quote_last": " by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed at three in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr.",
+    "quote_last": " in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr.",
     "title": "Essays in Love ",
     "author": "Alain de Botton"
   },
   {
     "time": "15:00",
-    "quote_first": "Three o'clock is always too late or too early for anything you want to do",
+    "quote_first": "",
     "quote_time_case": "three o'clock",
-    "quote_last": "k is always too late or too early for anything you want to do.",
+    "quote_last": " is always too late or too early for anything you want to do.",
     "title": "Nausea ",
     "author": "Jean-Paul Sartre"
   },
@@ -5761,9 +5553,9 @@
   },
   {
     "time": "15:14",
-    "quote_first": "I shall be back at exactly THREE fourteen, for our hour of revery together, real sweet revery darlin",
+    "quote_first": "I shall be back at exactly ",
     "quote_time_case": "three fourteen",
-    "quote_last": "ck at exactly THREE fourteen, for our hour of revery together, real sweet revery darling",
+    "quote_last": ", for our hour of revery together, real sweet revery darling",
     "title": "On the Road ",
     "author": "Jack Kerouac"
   },
@@ -5793,7 +5585,7 @@
   },
   {
     "time": "15:25",
-    "quote_first": "The next afternoon Mr. Underhill finished at the office early and took the three o'clock train, arriving out in Green Town at ",
+    "quote_first": "The next afternoon Mr Underhill finished at the office early and took the three o'clock train, arriving out in Green Town at ",
     "quote_time_case": "three twenty-five",
     "quote_last": ", in plenty of time to drink in the brisk rays of the autumnal sun.",
     "title": "The Playground",
@@ -5891,17 +5683,17 @@
     "time": "15:45",
     "quote_first": "“Well, it’s already ",
     "quote_time_case": "three forty-five",
-    "quote_last": ". You’ll never make it.”<br>“Is the backup bad?”<br>“Looks like a major accident up ahead. This is no ordinary traffic jam. We’ve hardly moved for quite a while.”",
+    "quote_last": ". You’ll never make it.” “Is the backup bad?” “Looks like a major accident up ahead. This is no ordinary traffic jam. We’ve hardly moved for quite a while.”",
     "title": "1Q84, Book One",
     "author": "Haruki Murakami"
   },
   {
-    "time": "15:45",
-    "quote_first": "“Well, it’s already ",
-    "quote_time_case": "three forty-five",
-    "quote_last": ". You’ll never make it.” “Is the backup bad?” “Looks like a major accident up ahead. This is no ordinary traffic jam. We’ve hardly moved for quite a while.”",
-    "title": "1Q84, Book One",
-    "author": "Haruki Murakami"
+    "time": "15:46",
+    "quote_first": "I authorize you to leave this room at ",
+    "quote_time_case": "fourteen minutes to four",
+    "quote_last": ". Not a moment before fourteen minutes to four. . . Is it understood?",
+    "title": "The Blonde Lady",
+    "author": "Maurice LeBlanc"
   },
   {
     "time": "15:47",
@@ -5963,7 +5755,7 @@
     "time": "16:00",
     "quote_first": "I followed his gaze to the mantelpiece. The clock had stopped at ",
     "quote_time_case": "four o’clock",
-    "quote_last": ".<br>“Mon ami, someone has tampered with it. It had still three days to run. It is an eight-day clock, you comprehend?”<br>“But what should they want to do that for? Some idea of a false scent by making the crime appear to have taken place at four o’clock?”",
+    "quote_last": ". “Mon ami, someone has tampered with it. It had still three days to run. It is an eight-day clock, you comprehend?” “But what should they want to do that for? Some idea of a false scent by making the crime appear to have taken place at four o’clock?”",
     "title": "The Big Four",
     "author": "Agatha Christie"
   },
@@ -5987,7 +5779,7 @@
     "time": "16:00",
     "quote_first": "“At ",
     "quote_time_case": "four o’clock",
-    "quote_last": ", therefore, we may expect this peace-making gentleman,\" said Mr. Bennet, as he folded up the letter.",
+    "quote_last": ", therefore, we may expect this peace-making gentleman,\" said Mr Bennet, as he folded up the letter.",
     "title": "Pride and Prejudice",
     "author": "Jane Austen"
   },
@@ -6009,9 +5801,9 @@
   },
   {
     "time": "16:00",
-    "quote_first": "“If you should have no objection to receive me into your house,<br>I propose myself the satisfaction of waiting on you and your family,<br>Monday, November 18th, by ",
+    "quote_first": "“If you should have no objection to receive me into your house, I propose myself the satisfaction of waiting on you and your family, Monday, November 18th, by ",
     "quote_time_case": "four o’clock",
-    "quote_last": ", and shall probably trespass<br>on your hospitality till the Saturday se’ennight following, which I can<br>do without any inconvenience, as Lady Catherine is far from objecting<br>to my occasional absence on a Sunday, provided that some other clergyman is engaged to do the duty of the day.”",
+    "quote_last": ", and shall probably trespass on your hospitality till the Saturday se’ennight following, which I can do without any inconvenience, as Lady Catherine is far from objecting to my occasional absence on a Sunday, provided that some other clergyman is engaged to do the duty of the day.”",
     "title": "Pride and Prejudice",
     "author": "Jane Austen"
   },
@@ -6113,14 +5905,6 @@
   },
   {
     "time": "16:00",
-    "quote_first": "“If you should have no objection to receive me into your house, I propose myself the satisfaction of waiting on you and your family, Monday, November 18th, by ",
-    "quote_time_case": "four o’clock",
-    "quote_last": ", and shall probably trespass on your hospitality till the Saturday se’ennight following, which I can do without any inconvenience, as Lady Catherine is far from objecting to my occasional absence on a Sunday, provided that some other clergyman is engaged to do the duty of the day.”",
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen"
-  },
-  {
-    "time": "16:00",
     "quote_first": "“Later in the morning, and just as the girls were going to separate in preparation for the regular ",
     "quote_time_case": "four o’clock",
     "quote_last": " dinner, the hero of this inimitable charade walked in again.”",
@@ -6153,33 +5937,33 @@
   },
   {
     "time": "16:00",
-    "quote_first": "Miss Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. Four? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said",
+    "quote_first": "Miss Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. ",
     "quote_time_case": "four",
-    "quote_last": "s Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. Four? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said.",
+    "quote_last": "? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said.",
     "title": "Ulysses ",
     "author": "James Joyce"
   },
   {
     "time": "16:05",
-    "quote_first": "I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, \"Could you please tell me the time?\"<br/>I glanced at my watch. \"Five past four.",
+    "quote_first": "I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, \"Could you please tell me the time?\"<br/>I glanced at my watch. \"",
     "quote_time_case": "five past four",
-    "quote_last": "g at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, \"Could you please tell me the time?\"<br/>I glanced at my watch. \"Five past four.\"",
+    "quote_last": ".\"",
     "title": "The Bell Jar",
     "author": "Sylvia Plath"
   },
   {
     "time": "16:05",
-    "quote_first": "I had met Irwin on the steps of the Widener Library. I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, 'Could you please tell me the time?' I glanced at my watch. 'Five past four.",
+    "quote_first": "I had met Irwin on the steps of the Widener Library. I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, 'Could you please tell me the time?' I glanced at my watch. '",
     "quote_time_case": "five past four",
-    "quote_last": "in on the steps of the Widener Library. I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, 'Could you please tell me the time?' I glanced at my watch. 'Five past four.'",
+    "quote_last": ".'",
     "title": "The Bell Jar ",
     "author": "Sylvia Plath"
   },
   {
     "time": "16:05",
-    "quote_first": "I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, 'Could you please tell me the time?' I glanced at my watch. 'Five past four.",
+    "quote_first": "I was standing at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, 'Could you please tell me the time?' I glanced at my watch. '",
     "quote_time_case": "five past four",
-    "quote_last": "g at the top of the long flight, overlooking the red brick buildings that walled the snow-filled quad and preparing to catch the trolley back to the asylum, when a tall young man with a rather ugly and bespectacled, but intelligent face, came up and said, 'Could you please tell me the time?' I glanced at my watch. 'Five past four.'",
+    "quote_last": ".'",
     "title": "The Bell Jar",
     "author": "Sylvia Plath"
   },
@@ -6259,7 +6043,7 @@
     "time": "16:30",
     "quote_first": "But I believe,” he pulled out his watch, “I can spend an hour with you. It’s ",
     "quote_time_case": "half-past four",
-    "quote_last": " now. If only I’d been something, a landowner, a father, a cavalry officer, a photographer, a journalist … I am nothing, no specialty, and sometimes I am positively bored. I really thought you would tell me something new.”|Crime and Punishment|Fyodor Dostoyevsky|sfw\n16:30|4:30|At 4:30 Gunther came back to House Berg with his arms full of yellow daffodils. Frau Julia was Frau Julia again, and she received both him and the daffodils with open arms.|Bright Valley of Love|Edna Hong|sfw\n16:30|4:30|The local police wouldn't relish being called out at 4:30 on Christmas Eve, and if this was some kind of hoax he preferred not to be an active participant.|The Mistletoe Murder|P.D. James|sfw\n16:30|four-thirty|“I won’t go in,” she says. “I’ll meet you on the steps at four-thirty. We can take the girls to Murray’s for a sundae or something.”<br>He seems relieved. “Right,” he says.<br>“Tell the children to enjoy themselves.”|Life Before Man|Margaret Atwood|unknown\n16:30|Four thirty|Jonas rolls painfully out of the hammock, his aching lower back stiff and swollen, in desperate need of a chiropractor. He checks his watch. Four thirty…but is it a.m. or p.m.?|Meg, Primal Waters|Steve Alten|unknown\n16:30|four thirty p.m.|Sometimes I wonder what happened to the girl—the thought usually pops into my mind when I’m facing a steaming-hot plate of spaghetti. After she hung up, did she disappear forever, sucked into the four thirty p.m. shadows? Was I partly to blame? <br>I want you to understand my position, though. At the time, I didn’t want to get involved with anyone. That’s why I kept on cooking spaghetti, all by myself. In that huge pot, big enough to hold a German shepherd.|Blind Willow, Sleeping Woman|Haruki Murakami|unknown\n16:30|four-thirty|At four-thirty I dash out of the hotel, resolved to make a last-minute stab at it. Just as I turn the corner I brush against Walter Pach. Since he doesn’t recognize me, and since I have nothing to say to him, I make no attempt to arrest him. Later, when I am stretching my legs in the Tuileries his figure reverts to mind.|Tropic of Cancer|Henry Miller|unknown\n16:30|four-thirty|A server is woken at hour four-thirty by stimulin in the airflow, then yellow-up in our dormroom. After a minute in the hygiener and steamer, we put on fresh uniforms before filing into the restaurant.|Cloud Atlas|David Mitchell|unknown\n16:30|four-thirty|This afternoon everything is matching up. When the swing shift comes on duty the clock says four-thirty, just like it should.|One Flew Over the Cuckoo’s Nest|Ken Kesey|unknown\n16:30|half-past four|I looked at the clock. It was half-past four. “Had no idea what hour it was,” Brett said. “I say, can a chap sit down? Don’t be cross, darling. Just left the count. He brought me here.”|The Sun Also Rises|Ernest Hemingway|unknown\n16:30|four-thirty|At four-thirty that afternoon in late January when I stepped into the parlour with Boo, my dog, Hutch was in his favourite armchair, scowling at the television, which he had muted.|Odd Hours|Dean Koontz|unknown\n16:30|four thirty|I leave the office at four thirty, head up to Xclusive where I work out on free weights for an hour, then taxi across the park to Gio's in the Pierre Room for a facial, a manicure and, if time permits, a pedicure.|American Psycho|Bret Easton Ellis|unknown\n16:30|four-thirty|She hung up on me at first, then asked me whether I made a point of behaving like a 'small-time suburban punk' with women I had slept with. But after apologies, insults, laughter, and tears, Romeo and Juliet were to be seen together later that afternoon, mushily holding hands in the dark at a four-thirty screening of L ove and Death at the National Film Theatre. Happy endings – for now at least.|Essays in Love|Alain de Botton|unknown\n16:31|4:31 PM|From: Renee Greene – August 5, 2011 – 4:31 PM To: Shelley Manning Subject: Re: All Access What should I be worried about, then? JUST KIDDING. You're right. Well, I gotta run, my groupie friend. I actually have REAL work to do. I'll talk to you tonight.|Click: An Online Love Story|Lisa Becker|unknown\n16:32|4.32 pm|4.32 pm. Now the eight Marines next to us leave their emplacement and file quickly past, the last saying, Go! Go! Go!\" They break into a run.",
+    "quote_last": " now. If only I’d been something, a landowner, a father, a cavalry officer, a photographer, a journalist … I am nothing, no specialty, and sometimes I am positively bored. I really thought you would tell me something new.”|Crime and Punishment|Fyodor Dostoyevsky|sfw\n16:30|4:30|At 4:30 Gunther came back to House Berg with his arms full of yellow daffodils. Frau Julia was Frau Julia again, and she received both him and the daffodils with open arms.|Bright Valley of Love|Edna Hong|sfw\n16:30|4:30|The local police wouldn't relish being called out at 4:30 on Christmas Eve, and if this was some kind of hoax he preferred not to be an active participant.|The Mistletoe Murder|P.D. James|sfw\n16:30|four-thirty|“I won’t go in,” she says. “I’ll meet you on the steps at four-thirty. We can take the girls to Murray’s for a sundae or something.” He seems relieved. “Right,” he says. “Tell the children to enjoy themselves.”|Life Before Man|Margaret Atwood|unknown\n16:30|Four thirty|Jonas rolls painfully out of the hammock, his aching lower back stiff and swollen, in desperate need of a chiropractor. He checks his watch. Four thirty…but is it a.m. or p.m.?|Meg, Primal Waters|Steve Alten|unknown\n16:30|four thirty p.m.|Sometimes I wonder what happened to the girl—the thought usually pops into my mind when I’m facing a steaming-hot plate of spaghetti. After she hung up, did she disappear forever, sucked into the four thirty p.m. shadows? Was I partly to blame?  I want you to understand my position, though. At the time, I didn’t want to get involved with anyone. That’s why I kept on cooking spaghetti, all by myself. In that huge pot, big enough to hold a German shepherd.|Blind Willow, Sleeping Woman|Haruki Murakami|unknown\n16:30|four-thirty|At four-thirty I dash out of the hotel, resolved to make a last-minute stab at it. Just as I turn the corner I brush against Walter Pach. Since he doesn’t recognize me, and since I have nothing to say to him, I make no attempt to arrest him. Later, when I am stretching my legs in the Tuileries his figure reverts to mind.|Tropic of Cancer|Henry Miller|unknown\n16:30|four-thirty|A server is woken at hour four-thirty by stimulin in the airflow, then yellow-up in our dormroom. After a minute in the hygiener and steamer, we put on fresh uniforms before filing into the restaurant.|Cloud Atlas|David Mitchell|unknown\n16:30|four-thirty|This afternoon everything is matching up. When the swing shift comes on duty the clock says four-thirty, just like it should.|One Flew Over the Cuckoo’s Nest|Ken Kesey|unknown\n16:30|half-past four|I looked at the clock. It was half-past four. “Had no idea what hour it was,” Brett said. “I say, can a chap sit down? Don’t be cross, darling. Just left the count. He brought me here.”|The Sun Also Rises|Ernest Hemingway|unknown\n16:30|four-thirty|At four-thirty that afternoon in late January when I stepped into the parlour with Boo, my dog, Hutch was in his favourite armchair, scowling at the television, which he had muted.|Odd Hours|Dean Koontz|unknown\n16:30|four thirty|I leave the office at four thirty, head up to Xclusive where I work out on free weights for an hour, then taxi across the park to Gio's in the Pierre Room for a facial, a manicure and, if time permits, a pedicure.|American Psycho|Bret Easton Ellis|unknown\n16:30|four-thirty|She hung up on me at first, then asked me whether I made a point of behaving like a 'small-time suburban punk' with women I had slept with. But after apologies, insults, laughter, and tears, Romeo and Juliet were to be seen together later that afternoon, mushily holding hands in the dark at a four-thirty screening of L ove and Death at the National Film Theatre. Happy endings – for now at least.|Essays in Love|Alain de Botton|unknown\n16:31|4:31 PM|From: Renee Greene – August 5, 2011 – 4:31 PM To: Shelley Manning Subject: Re: All Access What should I be worried about, then? JUST KIDDING. You're right. Well, I gotta run, my groupie friend. I actually have REAL work to do. I'll talk to you tonight.|Click: An Online Love Story|Lisa Becker|unknown\n16:32|4.32 pm|4.32 pm. Now the eight Marines next to us leave their emplacement and file quickly past, the last saying, Go! Go! Go!\" They break into a run.",
     "title": "Seek",
     "author": "Denis Johnson"
   },
@@ -6409,7 +6193,7 @@
   },
   {
     "time": "17:00",
-    "quote_first": "“And what of Irene Adler?” I asked.<br>“Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at ",
+    "quote_first": "“And what of Irene Adler?” I asked. “Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at ",
     "quote_time_case": "five",
     "quote_last": " every day, and returns at seven sharp for dinner.”",
     "title": "The Adventures of Sherlock Holmes",
@@ -6425,7 +6209,7 @@
   },
   {
     "time": "17:00",
-    "quote_first": "“But how did it end?” I interrupt.<br>“That’s just it . . . it didn’t end. I promised to see her Tuesday around ",
+    "quote_first": "“But how did it end?” I interrupt. “That’s just it . . . it didn’t end. I promised to see her Tuesday around ",
     "quote_time_case": "five o’clock",
     "quote_last": ". That’s bad, you know! There were lines in her face which will look much worse in daylight. I suppose she wants me to f*** her Tuesday.”",
     "title": "Tropic of Cancer",
@@ -6505,27 +6289,11 @@
   },
   {
     "time": "17:00",
-    "quote_first": "“And what of Irene Adler?” I asked. “Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at ",
-    "quote_time_case": "five",
-    "quote_last": " every day, and returns at seven sharp for dinner.”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "17:00",
     "quote_first": "Work started as usual on her twentieth birthday, November 17. It had been raining on and off that afternoon, and pouring since early evening.  At ",
     "quote_time_case": "five o’clock",
     "quote_last": " the manager gathered the employees together to explain the day’s specials. Servers were required to memorize them word for word and not use crib sheets: veal Milanese, pasta topped with sardines and cabbage, chestnut mousse. ",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
-  },
-  {
-    "time": "17:00",
-    "quote_first": "“But how did it end?” I interrupt. “That’s just it . . . it didn’t end. I promised to see her Tuesday around ",
-    "quote_time_case": "five o’clock",
-    "quote_last": ". That’s bad, you know! There were lines in her face which will look much worse in daylight. I suppose she wants me to f*** her Tuesday.”",
-    "title": "Tropic of Cancer",
-    "author": "Henry Miller"
   },
   {
     "time": "17:00",
@@ -6600,6 +6368,14 @@
     "author": "Harper Lee"
   },
   {
+    "time": "17:18",
+    "quote_first": "Lupin rose, without breaking his contemptuous silence, and took the sheet of paper. I remembered soon after that, at this moment, I happened to look at the clock. It was ",
+    "quote_time_case": "eighteen minutes past five",
+    "quote_last": ".",
+    "title": "The Confessions of Arsène Lupin",
+    "author": "Maurice LeBlanc"
+  },
+  {
     "time": "17:20",
     "quote_first": "The Meeting was listed as starting at 1730, and it was only around ",
     "quote_time_case": "1720",
@@ -6617,17 +6393,17 @@
   },
   {
     "time": "17:23",
-    "quote_first": "I was wondering if we could meet for a drink.<br/>\"What for?\"<br/>\"Just for a chat. Do you know the Royal batsman, near Central Station? We could meet tomorrow at five?\"<br/>\"Five twenty-three,\" I said, to exert some control over the situation",
+    "quote_first": "I was wondering if we could meet for a drink.<br/>\"What for?\"<br/>\"Just for a chat. Do you know the Royal batsman, near Central Station? We could meet tomorrow at five?\"<br/>\"",
     "quote_time_case": "five twenty-three",
-    "quote_last": "if we could meet for a drink.<br/>\"What for?\"<br/>\"Just for a chat. Do you know the Royal batsman, near Central Station? We could meet tomorrow at five?\"<br/>\"Five twenty-three,\" I said, to exert some control over the situation.",
+    "quote_last": ",\" I said, to exert some control over the situation.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz"
   },
   {
     "time": "17:23",
-    "quote_first": "\"I was wondering if we could meet for a drink.\" \"What for?\" \"Just for a chat. Do you know the Royal batsman, near Central Station? We could meet tomorrow at five?\" \"Five twenty-three,\" I said, to exert some control over the situation",
+    "quote_first": "\"I was wondering if we could meet for a drink.\" \"What for?\" \"Just for a chat. Do you know the Royal batsman, near Central Station? We could meet tomorrow at five?\" \"",
     "quote_time_case": "five twenty-three",
-    "quote_last": " if we could meet for a drink.\" \"What for?\" \"Just for a chat. Do you know the Royal batsman, near Central Station? We could meet tomorrow at five?\" \"Five twenty-three,\" I said, to exert some control over the situation.",
+    "quote_last": ",\" I said, to exert some control over the situation.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz"
   },
@@ -6737,7 +6513,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "Sometimes the manager would play the role of a customer and test them with questions. Then came the employees’ meal: waiters in this restaurant were not going to have growling stomachs as they took their customers’ order!<br>The restaurant opened its doors at ",
+    "quote_first": "Sometimes the manager would play the role of a customer and test them with questions. Then came the employees’ meal: waiters in this restaurant were not going to have growling stomachs as they took their customers’ order! The restaurant opened its doors at ",
     "quote_time_case": "six o’clock",
     "quote_last": ", but guests were slow to arrive  because of the downpour, and several reservations were simply canceled.",
     "title": "Blind Willow, Sleeping Woman",
@@ -6745,7 +6521,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "But what was my original self? I couldn’t be sure anymore. I couldn’t help feeling that it was another me, another self that strongly resembled my original self. So now what was I to do? I had lost all sense of direction. I shoved my hand into my pocket and fed every piece of change I found there into a pay phone. Eight rings. Nine. And then she answered.<br>“I was sleeping,” she said with a yawn.<br>“At ",
+    "quote_first": "But what was my original self? I couldn’t be sure anymore. I couldn’t help feeling that it was another me, another self that strongly resembled my original self. So now what was I to do? I had lost all sense of direction. I shoved my hand into my pocket and fed every piece of change I found there into a pay phone. Eight rings. Nine. And then she answered. “I was sleeping,” she said with a yawn. “At ",
     "quote_time_case": "six o’clock in the evening",
     "quote_last": "?”",
     "title": "Blind Willow, Sleeping Woman",
@@ -6753,7 +6529,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "“Good-evening, Mr. James Windibank,” said Holmes. “I think that this typewritten letter is from you, in which you made an appointment with me for ",
+    "quote_first": "“Good-evening, Mr James Windibank,” said Holmes. “I think that this typewritten letter is from you, in which you made an appointment with me for ",
     "quote_time_case": "six o’clock",
     "quote_last": "?”",
     "title": "The Adventures of Sherlock Holmes",
@@ -6809,35 +6585,19 @@
   },
   {
     "time": "18:00",
-    "quote_first": "Oh oh oh. Six o'clock and the master not home yet",
+    "quote_first": "Oh oh oh. ",
     "quote_time_case": "six o'clock",
-    "quote_last": "Six o'clock and the master not home yet.",
+    "quote_last": " and the master not home yet.",
     "title": "The Skin of our Teeth",
     "author": "Thornton Wilder"
   },
   {
     "time": "18:00",
-    "quote_first": "The winter evening settles down With smell of steaks in passageways. Six o'clock",
+    "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
     "quote_time_case": "six o'clock",
-    "quote_last": " evening settles down With smell of steaks in passageways. Six o'clock.",
+    "quote_last": ".",
     "title": "Preludes",
     "author": "T.S. Eliot"
-  },
-  {
-    "time": "18:00",
-    "quote_first": "Sometimes the manager would play the role of a customer and test them with questions. Then came the employees’ meal: waiters in this restaurant were not going to have growling stomachs as they took their customers’ order! The restaurant opened its doors at ",
-    "quote_time_case": "six o’clock",
-    "quote_last": ", but guests were slow to arrive  because of the downpour, and several reservations were simply canceled.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "18:00",
-    "quote_first": "But what was my original self? I couldn’t be sure anymore. I couldn’t help feeling that it was another me, another self that strongly resembled my original self. So now what was I to do? I had lost all sense of direction. I shoved my hand into my pocket and fed every piece of change I found there into a pay phone. Eight rings. Nine. And then she answered. “I was sleeping,” she said with a yawn. “At ",
-    "quote_time_case": "six o’clock in the evening",
-    "quote_last": "?”",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "18:00",
@@ -6857,9 +6617,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "The winter evening settles down With smell of steaks in passageways. Six o'clock",
+    "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
     "quote_time_case": "six o'clock",
-    "quote_last": " evening settles down With smell of steaks in passageways. Six o'clock.",
+    "quote_last": ".",
     "title": "Preludes ",
     "author": "T S Eliot"
   },
@@ -6921,9 +6681,9 @@
   },
   {
     "time": "18:22",
-    "quote_first": "Clock overturned when he fell forward. That'll give us the time of the crime. Twenty-two minutes past six",
+    "quote_first": "Clock overturned when he fell forward. That'll give us the time of the crime. ",
     "quote_time_case": "twenty-two minutes past six",
-    "quote_last": "ell forward. That'll give us the time of the crime. Twenty-two minutes past six.",
+    "quote_last": ".",
     "title": "The Murder at the Vicarage",
     "author": "Agatha Christie"
   },
@@ -6953,7 +6713,7 @@
   },
   {
     "time": "18:30",
-    "quote_first": "“Found at the corner of Goodge Street, a goose and a black felt hat. Mr. Henry Baker can have the same by applying at ",
+    "quote_first": "“Found at the corner of Goodge Street, a goose and a black felt hat. Mr Henry Baker can have the same by applying at ",
     "quote_time_case": "6:30",
     "quote_last": " this evening at 221B Baker Street.”",
     "title": "The Adventures of Sherlock Holmes",
@@ -7139,13 +6899,13 @@
     "time": "19:00",
     "quote_first": "Be at the third pillar from the left outside the Lyceum Theatre to-night at ",
     "quote_time_case": "seven o’clock",
-    "quote_last": ". If you are distrustful bring two friends. You are a wronged woman and shall have justice. Do not bring the police. If you do, all will be in vain. <br>-Your unknown friend.",
+    "quote_last": ". If you are distrustful bring two friends. You are a wronged woman and shall have justice. Do not bring the police. If you do, all will be in vain.  -Your unknown friend.",
     "title": "A Study in Scarlet",
     "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "19:00",
-    "quote_first": "“And what of Irene Adler?” I asked.<br>“Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at five every day, and returns at ",
+    "quote_first": "“And what of Irene Adler?” I asked. “Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at five every day, and returns at ",
     "quote_time_case": "seven sharp",
     "quote_last": " for dinner.”",
     "title": "The Adventures of Sherlock Holmes",
@@ -7217,22 +6977,6 @@
   },
   {
     "time": "19:00",
-    "quote_first": "Be at the third pillar from the left outside the Lyceum Theatre to-night at ",
-    "quote_time_case": "seven o’clock",
-    "quote_last": ". If you are distrustful bring two friends. You are a wronged woman and shall have justice. Do not bring the police. If you do, all will be in vain.  -Your unknown friend.",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "19:00",
-    "quote_first": "“And what of Irene Adler?” I asked. “Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at five every day, and returns at ",
-    "quote_time_case": "seven sharp",
-    "quote_last": " for dinner.”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "19:00",
     "quote_first": "By ",
     "quote_time_case": "seven o'clock",
     "quote_last": " the orchestra has arrived--no thin five-piece affair but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos and low and high drums.",
@@ -7244,7 +6988,7 @@
     "quote_first": "He waited until nearly eight, because ",
     "quote_time_case": "around seven",
     "quote_last": " there were always more people coming in and out of the house than at other times.",
-    "title": "The Talented Mr. Ripley",
+    "title": "The Talented Mr Ripley",
     "author": "Patricia Highsmith"
   },
   {
@@ -7476,7 +7220,7 @@
     "quote_first": "At ",
     "quote_time_case": "ten to eight",
     "quote_last": ", he strolled downstairs, to make sure that Signora Buffi was not pottering around in the hall and that her door was not open, and to make sure there really was no one in Freddie's car",
-    "title": "The Talented Mr. Ripley",
+    "title": "The Talented Mr Ripley",
     "author": "Patricia Highsmith"
   },
   {
@@ -7484,7 +7228,7 @@
     "quote_first": "He waited until ",
     "quote_time_case": "nearly eight",
     "quote_last": ", because around seven there were always more people coming in and out of the house than at other times. At ten to eight, he strolled downstairs, to make sure that Signora Buffi was not pottering around in the hall and that her door was not open, and to make sure there really was no one in Freddie's car, though he had gone down in the middle of the afternoon to look at the car and see if it was Freddie's.",
-    "title": "The Talented Mr. Ripley",
+    "title": "The Talented Mr Ripley",
     "author": "Patricia Highsmith"
   },
   {
@@ -7505,7 +7249,7 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“My fiddle would be the better for new strings,” he remarked. “Put your pistol in your pocket. When the fellow comes, speak to him in an ordinary way. Leave the rest to me. Don’t frighten him by looking at him too hard.”<br>“It is ",
+    "quote_first": "“My fiddle would be the better for new strings,” he remarked. “Put your pistol in your pocket. When the fellow comes, speak to him in an ordinary way. Leave the rest to me. Don’t frighten him by looking at him too hard.” “It is ",
     "quote_time_case": "eight o’clock",
     "quote_last": " now,” I said, glancing at my watch.",
     "title": "A Study in Scarlet",
@@ -7513,7 +7257,7 @@
   },
   {
     "time": "20:00",
-    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter.<br>“At what o’clock did Mr. Drebber leave your house for the train?” I asked.<br>“At ",
+    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter. “At what o’clock did Mr Drebber leave your house for the train?” I asked. “At ",
     "quote_time_case": "eight o’clock",
     "quote_last": ",” she said, gulping in her throat to keep down her agitation.",
     "title": "A Study in Scarlet",
@@ -7545,7 +7289,7 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“Mr. Owen - unfortunately delayed - unable to get here till tomorrow. Instructions -<br>everything they wanted - if they would like to go to their rooms?… dinner would be at ",
+    "quote_first": "“Mr Owen - unfortunately delayed - unable to get here till tomorrow. Instructions - everything they wanted - if they would like to go to their rooms?… dinner would be at ",
     "quote_time_case": "8 o’clock",
     "quote_last": "…”",
     "title": "And Then There Were None",
@@ -7593,14 +7337,6 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“Mr. Owen - unfortunately delayed - unable to get here till tomorrow. Instructions - everything they wanted - if they would like to go to their rooms?… dinner would be at ",
-    "quote_time_case": "8 o’clock",
-    "quote_last": "…”",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie"
-  },
-  {
-    "time": "20:00",
     "quote_first": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it. although until after ",
     "quote_time_case": "eight o'clock",
     "quote_last": " the apartment was full of cheerful sun.",
@@ -7609,9 +7345,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "That day he forgot to go to dinner; he noticed the fact at eight in the evening, and as it was too late to go to the Rue St Jaques, he ate a lump of bread",
+    "quote_first": "That day he forgot to go to dinner; he noticed the fact ",
     "quote_time_case": "At eight",
-    "quote_last": "y he forgot to go to dinner; he noticed the fact at eight in the evening, and as it was too late to go to the Rue St Jaques, he ate a lump of bread.",
+    "quote_last": " in the evening, and as it was too late to go to the Rue St Jaques, he ate a lump of bread.",
     "title": "Les Miserables ",
     "author": "Victor Hugo"
   },
@@ -7721,7 +7457,7 @@
   },
   {
     "time": "20:30",
-    "quote_first": "“What nonsense!” thought Vronsky, and glanced at his watch.<br>It was ",
+    "quote_first": "“What nonsense!” thought Vronsky, and glanced at his watch. It was ",
     "quote_time_case": "half-past eight",
     "quote_last": " already.",
     "title": "Anna Karenina",
@@ -7729,9 +7465,9 @@
   },
   {
     "time": "20:30",
-    "quote_first": "Alix took up a piece of needlework and began to stitch. Gerald read a few pages of his book. Then he glanced up at the clock and tossed the book away. \"Half-past eight. Time to go down to the cellar and start work.",
+    "quote_first": "Alix took up a piece of needlework and began to stitch. Gerald read a few pages of his book. Then he glanced up at the clock and tossed the book away. \"",
     "quote_time_case": "half-past eight",
-    "quote_last": " piece of needlework and began to stitch. Gerald read a few pages of his book. Then he glanced up at the clock and tossed the book away. \"Half-past eight. Time to go down to the cellar and start work.\"",
+    "quote_last": ". Time to go down to the cellar and start work.\"",
     "title": "The Listerdale Mystery",
     "author": "Agatha Christie"
   },
@@ -7881,9 +7617,9 @@
   },
   {
     "time": "20:58",
-    "quote_first": "\"What time is it?\" she asked, quiet, definite, hopeless. \"Two minutes to nine,\" he replied, telling the truth with a struggle",
+    "quote_first": "\"What time is it?\" she asked, quiet, definite, hopeless. \"",
     "quote_time_case": "two minutes to nine",
-    "quote_last": " she asked, quiet, definite, hopeless. \"Two minutes to nine,\" he replied, telling the truth with a struggle.",
+    "quote_last": ",\" he replied, telling the truth with a struggle.",
     "title": "Sons and Lovers ",
     "author": "D H Lawrence"
   },
@@ -7891,13 +7627,13 @@
     "time": "21:00",
     "quote_first": "The clock struck ",
     "quote_time_case": "nine",
-    "quote_last": " when I did send the Nurse.<br>In half an hour she promised to return.",
+    "quote_last": " when I did send the Nurse. In half an hour she promised to return.",
     "title": "Romeo and Juliet",
     "author": "William Shakespeare"
   },
   {
     "time": "21:00",
-    "quote_first": "Anyhow, this all took place on a windy night in the beginning of October. It was actually kind of steamy for the time of year. A swarm of mosquitos buzzed around in the evening, and I remember burning a couple of mosquito-repellent coils to keep them away. The wind was noisy. The gate to the swimming pool was broken and the wind made the gate slap open and shut. I thought of fixing it, but it was too dark out, so it kept banging all night.<br>My ",
+    "quote_first": "Anyhow, this all took place on a windy night in the beginning of October. It was actually kind of steamy for the time of year. A swarm of mosquitos buzzed around in the evening, and I remember burning a couple of mosquito-repellent coils to keep them away. The wind was noisy. The gate to the swimming pool was broken and the wind made the gate slap open and shut. I thought of fixing it, but it was too dark out, so it kept banging all night. My ",
     "quote_time_case": "nine p.m.",
     "quote_last": " round went by fine, all twenty items on my list nearly checked off.",
     "title": "Blind Willow, Sleeping Woman",
@@ -7931,7 +7667,7 @@
     "time": "21:00",
     "quote_first": "At ",
     "quote_time_case": "nine o’clock",
-    "quote_last": ", Emily Brent rose to her feet.<br>She said:<br>“I’m going to bed.”",
+    "quote_last": ", Emily Brent rose to her feet. She said: “I’m going to bed.”",
     "title": "And Then There Were None",
     "author": "Agatha Christie"
   },
@@ -8001,9 +7737,9 @@
   },
   {
     "time": "21:05",
-    "quote_first": "Nine-five. A voice spoke from the study ceiling: \"Mrs. McClellan, which poem would you like this evening?\". The house was silent. The voice said at last, \"Since you express no preference, I shall select a poem at random.",
+    "quote_first": "",
     "quote_time_case": "nine-five",
-    "quote_last": "e. A voice spoke from the study ceiling: \"Mrs. McClellan, which poem would you like this evening?\". The house was silent. The voice said at last, \"Since you express no preference, I shall select a poem at random.\"",
+    "quote_last": ". A voice spoke from the study ceiling: \"Mrs. McClellan, which poem would you like this evening?\". The house was silent. The voice said at last, \"Since you express no preference, I shall select a poem at random.\"",
     "title": "There Will Come Soft Rains",
     "author": "Ray Bradbury"
   },
@@ -8051,7 +7787,7 @@
     "time": "21:30",
     "quote_first": "At ",
     "quote_time_case": "nine-thirty",
-    "quote_last": " he was sitting on the edge of his bed looking at his watch. He put it to his ear. Then his lips drew back from his teeth in that curious wolf-like smile characteristic of the man. He said very softly:<br>“I think the time has come to do something about this.”",
+    "quote_last": " he was sitting on the edge of his bed looking at his watch. He put it to his ear. Then his lips drew back from his teeth in that curious wolf-like smile characteristic of the man. He said very softly: “I think the time has come to do something about this.”",
     "title": "And Then There Were None",
     "author": "Agatha Christie"
   },
@@ -8113,9 +7849,9 @@
   },
   {
     "time": "21:50",
-    "quote_first": "Philip Lombard said:<br>“What’s the time now?”<br>“",
+    "quote_first": "Philip Lombard said: “What’s the time now?” “",
     "quote_time_case": "Ten minutes to ten",
-    "quote_last": ", sir.”<br>Lombard’s eyebrows rose. He nodded slowly to himself.",
+    "quote_last": ", sir.” Lombard’s eyebrows rose. He nodded slowly to himself.",
     "title": "And Then There Were None",
     "author": "Agatha Christie"
   },
@@ -8129,17 +7865,17 @@
   },
   {
     "time": "21:57",
-    "quote_first": "The waiting man pulled out a handsome watch, the lids of it set with small diamonds. \"Three minutes to ten,\" he announced",
+    "quote_first": "The waiting man pulled out a handsome watch, the lids of it set with small diamonds. \"",
     "quote_time_case": "three minutes to ten",
-    "quote_last": "led out a handsome watch, the lids of it set with small diamonds. \"Three minutes to ten,\" he announced.",
+    "quote_last": ",\" he announced.",
     "title": "The Four Million",
     "author": "O. Henry"
   },
   {
     "time": "21:59",
-    "quote_first": "The first night, as soon as the corporal had conducted my uncle Toby upstairs, which was about 10 - Mrs. Wadman threw herself into her arm chai",
+    "quote_first": "The first night, as soon as the corporal had conducted my uncle Toby upstairs, which was ",
     "quote_time_case": "About 10",
-    "quote_last": "st night, as soon as the corporal had conducted my uncle Toby upstairs, which was about 10 - Mrs. Wadman threw herself into her arm chair",
+    "quote_last": " - Mrs. Wadman threw herself into her arm chair",
     "title": "The Life and Opinions of Tristram Shandy, Gentleman",
     "author": "Laurence Sterne"
   },
@@ -8179,7 +7915,7 @@
     "time": "22:00",
     "quote_first": "On Saturday nights I still sat in the same chair in the dorm lobby. I knew a phone call wouldn’t come, but I had no idea what else to do. I turned on the TV set and pre",
     "quote_time_case": "ten",
-    "quote_last": "ded to watch baseball. And gazed at the indeterminate space between me and the set. I divided that space into two, and again into two. I did this over and over, until I’d made a space so small it could fit in the palm of my hand.<br>At ten I turned off the TV, went back to my room, and went to sleep.",
+    "quote_last": "ded to watch baseball. And gazed at the indeterminate space between me and the set. I divided that space into two, and again into two. I did this over and over, until I’d made a space so small it could fit in the palm of my hand. At ten I turned off the TV, went back to my room, and went to sleep.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -8201,15 +7937,15 @@
   },
   {
     "time": "22:00",
-    "quote_first": "“A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night.”<br>“At what time?”<br>“Ten will be early enough.”<br>“I shall be at Baker Street at ",
+    "quote_first": "“A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night.” “At what time?” “",
     "quote_time_case": "ten",
-    "quote_last": ".”",
+    "quote_last": " will be early enough.” “I shall be at Baker Street at ten.”",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "22:00",
-    "quote_first": "Her body asserted itself with a restless movement of her knee, and she stood up.<br>“",
+    "quote_first": "Her body asserted itself with a restless movement of her knee, and she stood up. “",
     "quote_time_case": "Ten o’clock",
     "quote_last": ",” she remarked, apparently finding the time on the ceiling. “Time for this good girl to go to bed.”",
     "title": "The Great Gatsby",
@@ -8257,27 +7993,11 @@
   },
   {
     "time": "22:00",
-    "quote_first": "We let our upstairs room to a certain Mr. Goudsmit, a divorced man in his thirties, who appeared to have nothing to do on this particular evening; we simply could not get rid of him without being rude; he hung about until ",
+    "quote_first": "We let our upstairs room to a certain Mr Goudsmit, a divorced man in his thirties, who appeared to have nothing to do on this particular evening; we simply could not get rid of him without being rude; he hung about until ",
     "quote_time_case": "ten o'clock",
     "quote_last": ".",
     "title": "Anne Frank: The Diary of a Young Girl",
     "author": "Anne Frank"
-  },
-  {
-    "time": "22:00",
-    "quote_first": "On Saturday nights I still sat in the same chair in the dorm lobby. I knew a phone call wouldn’t come, but I had no idea what else to do. I turned on the TV set and pre",
-    "quote_time_case": "ten",
-    "quote_last": "ded to watch baseball. And gazed at the indeterminate space between me and the set. I divided that space into two, and again into two. I did this over and over, until I’d made a space so small it could fit in the palm of my hand. At ten I turned off the TV, went back to my room, and went to sleep.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "22:00",
-    "quote_first": "“A considerable crime is in contemplation. I have every reason to believe that we shall be in time to stop it. But to-day being Saturday rather complicates matters. I shall want your help to-night.” “At what time?” “Ten will be early enough.” “I shall be at Baker Street at ",
-    "quote_time_case": "ten",
-    "quote_last": ".”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "22:00",
@@ -8289,14 +8009,6 @@
   },
   {
     "time": "22:00",
-    "quote_first": "Her body asserted itself with a restless movement of her knee, and she stood up. “",
-    "quote_time_case": "Ten o’clock",
-    "quote_last": ",” she remarked, apparently finding the time on the ceiling. “Time for this good girl to go to bed.”",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
-  },
-  {
-    "time": "22:00",
     "quote_first": "“",
     "quote_time_case": "Ten o’clock",
     "quote_last": " found them penniless. They had suppered greatly on their last eleven cents and, singing, strolled up through the casinos and lighted arches on the boardwalk, stopping to listen approvingly to all band concerts.”",
@@ -8305,9 +8017,9 @@
   },
   {
     "time": "22:00",
-    "quote_first": "Her body asserted itself with a restless movement of the knee, and she stood up. 'Ten o'clock,' she remarked, apparently finding the time on the ceiling. 'Time for this good girl to go to bed.",
+    "quote_first": "Her body asserted itself with a restless movement of the knee, and she stood up. '",
     "quote_time_case": "ten o'clock",
-    "quote_last": "sserted itself with a restless movement of the knee, and she stood up. 'Ten o'clock,' she remarked, apparently finding the time on the ceiling. 'Time for this good girl to go to bed.'",
+    "quote_last": ",' she remarked, apparently finding the time on the ceiling. 'Time for this good girl to go to bed.'",
     "title": "The Great Gatsby ",
     "author": "F. Scott Fitzgerald"
   },
@@ -8337,17 +8049,17 @@
   },
   {
     "time": "22:08",
-    "quote_first": "My watch is always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"Ten eighteen by mine. You see.",
+    "quote_first": "My watch is always a little fast, I said. \"What time do you make it now?\"<br/>\"",
     "quote_time_case": "ten eight",
-    "quote_last": " is always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"Ten eighteen by mine. You see.\"",
+    "quote_last": ".\"<br/>\"Ten eighteen by mine. You see.\"",
     "title": "The Quiet American",
     "author": "Graham Greene"
   },
   {
     "time": "22:08",
-    "quote_first": "\"My watch is always a little fast,\" I said. \"What time do you make it now?\" \"Ten eight.\" \"Ten eighteen by mine. You see.",
+    "quote_first": "\"My watch is always a little fast,\" I said. \"What time do you make it now?\" \"",
     "quote_time_case": "ten eight",
-    "quote_last": "h is always a little fast,\" I said. \"What time do you make it now?\" \"Ten eight.\" \"Ten eighteen by mine. You see.\"",
+    "quote_last": ".\" \"Ten eighteen by mine. You see.\"",
     "title": "The Quiet American",
     "author": "Graham Greene"
   },
@@ -8361,9 +8073,9 @@
   },
   {
     "time": "22:10",
-    "quote_first": "At about ten o’clock the first tiny snowflakes came loitering down and settled on Jill’s arm. Ten minutes later they were falling quite thickly. In twenty minutes the ground was noticeably white",
+    "quote_first": "At about ten o’clock the first tiny snowflakes came loitering down and settled on Jill’s arm. ",
     "quote_time_case": "ten minutes later",
-    "quote_last": "lock the first tiny snowflakes came loitering down and settled on Jill’s arm. Ten minutes later they were falling quite thickly. In twenty minutes the ground was noticeably white.",
+    "quote_last": " they were falling quite thickly. In twenty minutes the ground was noticeably white.",
     "title": "The Silver Chair",
     "author": "C.S. Lewis"
   },
@@ -8401,23 +8113,23 @@
   },
   {
     "time": "22:18",
-    "quote_first": "My watch is always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"Ten eighteen by mine. You see.",
+    "quote_first": "My watch is always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"",
     "quote_time_case": "ten eighteen",
-    "quote_last": " always a little fast, I said. \"What time do you make it now?\"<br/>\"Ten eight.\"<br/>\"Ten eighteen by mine. You see.\"",
+    "quote_last": " by mine. You see.\"",
     "title": "The Quiet American",
     "author": "Graham Greene"
   },
   {
     "time": "22:18",
-    "quote_first": "\"My watch is always a little fast,\" I said. \"What time do you make it now?\" \"Ten eight.\" \"Ten eighteen by mine. You see.",
+    "quote_first": "\"My watch is always a little fast,\" I said. \"What time do you make it now?\" \"Ten eight.\" \"",
     "quote_time_case": "ten eighteen",
-    "quote_last": "s always a little fast,\" I said. \"What time do you make it now?\" \"Ten eight.\" \"Ten eighteen by mine. You see.\"",
+    "quote_last": " by mine. You see.\"",
     "title": "The Quiet American",
     "author": "Graham Greene"
   },
   {
     "time": "22:20",
-    "quote_first": "A May wind, swelling up like a piece of fruit, with a rough outer skin, slimy flesh, dozens of seeds. The flesh split open in midair, spraying seeds like gentle buckshot into the bare skin of my arms, leaving behind a faint trace of pain.<br>“What time is it?” my cousin asked me. About eight inches shorter than me, he had to look up when he talked.<br>I glanced at my watch. “",
+    "quote_first": "A May wind, swelling up like a piece of fruit, with a rough outer skin, slimy flesh, dozens of seeds. The flesh split open in midair, spraying seeds like gentle buckshot into the bare skin of my arms, leaving behind a faint trace of pain. “What time is it?” my cousin asked me. About eight inches shorter than me, he had to look up when he talked. I glanced at my watch. “",
     "quote_time_case": "Ten twenty",
     "quote_last": ".”",
     "title": "Blind Willow, Sleeping Woman",
@@ -8489,7 +8201,7 @@
   },
   {
     "time": "22:29",
-    "quote_first": "Even when I had to say something, the right words just wouldn’t come out. And every time I hesitated, every time I swallowed back something I was about to say, my cousin looked at me with a slightly confused look on his face. His left ear tilted ever so slightly toward me. <br>“What time is it now?” he asked me.<br>“",
+    "quote_first": "Even when I had to say something, the right words just wouldn’t come out. And every time I hesitated, every time I swallowed back something I was about to say, my cousin looked at me with a slightly confused look on his face. His left ear tilted ever so slightly toward me.  “What time is it now?” he asked me. “",
     "quote_time_case": "Ten twenty nine",
     "quote_last": ",” I replied.",
     "title": "Blind Willow, Sleeping Woman",
@@ -8523,7 +8235,7 @@
     "time": "22:32",
     "quote_first": "It was ",
     "quote_time_case": "ten thirty-two",
-    "quote_last": " when the bus finally rolled into view.<br>The bus that came was a new type, not like the one I used to take to high school.",
+    "quote_last": " when the bus finally rolled into view. The bus that came was a new type, not like the one I used to take to high school.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -8539,21 +8251,13 @@
     "time": "22:35",
     "quote_first": "If he did not return in fourteen minutes he would have lingered. She looked at the clock. It was ",
     "quote_time_case": "twenty-five minutes to eleven",
-    "quote_last": ". He might enter the inn with Arabella, as they would reach it before closing time; she might get him to drink with<br>her; and Heaven only knew what disasters would befall him then.",
-    "title": "Jude the Obscure",
-    "author": "Thomas Hardy"
-  },
-  {
-    "time": "22:35",
-    "quote_first": "If he did not return in fourteen minutes he would have lingered. She looked at the clock. It was ",
-    "quote_time_case": "twenty-five minutes to eleven",
     "quote_last": ". He might enter the inn with Arabella, as they would reach it before closing time; she might get him to drink with her; and Heaven only knew what disasters would befall him then.",
     "title": "Jude the Obscure",
     "author": "Thomas Hardy"
   },
   {
     "time": "22:48",
-    "quote_first": "Oh! I don't know about that, said Mr. Satterthwaite, warming to his subject. \"I was down there for a bit last summer. I found it quite convenient for town. Of course the trains only go every hour. 48 minutes past the hour from Waterloo-up to ",
+    "quote_first": "Oh! I don't know about that, said Mr Satterthwaite, warming to his subject. \"I was down there for a bit last summer. I found it quite convenient for town. Of course the trains only go every hour. 48 minutes past the hour from Waterloo-up to ",
     "quote_time_case": "10.48",
     "quote_last": ".\"",
     "title": "The Sign in the Sky",
@@ -8561,7 +8265,7 @@
   },
   {
     "time": "22:48",
-    "quote_first": "\"Oh! I don't know about that,\" said Mr. Satterthwaite, warming to his subject. \"I was down there for a bit last summer. I found it quite convenient for town. Of course the trains only go every hour. 48 minutes past the hour from Waterloo-up to ",
+    "quote_first": "\"Oh! I don't know about that,\" said Mr Satterthwaite, warming to his subject. \"I was down there for a bit last summer. I found it quite convenient for town. Of course the trains only go every hour. 48 minutes past the hour from Waterloo-up to ",
     "quote_time_case": "10.48",
     "quote_last": ".\"",
     "title": "The Sign in the Sky",
@@ -8585,7 +8289,7 @@
   },
   {
     "time": "22:55",
-    "quote_first": "Mr. Justice Wargrave said:<br>“It is now ",
+    "quote_first": "Mr Justice Wargrave said: “It is now ",
     "quote_time_case": "five minutes to eleven",
     "quote_last": ". I think we should summon Miss Brent to join our conclave.”",
     "title": "And Then There Were None",
@@ -8617,7 +8321,7 @@
   },
   {
     "time": "23:00",
-    "quote_first": "There was no end to it. At first I made all the proper noises to show her I was following along, but soon gave up. I put on a record and when it was over, I lifted up the needle and put on another. After I finished all the records, I put the first one back on. Outside it was still pouring. Time passed slowly as her monologue went on without end.<br>I didn’t worry about it, though, until a while later. Suddenly I realized it was ",
+    "quote_first": "There was no end to it. At first I made all the proper noises to show her I was following along, but soon gave up. I put on a record and when it was over, I lifted up the needle and put on another. After I finished all the records, I put the first one back on. Outside it was still pouring. Time passed slowly as her monologue went on without end. I didn’t worry about it, though, until a while later. Suddenly I realized it was ",
     "quote_time_case": "eleven p.m.",
     "quote_last": " and she had been talking nonstop for four hours.",
     "title": "Blind Willow, Sleeping Woman",
@@ -8633,7 +8337,7 @@
   },
   {
     "time": "23:00",
-    "quote_first": "There was a movement and an exclamation from my right, and peering through the gloom I saw Whitney, pale, haggard, and unkempt, staring out at me.<br>“My God! It’s Watson,” said he. He was in a pitiable state of reaction, with every nerve in a twitter. “I say, Watson, what o’clock is it?”<br>“Nearly ",
+    "quote_first": "There was a movement and an exclamation from my right, and peering through the gloom I saw Whitney, pale, haggard, and unkempt, staring out at me. “My God! It’s Watson,” said he. He was in a pitiable state of reaction, with every nerve in a twitter. “I say, Watson, what o’clock is it?” “Nearly ",
     "quote_time_case": "eleven",
     "quote_last": ".”",
     "title": "The Adventures of Sherlock Holmes",
@@ -8643,7 +8347,7 @@
     "time": "23:00",
     "quote_first": "She left her room, therefore, and came into mine, where she sat for some time, chatting about her approaching wedding. At ",
     "quote_time_case": "eleven o’clock",
-    "quote_last": " she rose to leave me, but she paused at the door and looked back.<br> Tell me, Helen,\" said she, \"have you ever heard anyone whistle in the dead of the night?\"<br>\"Never,\" said I.\"",
+    "quote_last": " she rose to leave me, but she paused at the door and looked back.  Tell me, Helen,\" said she, \"have you ever heard anyone whistle in the dead of the night?\" \"Never,\" said I.\"",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle"
   },
@@ -8673,9 +8377,9 @@
   },
   {
     "time": "23:00",
-    "quote_first": "He will be here at eleven exactly, sir.<br/>At the bar, naked couples had begun dancing",
+    "quote_first": "He will be here ",
     "quote_time_case": "At eleven",
-    "quote_last": "be here at eleven exactly, sir.<br/>At the bar, naked couples had begun dancing.",
+    "quote_last": " exactly, sir.<br/>At the bar, naked couples had begun dancing.",
     "title": "Smiley's People",
     "author": "John le Carré"
   },
@@ -8702,14 +8406,6 @@
     "quote_last": ".",
     "title": "Infinite Jest",
     "author": "David Foster Wallace"
-  },
-  {
-    "time": "23:00",
-    "quote_first": "There was no end to it. At first I made all the proper noises to show her I was following along, but soon gave up. I put on a record and when it was over, I lifted up the needle and put on another. After I finished all the records, I put the first one back on. Outside it was still pouring. Time passed slowly as her monologue went on without end. I didn’t worry about it, though, until a while later. Suddenly I realized it was ",
-    "quote_time_case": "eleven p.m.",
-    "quote_last": " and she had been talking nonstop for four hours.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "23:00",
@@ -8761,7 +8457,7 @@
   },
   {
     "time": "23:15",
-    "quote_first": "We were seated at breakfast one morning, my wife and I, when the maid brought in a telegram. It was from Sherlock Holmes and ran in this way:<br>Have you a couple of days to spare? Have just been wired for from the west of England in connection with Boscombe Valley tragedy. Shall be glad if you will come with me. Air and scenery perfect. Leave Paddington by the ",
+    "quote_first": "We were seated at breakfast one morning, my wife and I, when the maid brought in a telegram. It was from Sherlock Holmes and ran in this way: Have you a couple of days to spare? Have just been wired for from the west of England in connection with Boscombe Valley tragedy. Shall be glad if you will come with me. Air and scenery perfect. Leave Paddington by the ",
     "quote_time_case": "11:15",
     "quote_last": ".",
     "title": "The Adventures of Sherlock Holmes",
@@ -8865,7 +8561,7 @@
   },
   {
     "time": "23:46",
-    "quote_first": "In the Kismet Lounge, Mr. Early sees suddenly to his horror it's ",
+    "quote_first": "In the Kismet Lounge, Mr Early sees suddenly to his horror it's ",
     "quote_time_case": "11:46 p.m.",
     "quote_last": " He's been in this place far longer than he'd planned, and he's had more to drink than he'd planned. Shame! What if, back at the E-Z, his little girl is crying piteously for him?",
     "title": "Doll: A Romance of the Mississippi",
@@ -8889,7 +8585,7 @@
   },
   {
     "time": "23:50",
-    "quote_first": "Oh, Mr. MacLear, he said jocularly, \"I am glad you have just managed to escape breaking the Sabbath! You have had a close shave! It ",
+    "quote_first": "Oh, Mr MacLear, he said jocularly, \"I am glad you have just managed to escape breaking the Sabbath! You have had a close shave! It ",
     "quote_time_case": "wants ten minutes, hardly more, to the awful midnight hour",
     "quote_last": "!\"",
     "title": "Salted with Fire",
@@ -8905,7 +8601,7 @@
   },
   {
     "time": "23:55",
-    "quote_first": "The band began playing “Auld Lang Syne.”<br>“",
+    "quote_first": "The band began playing “Auld Lang Syne.” “",
     "quote_time_case": "Eleven fifty-five",
     "quote_last": ",” she said, glancing at the gold watch on her pendant. “I really like ‘Auld Lang Syne.’ How about you?”",
     "title": "Blind Willow, Sleeping Woman",
@@ -8973,6 +8669,182 @@
     "quote_time_case": "20:07",
     "quote_last": " Some trust in chariots and some in horses, but we trust in the name of the Lord our God.",
     "title": "Psalms",
-    "author": "Bible"
+    "author": "ESV"
+  },
+  {
+    "time": "13:06",
+    "quote_first": "And then at precisely ",
+    "quote_time_case": "13 hours and 6 minutes",
+    "quote_last": "-confusion broke out in the rectangle.",
+    "title": "We",
+    "author": "Yevgeny Zamyatin"
+  },
+  {
+    "time": "17:33",
+    "quote_first": "I listen to the different boats' horns, hoping to learn what kind of boat I'm hearing and what the signal means: is the boat leaving or entering the harbor; is it the ferry, or a whale-watching boat, or a fishing boat? At ",
+    "quote_time_case": "5:33 pm",
+    "quote_last": " there is a blast of two deep, resonant notes a major third apart. On another day there is the same blast at 12:54 pm. On another, exactly 8:00 am.",
+    "title": "Varieties of Disturbance",
+    "author": "Lydia Davis"
+  },
+  {
+    "time": "08:00",
+    "quote_first": "I listen to the different boats' horns, hoping to learn what kind of boat I'm hearing and what the signal means: is the boat leaving or entering the harbor; is it the ferry, or a whale-watching boat, or a fishing boat? At 5:33 pm there is a blast of two deep, resonant notes a major third apart. On another day there is the same blast at 12:54 pm. On another, exactly ",
+    "quote_time_case": "8:00 am",
+    "quote_last": ".",
+    "title": "Varieties of Disturbance",
+    "author": "Lydia Davis"
+  },
+  {
+    "time": "12:54",
+    "quote_first": "I listen to the different boats' horns, hoping to learn what kind of boat I'm hearing and what the signal means: is the boat leaving or entering the harbor; is it the ferry, or a whale-watching boat, or a fishing boat? At 5:33 pm there is a blast of two deep, resonant notes a major third apart. On another day there is the same blast at ",
+    "quote_time_case": "12:54 pm",
+    "quote_last": ". On another, exactly 8:00 am.",
+    "title": "Varieties of Disturbance",
+    "author": "Lydia Davis"
+  },
+  {
+    "time": "01:45",
+    "quote_first": "And the whole house seemed resounding with his shouts. When it was ",
+    "quote_time_case": "ten or fifteen minutes to two",
+    "quote_last": " the deacon would come in; he was a lanky young man of twenty-two, with long hair, with no beard and a hardly perceptible moustache. Going into the drawing-room, he crossed himself before the ikon, smiled, and held out his hand to Von Koren. 'Good-morning,' the zoologist said coldly. 'Where have you been?'",
+    "title": "The Duel",
+    "author": "Anton Pavlovich Chekhov"
+  },
+  {
+    "time": "01:47",
+    "quote_first": "And the whole house seemed resounding with his shouts. When it was ",
+    "quote_time_case": "ten or fifteen minutes to two",
+    "quote_last": " the deacon would come in; he was a lanky young man of twenty-two, with long hair, with no beard and a hardly perceptible moustache. Going into the drawing-room, he crossed himself before the ikon, smiled, and held out his hand to Von Koren. 'Good-morning,' the zoologist said coldly. 'Where have you been?'",
+    "title": "The Duel",
+    "author": "Anton Pavlovich Chekhov"
+  },
+  {
+    "time": "01:50",
+    "quote_first": "And the whole house seemed resounding with his shouts. When it was ",
+    "quote_time_case": "ten or fifteen minutes to two",
+    "quote_last": " the deacon would come in; he was a lanky young man of twenty-two, with long hair, with no beard and a hardly perceptible moustache. Going into the drawing-room, he crossed himself before the ikon, smiled, and held out his hand to Von Koren. 'Good-morning,' the zoologist said coldly. 'Where have you been?'",
+    "title": "The Duel",
+    "author": "Anton Pavlovich Chekhov"
+  },
+  {
+    "time": "02:40",
+    "quote_first": "The water leaden-white, even as the grey gleam of water is in latest twilight. Now while I have been writing this and gazing between-whiles (it is ",
+    "quote_time_case": "forty minutes past two",
+    "quote_last": "), the break over the road is swallowed up, and the stars gone; the break over the house is narrowed into a rude circle, and on the edge of its circumference one very bright star. See!",
+    "title": "Anima Poetae",
+    "author": "Samuel Taylor Coleridge"
+  },
+  {
+    "time": "13:33",
+    "quote_first": "He waited for the green light to show and then opened the door again on to the now empty cargo hold.'... ",
+    "quote_time_case": "one ... thirty-three",
+    "quote_last": " ... and fifty seconds.' Very nice.",
+    "title": "So Long, and Thanks for All the Fish",
+    "author": "Douglas Adams"
+  },
+  {
+    "time": "13:42",
+    "quote_first": "The last note was recorded at ",
+    "quote_time_case": "1.42pm",
+    "quote_last": ": G.M. on site at H-by; will take over the matter.",
+    "title": "The Girl With The Dragon Tattoo",
+    "author": "Stieg Larsson"
+  },
+  {
+    "time": "14:41",
+    "quote_first": "At ",
+    "quote_time_case": "2.41",
+    "quote_last": ", when the afternoon fast train to London was pulling out of Larborough prompt to the minute, Miss Pym sat under the cedar on the lawn wondering whether she was a fool, and not caring much anyhow.",
+    "title": "Miss Pym Disposes",
+    "author": "Josephine Tey"
+  },
+  {
+    "time": "17:47",
+    "quote_first": "'Then I take it the matter is practically concluded,' said the clergyman. 'And that you very properly submit to return to your proper home. And now, if I may offer a suggestion, it is that we take tea. Freed of its tannin, nothing, I think, is more refreshing and stimulating.' 'There's a train from Lyndhurst at ",
+    "quote_time_case": "thirteen minutes to six",
+    "quote_last": ",' said Widgery, unfolding a time table.",
+    "title": "The Wheels of Chance: A Bicycling Idyll",
+    "author": "H. G. Wells"
+  },
+  {
+    "time": "17:55",
+    "quote_first": "'I think we'll be lucky if we get away before they arrive.' At ",
+    "quote_time_case": "five minutes to six",
+    "quote_last": " I was in position at the end of the strip with my engine running, ready for take-off.",
+    "title": "Going Solo",
+    "author": "Roald Dahl"
+  },
+  {
+    "time": "03:00",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "03:10",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "03:20",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "03:30",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "03:40",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "03:50",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "03:15",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "time": "14:52",
+    "quote_first": "Mr. Kesselbach, it is ",
+    "quote_time_case": "eight minutes to three",
+    "quote_last": ". If you don't answer within eight minutes from now, you are a dead man!",
+    "title": "813",
+    "author": "Maurice LeBlanc"
+  },
+  {
+    "time": "14:42",
+    "quote_first": "",
+    "quote_time_case": "14:42",
+    "quote_last": " Rise, let us be going; see, my betrayer is at hand.”",
+    "title": "Mark",
+    "author": "ESV"
   }
 ]

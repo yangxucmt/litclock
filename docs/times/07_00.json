@@ -3,15 +3,15 @@
     "time": "07:00",
     "quote_first": "At ",
     "quote_time_case": "seven",
-    "quote_last": " the next morning the telephone rang. <br>Slowly I swam up from the bottom of a black sleep. I already had a telegram from Jay Cee stuck in my mirror, telling me not to bother to come in to work but to rest for a day and get completely well, and how sorry she was about the bad crabmeat, so I couldn’t imagine who would be calling.",
+    "quote_last": " the next morning the telephone rang.  Slowly I swam up from the bottom of a black sleep. I already had a telegram from Jay Cee stuck in my mirror, telling me not to bother to come in to work but to rest for a day and get completely well, and how sorry she was about the bad crabmeat, so I couldn’t imagine who would be calling.",
     "title": "The Bell Jar",
     "author": "Sylvia Plath"
   },
   {
     "time": "07:00",
-    "quote_first": "Seven o'clock, already, he said to himself when the clock struck again, \"",
+    "quote_first": "",
     "quote_time_case": "seven o'clock",
-    "quote_last": ", and there's still a fog like this.\"",
+    "quote_last": ", already, he said to himself when the clock struck again, \"seven o'clock, and there's still a fog like this.\"",
     "title": "Metamorphosis",
     "author": "Franz Kafka"
   },
@@ -41,17 +41,17 @@
   },
   {
     "time": "07:00",
-    "quote_first": "\"Seven o'clock, already\", he said to himself when the clock struck again, \"",
+    "quote_first": "\"",
     "quote_time_case": "seven o'clock",
-    "quote_last": ", and there's still a fog like this.\"",
+    "quote_last": ", already\", he said to himself when the clock struck again, \"seven o'clock, and there's still a fog like this.\"",
     "title": "Metamorphosis ",
     "author": "Franz Kafka"
   },
   {
     "time": "07:00",
-    "quote_first": "I had left directions that I was to be called at seven; for it was plain that I must see Wemmick before seeing any one else, and equally plain that this was a case in which his Walworth sentiments, only, could be taken. It was a relief to get out of the room where the night had been so miserable, and I needed no second knocking at the door to startle me from my uneasy bed",
+    "quote_first": "I had left directions that I was to be called ",
     "quote_time_case": "At seven",
-    "quote_last": "eft directions that I was to be called at seven; for it was plain that I must see Wemmick before seeing any one else, and equally plain that this was a case in which his Walworth sentiments, only, could be taken. It was a relief to get out of the room where the night had been so miserable, and I needed no second knocking at the door to startle me from my uneasy bed.",
+    "quote_last": "; for it was plain that I must see Wemmick before seeing any one else, and equally plain that this was a case in which his Walworth sentiments, only, could be taken. It was a relief to get out of the room where the night had been so miserable, and I needed no second knocking at the door to startle me from my uneasy bed.",
     "title": "Great Expectations",
     "author": "Charles Dickens"
   }

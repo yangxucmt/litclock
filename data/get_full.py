@@ -19,7 +19,9 @@ with open('litclock_annotated.csv', 'r') as csvfile:
             #print(f"Found '{string}' in row: {row}")
             indicator=True
     if indicator:
-        string_records.append(row)
+        newrow=[cell.replace('Mr.','Mr') for cell in row]
+        newrow=[cell.replace('<br>',' ') for cell in newrow]
+        string_records.append(newrow)
 
 with open('litclock_annotated_br2.csv', 'r') as csvfile:
   # Create a reader object
@@ -35,10 +37,12 @@ with open('litclock_annotated_br2.csv', 'r') as csvfile:
 
     if indicator:
         for circlerow in string_records:
-            if (circlerow[1]==row[1])&(circlerow[2]==row[2])&(circlerow[4]==row[4]):
+            newrow=[cell.replace('Mr.','Mr') for cell in row]
+            newrow=[cell.replace('<br>',' ') for cell in newrow]
+            if (circlerow[1]==newrow[1])&(circlerow[2]==newrow[2])&(circlerow[4]==newrow[4]):
                 duplicate=False
         if duplicate:
-            string_records.append(row)
+            string_records.append(newrow)
 
 
 with open('Fx9.csv', 'r') as csvfile:
@@ -57,10 +61,12 @@ with open('Fx9.csv', 'r') as csvfile:
 
     if indicator:
         for circlerow in string_records:
-            if (circlerow[1]==row[1])&(circlerow[2]==row[2])&(circlerow[4]==row[4]):
+            newrow=[cell.replace('Mr.','Mr') for cell in row]  
+            newrow=[cell.replace('<br>',' ') for cell in newrow]
+            if (circlerow[1]==newrow[1])&(circlerow[2]==newrow[2])&(circlerow[4]==newrow[4]):
                 duplicate=False
         if duplicate:
-            string_records.append(row)
+            string_records.append(newrow)
 
 with open('litclock_annotated_ver.csv', 'r') as csvfile:
   # Create a reader object
@@ -78,10 +84,12 @@ with open('litclock_annotated_ver.csv', 'r') as csvfile:
 
     if indicator:
         for circlerow in string_records:
-            if (circlerow[1]==row[1])&(circlerow[2]==row[2])&(circlerow[4]==row[4]):
+            newrow=[cell.replace('Mr.','Mr') for cell in row]
+            newrow=[cell.replace('<br>',' ') for cell in newrow]
+            if (circlerow[1]==newrow[1])&(circlerow[2]==newrow[2])&(circlerow[4]==newrow[4]):
                 duplicate=False
         if duplicate:
-            string_records.append(row)
+            string_records.append(newrow)
 
 sorted_data = sorted(string_records, key=lambda x: x[0])
 

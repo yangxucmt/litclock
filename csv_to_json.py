@@ -23,7 +23,8 @@ with open('./data/lit_full.csv', 'r') as csvfile:
     if indicator:
         quote_time=row[1]
         quote=row[2]
-        start_index=quote.find(quote_time)
+        quotetemp=quote.lower()
+        start_index=quotetemp.find(quote_time.lower())
         quote_first=quote[:start_index]
         quote_last=quote[start_index+len(quote_time):]
         data={

@@ -3,7 +3,7 @@
     "time": "16:00",
     "quote_first": "I followed his gaze to the mantelpiece. The clock had stopped at ",
     "quote_time_case": "four o’clock",
-    "quote_last": ".<br>“Mon ami, someone has tampered with it. It had still three days to run. It is an eight-day clock, you comprehend?”<br>“But what should they want to do that for? Some idea of a false scent by making the crime appear to have taken place at four o’clock?”",
+    "quote_last": ". “Mon ami, someone has tampered with it. It had still three days to run. It is an eight-day clock, you comprehend?” “But what should they want to do that for? Some idea of a false scent by making the crime appear to have taken place at four o’clock?”",
     "title": "The Big Four",
     "author": "Agatha Christie"
   },
@@ -27,7 +27,7 @@
     "time": "16:00",
     "quote_first": "“At ",
     "quote_time_case": "four o’clock",
-    "quote_last": ", therefore, we may expect this peace-making gentleman,\" said Mr. Bennet, as he folded up the letter.",
+    "quote_last": ", therefore, we may expect this peace-making gentleman,\" said Mr Bennet, as he folded up the letter.",
     "title": "Pride and Prejudice",
     "author": "Jane Austen"
   },
@@ -49,9 +49,9 @@
   },
   {
     "time": "16:00",
-    "quote_first": "“If you should have no objection to receive me into your house,<br>I propose myself the satisfaction of waiting on you and your family,<br>Monday, November 18th, by ",
+    "quote_first": "“If you should have no objection to receive me into your house, I propose myself the satisfaction of waiting on you and your family, Monday, November 18th, by ",
     "quote_time_case": "four o’clock",
-    "quote_last": ", and shall probably trespass<br>on your hospitality till the Saturday se’ennight following, which I can<br>do without any inconvenience, as Lady Catherine is far from objecting<br>to my occasional absence on a Sunday, provided that some other clergyman is engaged to do the duty of the day.”",
+    "quote_last": ", and shall probably trespass on your hospitality till the Saturday se’ennight following, which I can do without any inconvenience, as Lady Catherine is far from objecting to my occasional absence on a Sunday, provided that some other clergyman is engaged to do the duty of the day.”",
     "title": "Pride and Prejudice",
     "author": "Jane Austen"
   },
@@ -153,14 +153,6 @@
   },
   {
     "time": "16:00",
-    "quote_first": "“If you should have no objection to receive me into your house, I propose myself the satisfaction of waiting on you and your family, Monday, November 18th, by ",
-    "quote_time_case": "four o’clock",
-    "quote_last": ", and shall probably trespass on your hospitality till the Saturday se’ennight following, which I can do without any inconvenience, as Lady Catherine is far from objecting to my occasional absence on a Sunday, provided that some other clergyman is engaged to do the duty of the day.”",
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen"
-  },
-  {
-    "time": "16:00",
     "quote_first": "“Later in the morning, and just as the girls were going to separate in preparation for the regular ",
     "quote_time_case": "four o’clock",
     "quote_last": " dinner, the hero of this inimitable charade walked in again.”",
@@ -193,9 +185,9 @@
   },
   {
     "time": "16:00",
-    "quote_first": "Miss Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. Four? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said",
+    "quote_first": "Miss Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. ",
     "quote_time_case": "four",
-    "quote_last": "s Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. Four? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said.",
+    "quote_last": "? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said.",
     "title": "Ulysses ",
     "author": "James Joyce"
   }

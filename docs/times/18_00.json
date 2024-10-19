@@ -1,7 +1,7 @@
 [
   {
     "time": "18:00",
-    "quote_first": "Sometimes the manager would play the role of a customer and test them with questions. Then came the employees’ meal: waiters in this restaurant were not going to have growling stomachs as they took their customers’ order!<br>The restaurant opened its doors at ",
+    "quote_first": "Sometimes the manager would play the role of a customer and test them with questions. Then came the employees’ meal: waiters in this restaurant were not going to have growling stomachs as they took their customers’ order! The restaurant opened its doors at ",
     "quote_time_case": "six o’clock",
     "quote_last": ", but guests were slow to arrive  because of the downpour, and several reservations were simply canceled.",
     "title": "Blind Willow, Sleeping Woman",
@@ -9,7 +9,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "But what was my original self? I couldn’t be sure anymore. I couldn’t help feeling that it was another me, another self that strongly resembled my original self. So now what was I to do? I had lost all sense of direction. I shoved my hand into my pocket and fed every piece of change I found there into a pay phone. Eight rings. Nine. And then she answered.<br>“I was sleeping,” she said with a yawn.<br>“At ",
+    "quote_first": "But what was my original self? I couldn’t be sure anymore. I couldn’t help feeling that it was another me, another self that strongly resembled my original self. So now what was I to do? I had lost all sense of direction. I shoved my hand into my pocket and fed every piece of change I found there into a pay phone. Eight rings. Nine. And then she answered. “I was sleeping,” she said with a yawn. “At ",
     "quote_time_case": "six o’clock in the evening",
     "quote_last": "?”",
     "title": "Blind Willow, Sleeping Woman",
@@ -17,7 +17,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "“Good-evening, Mr. James Windibank,” said Holmes. “I think that this typewritten letter is from you, in which you made an appointment with me for ",
+    "quote_first": "“Good-evening, Mr James Windibank,” said Holmes. “I think that this typewritten letter is from you, in which you made an appointment with me for ",
     "quote_time_case": "six o’clock",
     "quote_last": "?”",
     "title": "The Adventures of Sherlock Holmes",
@@ -73,35 +73,19 @@
   },
   {
     "time": "18:00",
-    "quote_first": "Oh oh oh. Six o'clock and the master not home yet",
+    "quote_first": "Oh oh oh. ",
     "quote_time_case": "six o'clock",
-    "quote_last": "Six o'clock and the master not home yet.",
+    "quote_last": " and the master not home yet.",
     "title": "The Skin of our Teeth",
     "author": "Thornton Wilder"
   },
   {
     "time": "18:00",
-    "quote_first": "The winter evening settles down With smell of steaks in passageways. Six o'clock",
+    "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
     "quote_time_case": "six o'clock",
-    "quote_last": " evening settles down With smell of steaks in passageways. Six o'clock.",
+    "quote_last": ".",
     "title": "Preludes",
     "author": "T.S. Eliot"
-  },
-  {
-    "time": "18:00",
-    "quote_first": "Sometimes the manager would play the role of a customer and test them with questions. Then came the employees’ meal: waiters in this restaurant were not going to have growling stomachs as they took their customers’ order! The restaurant opened its doors at ",
-    "quote_time_case": "six o’clock",
-    "quote_last": ", but guests were slow to arrive  because of the downpour, and several reservations were simply canceled.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "18:00",
-    "quote_first": "But what was my original self? I couldn’t be sure anymore. I couldn’t help feeling that it was another me, another self that strongly resembled my original self. So now what was I to do? I had lost all sense of direction. I shoved my hand into my pocket and fed every piece of change I found there into a pay phone. Eight rings. Nine. And then she answered. “I was sleeping,” she said with a yawn. “At ",
-    "quote_time_case": "six o’clock in the evening",
-    "quote_last": "?”",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "18:00",
@@ -121,9 +105,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "The winter evening settles down With smell of steaks in passageways. Six o'clock",
+    "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
     "quote_time_case": "six o'clock",
-    "quote_last": " evening settles down With smell of steaks in passageways. Six o'clock.",
+    "quote_last": ".",
     "title": "Preludes ",
     "author": "T S Eliot"
   }

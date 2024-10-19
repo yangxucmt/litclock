@@ -19,7 +19,7 @@
     "time": "15:00",
     "quote_first": "At ",
     "quote_time_case": "three o’clock on the afternoon",
-    "quote_last": " there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr. Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood. His expression was downcast, and his bearing meek and even apologetic.",
+    "quote_last": " there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood. His expression was downcast, and his bearing meek and even apologetic.",
     "title": "The Sign of Four",
     "author": "Sir Arthur Conan Doyle"
   },
@@ -97,9 +97,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already",
+    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? ",
     "quote_time_case": "three",
-    "quote_last": "the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already!",
+    "quote_last": ", good Heavens! Three already!",
     "title": "Mrs. Dalloway",
     "author": "Virginia Woolf"
   },
@@ -123,7 +123,7 @@
     "time": "15:00",
     "quote_first": "It was ",
     "quote_time_case": "three o'clock",
-    "quote_last": " in the beautiful breezy autumn day when Mr. Casaubon drove off to his Rectory at Lowick, only five miles from Tipton; and Dorothea, who had on her bonnet and shawl, hurried along the shrubbery and across the park that she might wander through the bordering wood with no other visible companionship than that of Monk, the Great St. Bernard dog, who always took care of the young ladies in their walks",
+    "quote_last": " in the beautiful breezy autumn day when Mr Casaubon drove off to his Rectory at Lowick, only five miles from Tipton; and Dorothea, who had on her bonnet and shawl, hurried along the shrubbery and across the park that she might wander through the bordering wood with no other visible companionship than that of Monk, the Great St. Bernard dog, who always took care of the young ladies in their walks",
     "title": "Middlemarch",
     "author": "George Eliot"
   },
@@ -145,9 +145,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "The scent and smoke and sweat of a casino are nauseating at three in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it",
+    "quote_first": "The scent and smoke and sweat of a casino are nauseating ",
     "quote_time_case": "At three",
-    "quote_last": "nt and smoke and sweat of a casino are nauseating at three in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it.",
+    "quote_last": " in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it.",
     "title": "Casino Royale",
     "author": "Ian Fleming"
   },
@@ -209,9 +209,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already",
+    "quote_first": "And the sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! ",
     "quote_time_case": "three ",
-    "quote_last": "he sound of the bell flooded the room with its melancholy wave; which receded, and gathered itself together to fall once more, when she heard, distractedly, something fumbling, something scratching at the door. Who at this hour? Three, good Heavens! Three already!",
+    "quote_last": "already!",
     "title": "Mrs Dalloway",
     "author": "Virginia Woolf"
   },
@@ -225,17 +225,17 @@
   },
   {
     "time": "15:00",
-    "quote_first": "Ditched by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed at three in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr",
+    "quote_first": "Ditched by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed ",
     "quote_time_case": "At three",
-    "quote_last": " by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed at three in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr.",
+    "quote_last": " in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr.",
     "title": "Essays in Love ",
     "author": "Alain de Botton"
   },
   {
     "time": "15:00",
-    "quote_first": "Three o'clock is always too late or too early for anything you want to do",
+    "quote_first": "",
     "quote_time_case": "three o'clock",
-    "quote_last": "k is always too late or too early for anything you want to do.",
+    "quote_last": " is always too late or too early for anything you want to do.",
     "title": "Nausea ",
     "author": "Jean-Paul Sartre"
   }

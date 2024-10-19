@@ -1,7 +1,7 @@
 [
   {
     "time": "02:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes:<br>“There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about ",
+    "quote_first": "“My dear Mr Sherlock Holmes: “There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about ",
     "quote_time_case": "two in the morning",
     "quote_last": ", and as the house was an empty one, suspected that something was amiss.”",
     "title": "A Study in Scarlet",
@@ -54,14 +54,6 @@
     "quote_last": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky"
-  },
-  {
-    "time": "02:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes: “There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about ",
-    "quote_time_case": "two in the morning",
-    "quote_last": ", and as the house was an empty one, suspected that something was amiss.”",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle"
   },
   {
     "time": "02:00",

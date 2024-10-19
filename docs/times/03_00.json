@@ -49,9 +49,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "I looked around the room again. As always, the room was clean and orderly. <br>“People think of all kinds of things at ",
+    "quote_first": "I looked around the room again. As always, the room was clean and orderly.  “People think of all kinds of things at ",
     "quote_time_case": "three in the morning",
-    "quote_last": ". We all do. That’s why we each have to figure out our own way of fighting it off.”<br>“You’re probably right,” I said.",
+    "quote_last": ". We all do. That’s why we each have to figure out our own way of fighting it off.” “You’re probably right,” I said.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -59,7 +59,7 @@
     "time": "03:00",
     "quote_first": "“Even animals think things over at ",
     "quote_time_case": "three a.m.",
-    "quote_last": ",” he said, as if remembering something. “Have you ever gone to the zoo at three a.m.?”<br>“No,” I answered vaguely. “No, of course not.”",
+    "quote_last": ",” he said, as if remembering something. “Have you ever gone to the zoo at three a.m.?” “No,” I answered vaguely. “No, of course not.”",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -201,27 +201,11 @@
   },
   {
     "time": "03:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes: “There has been a bad business during the night at ",
+    "quote_first": "“My dear Mr Sherlock Holmes: “There has been a bad business during the night at ",
     "quote_time_case": "3",
     "quote_last": ", Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss.”",
     "title": "A Study in Scarlet",
     "author": "Sir Arthur Conan Doyle"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "I looked around the room again. As always, the room was clean and orderly.  “People think of all kinds of things at ",
-    "quote_time_case": "three in the morning",
-    "quote_last": ". We all do. That’s why we each have to figure out our own way of fighting it off.” “You’re probably right,” I said.",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "“Even animals think things over at ",
-    "quote_time_case": "three a.m.",
-    "quote_last": ",” he said, as if remembering something. “Have you ever gone to the zoo at three a.m.?” “No,” I answered vaguely. “No, of course not.”",
-    "title": "Blind Willow, Sleeping Woman",
-    "author": "Haruki Murakami"
   },
   {
     "time": "03:00",
@@ -249,9 +233,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "But at three o’clock in the morning, a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day",
+    "quote_first": "But ",
     "quote_time_case": "At three o’clock in the morning",
-    "quote_last": "rning, a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
+    "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
     "title": "The Crack-Up ",
     "author": "F. Scott Fitzgerald"
   },
@@ -302,5 +286,13 @@
     "quote_last": " milk-switches? It doesn't ring true, Jim.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace"
+  },
+  {
+    "time": "03:00",
+    "quote_first": "Fyodor Pavlovich went to bed very late, at ",
+    "quote_time_case": "about three or four o'clock",
+    "quote_last": " in the morning, and until then would pace around the room or sit in his armchair and think.",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
   }
 ]
