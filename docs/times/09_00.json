@@ -3,7 +3,7 @@
     "time": "09:00",
     "quote_first": "He’d woken up at ",
     "quote_time_case": "nine",
-    "quote_last": ", worked for a while in his room, and then said he felt sleepy. He went to the kitchen, made some coffee, and drank it. But the coffee didn’t help. <br/> “I think I’ll take a nap,” he said. “I hear a buzzing sound in the back of my head.” Those were his last words. He curled up in bed, went to sleep, and never woke up again.",
+    "quote_last": ", worked for a while in his room, and then said he felt sleepy. He went to the kitchen, made some coffee, and drank it. But the coffee didn’t help.   “I think I’ll take a nap,” he said. “I hear a buzzing sound in the back of my head.” Those were his last words. He curled up in bed, went to sleep, and never woke up again.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami"
   },
@@ -121,14 +121,6 @@
   },
   {
     "time": "09:00",
-    "quote_first": "To where Saint Mary Woolnoth kept the hours<br/>With a dead sound on the final stroke of ",
-    "quote_time_case": "nine",
-    "quote_last": ".",
-    "title": "The Waste Land",
-    "author": "T.S. Eliot"
-  },
-  {
-    "time": "09:00",
     "quote_first": "He’d woken up at ",
     "quote_time_case": "nine",
     "quote_last": ", worked for a while in his room, and then said he felt sleepy. He went to the kitchen, made some coffee, and drank it. But the coffee didn’t help. “I think I’ll take a nap,” he said. “I hear a buzzing sound in the back of my head.” Those were his last words. He curled up in bed, went to sleep, and never woke up again.",
@@ -196,7 +188,7 @@
     "quote_first": "On the third morning after their arrival, just as all the clocks in the city were striking ",
     "quote_time_case": "nine ",
     "quote_last": "individually, and somewhere about nine hundred and ninety-nine collectively, Sam was taking the air in George Yard, when a queer sort of fresh painted vehicle drove up, out of which there jumped with great agility, throwing the reins to a stout man who sat beside him, a queer sort of gentleman, who seemed made for the vehicle, and the vehicle for him.",
-    "title": "The Pickwick Papers ",
+    "title": "The Pickwick Papers",
     "author": "Charles Dickens"
   },
   {
@@ -212,7 +204,7 @@
     "quote_first": "At ",
     "quote_time_case": "nine o'clock",
     "quote_last": ", one morning late in July, Gatsby's gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn",
-    "title": "The Great Gatsby ",
+    "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald"
   },
   {
@@ -220,7 +212,7 @@
     "quote_first": "The clock struck ",
     "quote_time_case": "nine ",
     "quote_last": "when I did send the nurse; In half an hour she promised to return. Perchance she cannot meet him: that's not so.",
-    "title": "Romeo and Juliet ",
+    "title": "Romeo and Juliet",
     "author": "Shakespeare"
   },
   {
@@ -228,15 +220,15 @@
     "quote_first": "To where Saint Mary Woolnoth kept the hours With a dead sound on the final stroke of ",
     "quote_time_case": "nine",
     "quote_last": ".",
-    "title": "The Waste Land ",
-    "author": "T S Eliot"
+    "title": "The Waste Land",
+    "author": "T. S. Eliot"
   },
   {
     "time": "09:00",
     "quote_first": "Unreal City, Under the brown fog of a winter dawn, A crowd flowed over London Bridge, so many, I had not thought death had undone so many. Sighs, short and infrequent, were exhaled, And each man fixed his eyes before his feet. Flowed up the hill and down King William Street, To where Saint Mary Woolnoth kept the hours With a dead sound on the final stroke of ",
     "quote_time_case": "nine",
     "quote_last": ".",
-    "title": "The Waste Land ",
-    "author": "T S Eliot"
+    "title": "The Waste Land",
+    "author": "T. S. Eliot"
   }
 ]

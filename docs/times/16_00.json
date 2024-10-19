@@ -27,7 +27,7 @@
     "time": "16:00",
     "quote_first": "“At ",
     "quote_time_case": "four o’clock",
-    "quote_last": ", therefore, we may expect this peace-making gentleman,\" said Mr Bennet, as he folded up the letter.",
+    "quote_last": ", therefore, we may expect this peace-making gentleman,\" said Mr.. Bennet, as he folded up the letter.",
     "title": "Pride and Prejudice",
     "author": "Jane Austen"
   },
@@ -67,7 +67,7 @@
     "time": "16:00",
     "quote_first": "“Think of me to-morrow, my dear Emma, about ",
     "quote_time_case": "four o’clock",
-    "quote_last": ",” was Mrs. Weston’s parting injunction; spoken with some anxiety, and meant only for her.",
+    "quote_last": ",” was Mr.s. Weston’s parting injunction; spoken with some anxiety, and meant only for her.",
     "title": "Emma",
     "author": "Jane Austen"
   },
@@ -163,7 +163,7 @@
     "time": "16:00",
     "quote_first": "“’Think of me to-morrow, my dear Emma, about ",
     "quote_time_case": "four o’clock",
-    "quote_last": ",” was Mrs. Weston’s parting injunction; spoken with some anxiety, and meant only for her.\"",
+    "quote_last": ",” was Mr.s. Weston’s parting injunction; spoken with some anxiety, and meant only for her.\"",
     "title": "Emma",
     "author": "Jane Austen"
   },
@@ -180,7 +180,7 @@
     "quote_first": "In the four thousand rooms of the Centre the four thousand electric clocks simultaneously ",
     "quote_time_case": "struck four",
     "quote_last": ". Discarnate voices called from the trumpet mouths. \"Main Day-shift off duty. Second Day-shift take over. Main Day-shift off …\"",
-    "title": "Brave New World ",
+    "title": "Brave New World",
     "author": "Aldous Huxley"
   },
   {
@@ -188,7 +188,7 @@
     "quote_first": "Miss Douce took Boylan's coin, struck boldly the cashregister. It clanged. Clock clacked. Fair one of Egypt teased and sorted in the till and hummed and handed coins in change. Look to the west. A clack. For me. —What time is that? asked Blazes Boylan. ",
     "quote_time_case": "four",
     "quote_last": "? O'clock. Lenehan, small eyes ahunger on her humming, bust ahumming, tugged Blazes Boylan's elbowsleeve. —Let's hear the time, he said.",
-    "title": "Ulysses ",
+    "title": "Ulysses",
     "author": "James Joyce"
   }
 ]

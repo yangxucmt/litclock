@@ -19,7 +19,7 @@
     "time": "14:00",
     "quote_first": "It’s only ",
     "quote_time_case": "two o’clock",
-    "quote_last": ". She left the office early, telling Dr. Van Vleet she felt she was coming down with something. Really it’s Nate who is coming down with something: he phones from his house, nasal, forlorn, he has to see her.",
+    "quote_last": ". She left the office early, telling Dr.. Van Vleet she felt she was coming down with something. Really it’s Nate who is coming down with something: he phones from his house, nasal, forlorn, he has to see her.",
     "title": "Life Before Man",
     "author": "Margaret Atwood"
   },
@@ -83,7 +83,7 @@
     "time": "14:00",
     "quote_first": "It’s only ",
     "quote_time_case": "two o’clock",
-    "quote_last": ". She left the office early, telling Dr. Van Vleet she felt she was coming down with something. Really it’s Nate who is coming down with something: he phones from his house, nasal, forlorn, he has to see her. ",
+    "quote_last": ". She left the office early, telling Dr.. Van Vleet she felt she was coming down with something. Really it’s Nate who is coming down with something: he phones from his house, nasal, forlorn, he has to see her. ",
     "title": "Life Before Man",
     "author": "Margaret Atwood"
   },
@@ -92,7 +92,7 @@
     "quote_first": "\"The old people's home is at Marengo, fifty miles from Algiers. I'll catch the ",
     "quote_time_case": "two o'clock",
     "quote_last": " bus and get there in the afternoon.\".... \"I caught the two o'clock bus. It was very hot.\"",
-    "title": "The Outsider ",
+    "title": "The Outsider",
     "author": "Albert Camus"
   },
   {
@@ -100,7 +100,7 @@
     "quote_first": "I caught the ",
     "quote_time_case": "two o'clock",
     "quote_last": " bus. It was very hot. I ate at Céleste's restaurant as usual. They all felt very sorry for me and Céleste told me, 'There's no one like a mother'.",
-    "title": "The Outsider ",
+    "title": "The Outsider",
     "author": "Albert Camus"
   }
 ]

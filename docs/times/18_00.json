@@ -17,7 +17,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "“Good-evening, Mr James Windibank,” said Holmes. “I think that this typewritten letter is from you, in which you made an appointment with me for ",
+    "quote_first": "“Good-evening, Mr.. James Windibank,” said Holmes. “I think that this typewritten letter is from you, in which you made an appointment with me for ",
     "quote_time_case": "six o’clock",
     "quote_last": "?”",
     "title": "The Adventures of Sherlock Holmes",
@@ -65,9 +65,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "King Richard: What is o'clock?<br/>Catesby: It is ",
+    "quote_first": "King Richard: What is o'clock? Catesby: It is ",
     "quote_time_case": "six o'clock",
-    "quote_last": ", full supper time.<br/>King Richard: I will not sup tonight. Give me some ink and paper.",
+    "quote_last": ", full supper time. King Richard: I will not sup tonight. Give me some ink and paper.",
     "title": "Richard III",
     "author": "William Shakespeare"
   },
@@ -81,14 +81,6 @@
   },
   {
     "time": "18:00",
-    "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
-    "quote_time_case": "six o'clock",
-    "quote_last": ".",
-    "title": "Preludes",
-    "author": "T.S. Eliot"
-  },
-  {
-    "time": "18:00",
     "quote_first": "“You are remarkable, aren’t you!” Amory was becoming trite from where he perched in the centre of the dining-room table one ",
     "quote_time_case": "six o’clock",
     "quote_last": ".\"",
@@ -97,18 +89,10 @@
   },
   {
     "time": "18:00",
-    "quote_first": "King Richard: What is o'clock? Catesby: It is ",
-    "quote_time_case": "six o'clock",
-    "quote_last": ", full supper time. King Richard: I will not sup tonight. Give me some ink and paper.",
-    "title": "Richard III ",
-    "author": "William Shakespeare"
-  },
-  {
-    "time": "18:00",
     "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
     "quote_time_case": "six o'clock",
     "quote_last": ".",
-    "title": "Preludes ",
-    "author": "T S Eliot"
+    "title": "Preludes",
+    "author": "T. S. Eliot"
   }
 ]

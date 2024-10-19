@@ -145,7 +145,7 @@
   },
   {
     "time": "10:00",
-    "quote_first": "King Richard: Well, but what's o'clock?<br/>Buckingham: Upon the stroke of ",
+    "quote_first": "King Richard: Well, but what's o'clock? Buckingham: Upon the stroke of ",
     "quote_time_case": "ten",
     "quote_last": ".",
     "title": "Richard III",
@@ -212,7 +212,7 @@
     "quote_first": "––In assaying to put on his regimental coat and waistcoat, my uncle Toby found the same objection in his wig, ––so that went off too: ––So that with one thing and what with another, as always falls out when a man is in the most haste, ––'twas ",
     "quote_time_case": "ten o'clock",
     "quote_last": ", which was half an hour later than his usual time before my uncle Toby sallied out.",
-    "title": "Tristram Shandy ",
+    "title": "Tristram Shandy",
     "author": "Laurence Sterne"
   },
   {
@@ -220,7 +220,7 @@
     "quote_first": "For some seconds the light went on becoming brighter and brighter, and she saw everything more and more clearly and the clock ticked louder and louder until there was a terrific explosion right in her ear. Orlando leapt as if she had been violently struck on the head. ",
     "quote_time_case": "ten ",
     "quote_last": "times she was struck. In fact it was ten o'clock in the morning. It was the eleventh of October. It was 1928. It was the present moment.",
-    "title": "Orlando ",
+    "title": "Orlando",
     "author": "Virginia Woolf"
   },
   {
@@ -228,23 +228,15 @@
     "quote_first": "According to military records no US bombers or any other kind of aircraft were flying over that region at the time, that is around ",
     "quote_time_case": "10 am",
     "quote_last": " on November 7,1944.",
-    "title": "Kafka on the shore ",
+    "title": "Kafka on the shore",
     "author": "Haruki Murakami"
-  },
-  {
-    "time": "10:00",
-    "quote_first": "King Richard: Well, but what's o'clock? Buckingham: Upon the stroke of ",
-    "quote_time_case": "ten",
-    "quote_last": ".",
-    "title": "Richard III ",
-    "author": "William Shakespeare"
   },
   {
     "time": "10:00",
     "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day's mitching. Each of us saved up sixpence. We were to meet ",
     "quote_time_case": "At ten",
     "quote_last": " in the morning on the Canal Bridge.",
-    "title": "Dubliners ",
+    "title": "Dubliners",
     "author": "James Joyce"
   }
 ]

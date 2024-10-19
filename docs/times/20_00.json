@@ -9,7 +9,7 @@
   },
   {
     "time": "20:00",
-    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter. “At what o’clock did Mr Drebber leave your house for the train?” I asked. “At ",
+    "quote_first": "The mother nodded. She didn’t seem able to get out a word. The daughter burst into tears. I felt more than ever that these people knew something of the matter. “At what o’clock did Mr.. Dr.ebber leave your house for the train?” I asked. “At ",
     "quote_time_case": "eight o’clock",
     "quote_last": ",” she said, gulping in her throat to keep down her agitation.",
     "title": "A Study in Scarlet",
@@ -41,7 +41,7 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“Mr Owen - unfortunately delayed - unable to get here till tomorrow. Instructions - everything they wanted - if they would like to go to their rooms?… dinner would be at ",
+    "quote_first": "“Mr.. Owen - unfortunately delayed - unable to get here till tomorrow. Instructions - everything they wanted - if they would like to go to their rooms?… dinner would be at ",
     "quote_time_case": "8 o’clock",
     "quote_last": "…”",
     "title": "And Then There Were None",
@@ -92,7 +92,7 @@
     "quote_first": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it. although until after ",
     "quote_time_case": "eight o'clock",
     "quote_last": " the apartment was full of cheerful sun.",
-    "title": "The Great Gatsby ",
+    "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald"
   },
   {
@@ -100,7 +100,7 @@
     "quote_first": "That day he forgot to go to dinner; he noticed the fact ",
     "quote_time_case": "At eight",
     "quote_last": " in the evening, and as it was too late to go to the Rue St Jaques, he ate a lump of bread.",
-    "title": "Les Miserables ",
+    "title": "Les Miserables",
     "author": "Victor Hugo"
   }
 ]

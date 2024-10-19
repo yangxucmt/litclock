@@ -201,7 +201,7 @@
   },
   {
     "time": "03:00",
-    "quote_first": "“My dear Mr Sherlock Holmes: “There has been a bad business during the night at ",
+    "quote_first": "“My dear Mr.. Sherlock Holmes: “There has been a bad business during the night at ",
     "quote_time_case": "3",
     "quote_last": ", Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss.”",
     "title": "A Study in Scarlet",
@@ -228,7 +228,7 @@
     "quote_first": "\"She died this morning, very early, about ",
     "quote_time_case": "three o'clock",
     "quote_last": ".\"",
-    "title": "The Voyage Out ",
+    "title": "The Voyage Out",
     "author": "Virginia Woolf"
   },
   {
@@ -236,7 +236,7 @@
     "quote_first": "But ",
     "quote_time_case": "At three o’clock in the morning",
     "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
-    "title": "The Crack-Up ",
+    "title": "The Crack-Up",
     "author": "F. Scott Fitzgerald"
   },
   {
@@ -244,7 +244,7 @@
     "quote_first": "In a real dark night of the soul it is always ",
     "quote_time_case": "3 o'clock",
     "quote_last": " in the morning.",
-    "title": "The Crack-Up ",
+    "title": "The Crack-Up",
     "author": "F. Scott Fitzgerald"
   },
   {
@@ -252,7 +252,7 @@
     "quote_first": "Roused from her sleep, Freya Gaines groped for the switch of the vidphone; groggily she found it and snapped it on. 'Lo,' she mumbled, wondering what time it was. She made out the luminous dial of the clock beside the bed. ",
     "quote_time_case": "Three AM.",
     "quote_last": " Good grief.",
-    "title": "The Game Players of Titan ",
+    "title": "The Game Players of Titan",
     "author": "Philip K Dick"
   },
   {
@@ -260,7 +260,7 @@
     "quote_first": "Schact clears his mouth and swallows mightily. 'Tavis can't even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee's been dragging along since may. Suddenly they're pulling secret ",
     "quote_time_case": "0300",
     "quote_last": " milk-switches? It doesn't ring true, Jim.",
-    "title": "Infinite Jest ",
+    "title": "Infinite Jest",
     "author": "David Foster Wallace"
   },
   {
@@ -268,7 +268,7 @@
     "quote_first": "What's the time?\" said the man, eyeing George up and down with evident suspicion; \"why, if you listen you will hear it strike.\" George listened, and a neighbouring clock immediately obliged. \"But it's only gone ",
     "quote_time_case": "three",
     "quote_last": "!\" said George in an injured tone, when it had finished.",
-    "title": "Three Men in a Boat ",
+    "title": "Three Men in a Boat",
     "author": "Jerome K Jerome"
   },
   {
@@ -276,7 +276,7 @@
     "quote_first": "You hearken, Missy. It’s ",
     "quote_time_case": "three o’clock",
     "quote_last": " in the morning and I’ve got all my faculties as well as ever I had in my life. I know all my property and where the money’s put out. And I’ve made everything ready to change my mind, and do as I like at the last. Do you hear, Missy? I’ve got my faculties.”",
-    "title": "Middlemarch ",
+    "title": "Middlemarch",
     "author": "George Eliot"
   },
   {
