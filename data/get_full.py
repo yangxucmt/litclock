@@ -1,7 +1,7 @@
 import json
 import csv
 
-replacement_pair=[['<br>',' '],['<br/>',' '],['Mr','Mr.'],['Dr','Dr.'],['T S Eliot','T. S. Eliot'],['le Carré','Le Carré'],['Le Carre','Le Carré']]
+replacement_pair=[['<br>',' '],['<br/>',' '],['Mr ','Mr. '],['Dr ','Dr. '],['T S Eliot','T. S. Eliot'],['le Carré','Le Carré'],['Le Carre','Le Carré']]
 with open('white.csv','r') as csvfile:
     csvreader=csv.reader(csvfile)
     whitelist=[row for row in csvreader]
