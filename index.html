@@ -100,6 +100,13 @@
 
             });
         }
+        function updateTime() {
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const timeString = `${hours}:${minutes}`;
+            document.getElementById('time').textContent = timeString;
+        }
         function startTime(sfw) {
             // This code runs every second
             // could be optimized to check time in miliseconds and set timeout to when minute will change next time.
@@ -143,6 +150,16 @@
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10
             return i;
         }
+        function updateTimedisplay() {
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const timeString = `${hours}:${minutes}`;
+            document.getElementById('current-time').textContent = timeString;
+        }
+
+        // Update the time every second
+        setInterval(updateTime, 1000);
     </script>
     <link rel="stylesheet" href="styles.css">
     <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet'>
@@ -171,16 +188,16 @@
         </div>
         <span id="based_on">
             Based on works by
-            <a href="http://www.eerlijkemedia.nl/">Jaap Meijers</a>,
+            <a href="http://www.eerlijkemedia.nl/">Jaap Meijers</a> (
+            <a href="https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/">E-reader clock</a>),
             <a href="http://litclock.mohawkhq.com/">The Guardian</a> and
             <a href="https://github.com/JohannesNE/literature-clock">Johannes Enevoldsen</a>
         </span>
-        <div id="Dedication">
-            <a>This is a birthday gift for my Ni</a>
-        </div>
+
         <span>
             <a id="toggle-theme" onclick="toggle_theme()" href="#">Dark Theme</a>
-        </span>
+            <a id="current-time" onclick="updateTimedisplay()" href="#">Show time</a>
+        </span>   
     </div>
 
 
