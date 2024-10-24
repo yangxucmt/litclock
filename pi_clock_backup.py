@@ -17,11 +17,10 @@ import logging
 from datetime import datetime
 logging.basicConfig(level=logging.WARNING)
 log = logging.getLogger(__name__)
-FONT="Times"
 
 myStyleSheet="""QWidget{ background-color: rgb(255,248,231); border-radius: 0px; color: gray;}
-QPushButton{ border: 1px solid gray; color: gray; border-radius: 5px;background-color: rgb(224,220,220);padding-top: 5px;padding-bottom: 5px}
-QTextEdit{background-color: rgb(255,248,231);}
+QPushButton{ border: 1px solid gray; color: gray; border-radius: 5px;background-color: rgb(204,186,186);padding-top: 5px;padding-bottom: 5px}
+QTextEdit{background-color: rgb(224,220,220);}
 QPushButton:checked { background-color: cyan;}
 QPushButton:pressed{ background-color: black;}
 """
@@ -77,7 +76,7 @@ class clockWidget(QWidget):
         self.setStyleSheet(myStyleSheet)
         vlayout=QVBoxLayout()
         self.font = QFont()
-        self.font.setFamily(FONT)
+        self.font.setFamily("Times")
         self.font.setPointSize(self.default_quote_font_size)
         self.font.setBold(False)
         self.font.setWeight(50)
@@ -100,7 +99,7 @@ class clockWidget(QWidget):
         self.authLabel=QTextEdit()
         self.authLabel.setFixedSize(680, 81)
         self.fonta = QFont()
-        self.fonta.setFamily(FONT)
+        self.fonta.setFamily("Times")
         self.fonta.setPointSize(self.default_author_font_size)
         self.authLabel.setFont(self.fonta)
         self.authLabel.setObjectName("authorLabel")

@@ -100,7 +100,7 @@ with open('litclock_annotated_ver.csv', 'r') as csvfile:
 sorted_data = sorted(string_records, key=lambda x: x[0])
 
 
-with open('lit_full.csv', mode='w', newline='') as file:
+with open('lit_full_backup.csv', mode='w', newline='') as file:
     writer = csv.writer(file, delimiter='|')
     writer.writerows(sorted_data)
 
